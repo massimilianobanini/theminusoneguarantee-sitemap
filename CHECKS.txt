@@ -1,0 +1,25 @@
+The -1 Guarantee — GitHub files verification report
+Generated: 2026-07-08
+
+SOURCE
+- Archive file parsed: Archive - The -1 Guarantee.html
+- Article preview blocks extracted: 175
+
+STRUCTURAL CHECKS
+- Unique URLs: 175/175
+- Duplicate URLs: 0
+- URLs with expected Substack /p/ prefix: 175/175
+- Titles present: 175/175
+- Subtitles present: 175/175
+- Datetime values present: 175/175
+- Date range: 2026-01-14 to 2026-07-08
+- Missing dates in continuous date range: 2026-02-03
+
+GENERATED FILE CHECKS
+- sitemap.txt URLs: 175
+- sitemap.xml parsed successfully: yes
+- All article URLs included in every generated public file: yes
+
+LIMITATION
+- These checks verify extraction, formatting, uniqueness, XML validity, and internal consistency.
+- They do not prove that every Substack URL returned HTTP 200 at generation time, because the runtime environment cannot perform 175 external live requests reliably.
