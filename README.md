@@ -7,15 +7,15 @@ This repository exposes a public, crawlable archive for **The -1 Guarantee** Sub
 - [`sitemap.xml`](https://massimilianobanini.github.io/theminusoneguarantee-sitemap/sitemap.xml) — XML sitemap with `loc` and `lastmod`.
 - [`sitemap.txt`](https://massimilianobanini.github.io/theminusoneguarantee-sitemap/sitemap.txt) — plain text sitemap, one URL per line.
 - [`archive.html`](https://massimilianobanini.github.io/theminusoneguarantee-sitemap/archive.html) — human- and bot-readable archive with publication date, title, subtitle, and URL.
-- [`llms.txt`](https://massimilianobanini.github.io/theminusoneguarantee-sitemap/llms.txt) — LLM-oriented summary and link list.
+- [`llms.txt`](https://massimilianobanini.github.io/theminusoneguarantee-sitemap/llms.txt) — LLM-oriented overview and recent links.
 - [`articles.json`](https://massimilianobanini.github.io/theminusoneguarantee-sitemap/articles.json) — structured article list.
 - [`articles.csv`](https://massimilianobanini.github.io/theminusoneguarantee-sitemap/articles.csv) — spreadsheet-friendly article list.
 
 ## Counts
 
-- Articles: **175**
+- Articles: **214**
 - First article: **2026-01-14**
-- Latest article: **2026-07-08**
+- Latest article: **2026-08-15**
 - Source publication: <https://theminusoneguarantee.substack.com/>
 
 ## Note

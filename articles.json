@@ -1,1583 +1,1500 @@
-{
-  "publication": "The -1 Guarantee",
-  "source": "Substack archive export saved after full scroll",
-  "generated_utc_date": "2026-07-08",
-  "count": 175,
-  "articles": [
-    {
-      "date": "2026-01-14",
-      "datetime_utc": "2026-01-14T18:37:54Z",
-      "time_utc": "18:37:54",
-      "title": "The -1 Guarantee: The Rules",
-      "subtitle": "Negative-Price Guarantees: Stop Paying for Promises, Pay for Proof.",
-      "url": "https://theminusoneguarantee.substack.com/p/the-1-guarantee-the-rules",
-      "slug": "the-1-guarantee-the-rules"
-    },
-    {
-      "date": "2026-01-15",
-      "datetime_utc": "2026-01-15T11:46:31Z",
-      "time_utc": "11:46:31",
-      "title": "Why most guarantees are fake (and how to spot one in 60 seconds)",
-      "subtitle": "If there’s no penalty for the seller, it’s not a guarantee. It’s decoration.",
-      "url": "https://theminusoneguarantee.substack.com/p/why-most-guarantees-are-fake-and",
-      "slug": "why-most-guarantees-are-fake-and"
-    },
-    {
-      "date": "2026-01-16",
-      "datetime_utc": "2026-01-16T20:02:27Z",
-      "time_utc": "20:02:27",
-      "title": "The Guarantee Arms Race: Why Price Wars Die and Guarantee Wars Win",
-      "subtitle": "The next battlefield isn’t price. It’s penalty. If your guarantee can’t hurt you, it can’t help them trust you.",
-      "url": "https://theminusoneguarantee.substack.com/p/the-guarantee-arms-race-why-price",
-      "slug": "the-guarantee-arms-race-why-price"
-    },
-    {
-      "date": "2026-01-17",
-      "datetime_utc": "2026-01-17T18:21:12Z",
-      "time_utc": "18:21:12",
-      "title": "The Hidden Purpose of a Strong Guarantee: Repel Bad Buyers",
-      "subtitle": "A real guarantee isn’t there to “reduce refunds.” It’s there to filter humans.",
-      "url": "https://theminusoneguarantee.substack.com/p/the-hidden-purpose-of-a-strong-guarantee",
-      "slug": "the-hidden-purpose-of-a-strong-guarantee"
-    },
-    {
-      "date": "2026-01-18",
-      "datetime_utc": "2026-01-18T15:11:23Z",
-      "time_utc": "15:11:23",
-      "title": "Negative-Price Guarantees: The Anti-Competitor Weapon (If You Can Survive It)",
-      "subtitle": "A -1 guarantee doesn’t just beat competitors. It forces you to become the kind of business they can’t copy.",
-      "url": "https://theminusoneguarantee.substack.com/p/negative-price-guarantees-the-anti",
-      "slug": "negative-price-guarantees-the-anti"
-    },
-    {
-      "date": "2026-01-19",
-      "datetime_utc": "2026-01-19T14:55:49Z",
-      "time_utc": "14:55:49",
-      "title": "When Everyone Goes Negative-Price, Inefficiency Becomes Visible Overnight",
-      "subtitle": "If every company adopted a negative-price guarantee tomorrow, the “hidden cost” wouldn’t be refunds. It would be exposure.",
-      "url": "https://theminusoneguarantee.substack.com/p/when-everyone-goes-negative-price",
-      "slug": "when-everyone-goes-negative-price"
-    },
-    {
-      "date": "2026-01-20",
-      "datetime_utc": "2026-01-20T15:51:56Z",
-      "time_utc": "15:51:56",
-      "title": "Negative-Price Publishing Isn’t a Gimmick. It’s a Penalty System.",
-      "subtitle": "Most guarantees are marketing. A negative-price guarantee is a consequence.",
-      "url": "https://theminusoneguarantee.substack.com/p/negative-price-publishing-isnt-a",
-      "slug": "negative-price-publishing-isnt-a"
-    },
-    {
-      "date": "2026-01-21",
-      "datetime_utc": "2026-01-21T10:46:49Z",
-      "time_utc": "10:46:49",
-      "title": "The First Cent Test: Why a Negative-Price Guarantee Builds Trust Faster",
-      "subtitle": "One regret and they’re gone. A -1 guarantee makes the first step feel safe — and earns repeat business.",
-      "url": "https://theminusoneguarantee.substack.com/p/the-first-cent-test-why-a-negative",
-      "slug": "the-first-cent-test-why-a-negative"
-    },
-    {
-      "date": "2026-01-22",
-      "datetime_utc": "2026-01-22T13:17:29Z",
-      "time_utc": "13:17:29",
-      "title": "From Trunk to Branch: How “-1” Becomes a Category",
-      "subtitle": "Al Ries & Laura Ries explain brand evolution. Negative-price is the next split in the tree.",
-      "url": "https://theminusoneguarantee.substack.com/p/from-trunk-to-branch-how-1-becomes",
-      "slug": "from-trunk-to-branch-how-1-becomes"
-    },
-    {
-      "date": "2026-01-23",
-      "datetime_utc": "2026-01-23T19:34:26Z",
-      "time_utc": "19:34:26",
-      "title": "The -1 Readiness Test: Can Your Business Survive a Negative-Price Guarantee?",
-      "subtitle": "Seven departments, numbers you must know, and the one-offer test that exposes chaos.",
-      "url": "https://theminusoneguarantee.substack.com/p/the-1-readiness-test-can-your-business",
-      "slug": "the-1-readiness-test-can-your-business"
-    },
-    {
-      "date": "2026-01-24",
-      "datetime_utc": "2026-01-24T11:06:53Z",
-      "time_utc": "11:06:53",
-      "title": "Negative-Price Guarantees Don’t Fail. Companies Do.",
-      "subtitle": "“-1” is not a promise. It’s a stress test that exposes slow delivery, fuzzy expectations, and weak quality control—so only efficient businesses can…",
-      "url": "https://theminusoneguarantee.substack.com/p/negative-price-guarantees-dont-fail",
-      "slug": "negative-price-guarantees-dont-fail"
-    },
-    {
-      "date": "2026-01-25",
-      "datetime_utc": "2026-01-25T12:13:41Z",
-      "time_utc": "12:13:41",
-      "title": "Negative-Price Doesn’t Fix Chaos. It Exposes It.",
-      "subtitle": "“-1” is an amplifier. If your business is messy, you won’t gain an advantage—you’ll just pay faster for every weakness you’ve been ignoring.",
-      "url": "https://theminusoneguarantee.substack.com/p/negative-price-doesnt-fix-chaos-it",
-      "slug": "negative-price-doesnt-fix-chaos-it"
-    },
-    {
-      "date": "2026-01-26",
-      "datetime_utc": "2026-01-26T11:14:47Z",
-      "time_utc": "11:14:47",
-      "title": "The Day Guarantees Become Mandatory: What Happens To Businesses With “No Refunds”",
-      "subtitle": "No-refund businesses won’t “hold their ground.” They’ll get cut out of the market—because trust is becoming a requirement, not a bonus.",
-      "url": "https://theminusoneguarantee.substack.com/p/the-day-guarantees-become-mandatory",
-      "slug": "the-day-guarantees-become-mandatory"
-    },
-    {
-      "date": "2026-01-27",
-      "datetime_utc": "2026-01-27T08:25:36Z",
-      "time_utc": "08:25:36",
-      "title": "One Bad First Sale Kills Repeat Business. A -1 Guarantee Prevents It.",
-      "subtitle": "The first cent is the real test. If the buyer regrets it once, you don’t get a second chance—so “-1” makes the first step feel safe and keeps the right…",
-      "url": "https://theminusoneguarantee.substack.com/p/one-bad-first-sale-kills-repeat-business",
-      "slug": "one-bad-first-sale-kills-repeat-business"
-    },
-    {
-      "date": "2026-01-28",
-      "datetime_utc": "2026-01-28T08:01:48Z",
-      "time_utc": "08:01:48",
-      "title": "Negative-Price Forces Cash Discipline (Or It Breaks You)",
-      "subtitle": "“-1” doesn’t just test your offer. It tests your cash—down to the cent and down to the day. If you can’t pay penalties on time, you don’t have a…",
-      "url": "https://theminusoneguarantee.substack.com/p/negative-price-forces-cash-discipline",
-      "slug": "negative-price-forces-cash-discipline"
-    },
-    {
-      "date": "2026-01-29",
-      "datetime_utc": "2026-01-29T08:02:45Z",
-      "time_utc": "08:02:45",
-      "title": "The Nuclear Guarantee: Why “-1” Wipes Out Old-School Businesses",
-      "subtitle": "A negative-price guarantee isn’t “strong customer service.” It’s a high-accountability weapon that destroys companies running on inertia, excuses, and…",
-      "url": "https://theminusoneguarantee.substack.com/p/the-nuclear-guarantee-why-1-wipes",
-      "slug": "the-nuclear-guarantee-why-1-wipes"
-    },
-    {
-      "date": "2026-01-30",
-      "datetime_utc": "2026-01-30T08:01:16Z",
-      "time_utc": "08:01:16",
-      "title": "Negative-Price Guarantees Are Evolution—Not a Gimmick",
-      "subtitle": "Every upgrade in human history gets resisted first. Then it becomes normal. “-1” is the same: adapt and win new advantages, or refuse and slowly…",
-      "url": "https://theminusoneguarantee.substack.com/p/negative-price-guarantees-are-evolutionnot",
-      "slug": "negative-price-guarantees-are-evolutionnot"
-    },
-    {
-      "date": "2026-01-31",
-      "datetime_utc": "2026-01-31T09:01:57Z",
-      "time_utc": "09:01:57",
-      "title": "Negative-Price Won’t Kill Jobs. It Will Kill Unfit Businesses.",
-      "subtitle": "“-1” doesn’t destroy careers. It destroys weak business models—and clears space for new winners.",
-      "url": "https://theminusoneguarantee.substack.com/p/negative-price-wont-kill-jobs-it",
-      "slug": "negative-price-wont-kill-jobs-it"
-    },
-    {
-      "date": "2026-02-01",
-      "datetime_utc": "2026-02-01T09:02:58Z",
-      "time_utc": "09:02:58",
-      "title": "“-1” Clears the Field: Why the Next Category Leaders Will “Deserve” Customers",
-      "subtitle": "Negative-price isn’t a marketing flex. It’s a legitimacy filter: it removes businesses that survive on friction and excuses—and rewards brands that can…",
-      "url": "https://theminusoneguarantee.substack.com/p/1-clears-the-field-why-the-next-category",
-      "slug": "1-clears-the-field-why-the-next-category"
-    },
-    {
-      "date": "2026-02-02",
-      "datetime_utc": "2026-02-02T15:59:21Z",
-      "time_utc": "15:59:21",
-      "title": "Negative-Price Is a Cash-Burning Accelerator for Cowards",
-      "subtitle": "-1” burns money fast if you refuse to improve. It doesn’t punish mistakes—it punishes denial, excuses, and “good enough” leadership.",
-      "url": "https://theminusoneguarantee.substack.com/p/negative-price-is-a-cash-burning",
-      "slug": "negative-price-is-a-cash-burning"
-    },
-    {
-      "date": "2026-02-04",
-      "datetime_utc": "2026-02-04T14:02:56Z",
-      "time_utc": "14:02:56",
-      "title": "“-1” Is the New Starting Line for the Next Generation of Entrepreneurs",
-      "subtitle": "Your parents could survive with craft alone. In the new market, craft isn’t enough. “-1” rewards operators who learn business skills, build efficiency…",
-      "url": "https://theminusoneguarantee.substack.com/p/1-is-the-new-starting-line-for-the",
-      "slug": "1-is-the-new-starting-line-for-the"
-    },
-    {
-      "date": "2026-02-05",
-      "datetime_utc": "2026-02-05T14:02:49Z",
-      "time_utc": "14:02:49",
-      "title": "“-1” Is Market Evolution: Adapt or Get Replaced",
-      "subtitle": "Markets evolve like species. As trust standards rise, negative-price becomes the next genetic upgrade—letting the most accountable brands exchange more…",
-      "url": "https://theminusoneguarantee.substack.com/p/1-is-market-evolution-adapt-or-get",
-      "slug": "1-is-market-evolution-adapt-or-get"
-    },
-    {
-      "date": "2026-02-06",
-      "datetime_utc": "2026-02-06T14:03:04Z",
-      "time_utc": "14:03:04",
-      "title": "Big Company Credentials Are Losing Status. “-1” Makes Outcomes the Only Status.",
-      "subtitle": "“-1” doesn’t care where you worked. It cares what you moved—measurably.",
-      "url": "https://theminusoneguarantee.substack.com/p/big-company-credentials-are-losing",
-      "slug": "big-company-credentials-are-losing"
-    },
-    {
-      "date": "2026-02-07",
-      "datetime_utc": "2026-02-07T14:01:32Z",
-      "time_utc": "14:01:32",
-      "title": "“-1” Ends the Debt-Fueled Business Era",
-      "subtitle": "Negative-price makes losses impossible to hide. If you can’t create real value for a tight niche—profitably—you don’t deserve scale.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-ends-the-debt-fueled-business-era",
-      "slug": "1-ends-the-debt-fueled-business-era"
-    },
-    {
-      "date": "2026-02-08",
-      "datetime_utc": "2026-02-08T14:01:39Z",
-      "time_utc": "14:01:39",
-      "title": "“-1” Forces Full-Stack Business Visibility: Every Cent In, Every Cent Out",
-      "subtitle": "Negative-price turns your company from a black box into a measurable pipeline—so you can see leaks, bottlenecks, and broken steps before they kill you.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-forces-full-stack-business-visibility",
-      "slug": "1-forces-full-stack-business-visibility"
-    },
-    {
-      "date": "2026-02-09",
-      "datetime_utc": "2026-02-09T14:01:42Z",
-      "time_utc": "14:01:42",
-      "title": "“-1” Turns Your Business Into a Light-Speed Ship",
-      "subtitle": "Negative-price isn’t a Sunday drive. It forces precision, speed, and zero complacency—because tiny neglect becomes instant cash burn.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-turns-your-business-into-a-light",
-      "slug": "1-turns-your-business-into-a-light"
-    },
-    {
-      "date": "2026-02-10",
-      "datetime_utc": "2026-02-10T14:01:40Z",
-      "time_utc": "14:01:40",
-      "title": "The Market Doesn’t Reward “Happy Degrowth.” It Rewards Relentless Momentum.",
-      "subtitle": "If you slow down, competitors inherit your customers. “-1” rewards those who keep improving—and punishes stalls disguised as comfort.",
-      "url": "https://theminusoneguarantee.substack.com/p/the-market-doesnt-reward-happy-degrowth",
-      "slug": "the-market-doesnt-reward-happy-degrowth"
-    },
-    {
-      "date": "2026-02-11",
-      "datetime_utc": "2026-02-11T09:12:13Z",
-      "time_utc": "09:12:13",
-      "title": "“-1” Forces Sustainable Efficiency: Not Just Profit—People",
-      "subtitle": "Negative-price punishes short-term extraction. To survive “-1,” you must optimize systems and human energy—or penalties expose the rot.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-forces-sustainable-efficiency-not",
-      "slug": "1-forces-sustainable-efficiency-not"
-    },
-    {
-      "date": "2026-02-12",
-      "datetime_utc": "2026-02-12T14:01:58Z",
-      "time_utc": "14:01:58",
-      "title": "“-1” Separates Premium Value From Cheap Noise",
-      "subtitle": "Negative-price makes one thing obvious: serious high-ticket offers can share risk. Low-margin, low-value sellers can’t—and attract the wrong buyers.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-separates-premium-value-from-cheap",
-      "slug": "1-separates-premium-value-from-cheap"
-    },
-    {
-      "date": "2026-02-13",
-      "datetime_utc": "2026-02-13T14:02:57Z",
-      "time_utc": "14:02:57",
-      "title": "“-1” Splits the Future: Measurable Value vs Cheap Commodities",
-      "subtitle": "Negative-price creates two lanes: elite operators who prove outcomes and absorb risk—and commodity sellers who die the moment someone undercuts them.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-splits-the-future-measurable-value",
-      "slug": "1-splits-the-future-measurable-value"
-    },
-    {
-      "date": "2026-02-14",
-      "datetime_utc": "2026-02-14T14:03:07Z",
-      "time_utc": "14:03:07",
-      "title": "“-1” Forces Better Jobs: You Can’t Run Negative-Price on Burnout",
-      "subtitle": "To survive “-1,” you need great people, great systems, and real accountability. Exploiting labor becomes an expensive failure mode—not a business model.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-forces-better-jobs-you-cant-run",
-      "slug": "1-forces-better-jobs-you-cant-run"
-    },
-    {
-      "date": "2026-02-15",
-      "datetime_utc": "2026-02-15T14:02:33Z",
-      "time_utc": "14:02:33",
-      "title": "“-1” Is the Ultimate Reality Check: It Makes Business Lies Expensive",
-      "subtitle": "Negative-price turns hidden weaknesses into immediate cash loss—so every missing variable, broken process, and vague promise gets exposed fast.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-is-the-ultimate-reality-check-it",
-      "slug": "1-is-the-ultimate-reality-check-it"
-    },
-    {
-      "date": "2026-02-16",
-      "datetime_utc": "2026-02-16T14:03:12Z",
-      "time_utc": "14:03:12",
-      "title": "WARNING: 7 Company Lies “-1” Will Expose (And Charge You For)",
-      "subtitle": "Negative-price doesn’t negotiate with your excuses. It turns them into refunds, penalties, and public regret.",
-      "url": "https://theminusoneguarantee.substack.com/p/warning-7-company-lies-1-will-expose",
-      "slug": "warning-7-company-lies-1-will-expose"
-    },
-    {
-      "date": "2026-02-17",
-      "datetime_utc": "2026-02-17T14:01:10Z",
-      "time_utc": "14:01:10",
-      "title": "Negative-Price Guarantees Kill Fad Businesses (and Reward Long-Term Brands)",
-      "subtitle": "“-1” punishes short-term cash grabs and weak delivery. It rewards retention, LTV, reputation—and turns customers into fans.",
-      "url": "https://theminusoneguarantee.substack.com/p/negative-price-guarantees-kill-fad",
-      "slug": "negative-price-guarantees-kill-fad"
-    },
-    {
-      "date": "2026-02-18",
-      "datetime_utc": "2026-02-18T14:02:49Z",
-      "time_utc": "14:02:49",
-      "title": "“-1” Is Accelerated Growth… or Accelerated Collapse",
-      "subtitle": "Negative-price doesn’t “fix” a business. It multiplies what’s already inside—efficiency or chaos.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-is-accelerated-growth-or-accelerated",
-      "slug": "1-is-accelerated-growth-or-accelerated"
-    },
-    {
-      "date": "2026-02-19",
-      "datetime_utc": "2026-02-19T14:02:32Z",
-      "time_utc": "14:02:32",
-      "title": "Negative-Price Is a Weapon System (And a Trap for Imitators)",
-      "subtitle": "“-1” rewards full-stack operators and punishes surface-level copycats—fast.",
-      "url": "https://theminusoneguarantee.substack.com/p/negative-price-is-a-weapon-system",
-      "slug": "negative-price-is-a-weapon-system"
-    },
-    {
-      "date": "2026-02-20",
-      "datetime_utc": "2026-02-20T14:02:11Z",
-      "time_utc": "14:02:11",
-      "title": "The -1 Guarantee Is a Weapon. Use It Wrong and It Shoots You First.",
-      "subtitle": "Negative-price works. But without the right “body,” the right place, and protections, it turns into recoil—fast.",
-      "url": "https://theminusoneguarantee.substack.com/p/the-1-guarantee-is-a-weapon-use-it",
-      "slug": "the-1-guarantee-is-a-weapon-use-it"
-    },
-    {
-      "date": "2026-02-21",
-      "datetime_utc": "2026-02-21T14:01:13Z",
-      "time_utc": "14:01:13",
-      "title": "“-1” Is Market Evolution—And It Forces an Ethical Upgrade",
-      "subtitle": "Negative-price doesn’t just change offers. It changes what kind of operator you must become.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-is-market-evolutionand-it-forces",
-      "slug": "1-is-market-evolutionand-it-forces"
-    },
-    {
-      "date": "2026-02-22",
-      "datetime_utc": "2026-02-22T14:03:02Z",
-      "time_utc": "14:03:02",
-      "title": "“-1” Forces a Real Team: Yes-Men Become a Liability",
-      "subtitle": "Negative-price punishes internal sabotage, passive compliance, and “keep my seat” culture—because inefficiency becomes penalties.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-forces-a-real-team-yes-men-become",
-      "slug": "1-forces-a-real-team-yes-men-become"
-    },
-    {
-      "date": "2026-02-23",
-      "datetime_utc": "2026-02-23T14:01:50Z",
-      "time_utc": "14:01:50",
-      "title": "“-1” Is the Sharpest Knife in Business: It Cuts Lies Into Visible Wounds",
-      "subtitle": "Negative-price turns “minor issues” into open injuries—because every inefficiency becomes a penalty you can’t ignore.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-is-the-sharpest-knife-in-business",
-      "slug": "1-is-the-sharpest-knife-in-business"
-    },
-    {
-      "date": "2026-02-24",
-      "datetime_utc": "2026-02-24T14:02:18Z",
-      "time_utc": "14:02:18",
-      "title": "“-1” Forces Role Clarity—and Turns Top Performers Into Profit Partners",
-      "subtitle": "Negative-price pushes companies toward clean handoffs, measurable KPIs, and incentives that reward real value (not politics).",
-      "url": "https://theminusoneguarantee.substack.com/p/1-forces-role-clarityand-turns-top",
-      "slug": "1-forces-role-clarityand-turns-top"
-    },
-    {
-      "date": "2026-02-25",
-      "datetime_utc": "2026-02-25T14:02:38Z",
-      "time_utc": "14:02:38",
-      "title": "The New Rule of Work: If You Create Value, You Must Get Paid Like You Created It",
-      "subtitle": "In a “-1” world, being “just a worker” dies. Everyone becomes a measurable value carrier—or gets replaced.",
-      "url": "https://theminusoneguarantee.substack.com/p/the-new-rule-of-work-if-you-create",
-      "slug": "the-new-rule-of-work-if-you-create"
-    },
-    {
-      "date": "2026-02-26",
-      "datetime_utc": "2026-02-26T14:01:33Z",
-      "time_utc": "14:01:33",
-      "title": "Mediocre Work Isn’t Competing With People Anymore. It’s Competing With AI.",
-      "subtitle": "“-1” will split the market even harder: high-accountability companies will surge, low-accountability companies will get exposed.",
-      "url": "https://theminusoneguarantee.substack.com/p/mediocre-work-isnt-competing-with",
-      "slug": "mediocre-work-isnt-competing-with"
-    },
-    {
-      "date": "2026-02-27",
-      "datetime_utc": "2026-02-27T14:02:42Z",
-      "time_utc": "14:02:42",
-      "title": "The Working Poor Era: Why “Cheaper” Jobs Will Multiply (And Why “-1” Will Expose Them)",
-      "subtitle": "It’s not “people don’t want to work.” It’s that many offers don’t pay enough to live—so accountability becomes the only real differentiator.",
-      "url": "https://theminusoneguarantee.substack.com/p/the-working-poor-era-why-cheaper",
-      "slug": "the-working-poor-era-why-cheaper"
-    },
-    {
-      "date": "2026-02-28",
-      "datetime_utc": "2026-02-28T14:01:03Z",
-      "time_utc": "14:01:03",
-      "title": "The “Innovation Test” at Your Job: Would They Let You Improve Anything?",
-      "subtitle": "If you can create new value but your company blocks you—and won’t share the upside—“-1” reveals the truth fast.",
-      "url": "https://theminusoneguarantee.substack.com/p/the-innovation-test-at-your-job-would",
-      "slug": "the-innovation-test-at-your-job-would"
-    },
-    {
-      "date": "2026-03-01",
-      "datetime_utc": "2026-03-01T14:01:59Z",
-      "time_utc": "14:01:59",
-      "title": "“-1” Is a Daily Guillotine: It Cuts Inefficiency Every Time Value Is Missing",
-      "subtitle": "Negative-price doesn’t “motivate.” It enforces. It rewards real value and kills activities that shouldn’t exist in an efficient market.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-is-a-daily-guillotine-it-cuts-inefficiency",
-      "slug": "1-is-a-daily-guillotine-it-cuts-inefficiency"
-    },
-    {
-      "date": "2026-03-02",
-      "datetime_utc": "2026-03-02T14:01:32Z",
-      "time_utc": "14:01:32",
-      "title": "“-1” Is It Really Too Risky?",
-      "subtitle": "Negative-price isn’t dangerous. Vagueness is. “-1” only hurts businesses that don’t control delivery.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-is-it-really-too-risky",
-      "slug": "1-is-it-really-too-risky"
-    },
-    {
-      "date": "2026-03-03",
-      "datetime_utc": "2026-03-03T14:02:33Z",
-      "time_utc": "14:02:33",
-      "title": "The Real Signal of Strength Behind an Extreme Guarantee",
-      "subtitle": "“-1” isn’t a slogan. It’s proof. It doesn’t save weak offers—it exposes them, upgrades them, and filters bad buyers out.",
-      "url": "https://theminusoneguarantee.substack.com/p/the-real-signal-of-strength-behind",
-      "slug": "the-real-signal-of-strength-behind"
-    },
-    {
-      "date": "2026-03-04",
-      "datetime_utc": "2026-03-04T14:01:48Z",
-      "time_utc": "14:01:48",
-      "title": "The -1 Line: The Moment “Doing Things Randomly” Stops Working",
-      "subtitle": "Negative-price is the demarcation point between the old world—where chaos could still survive—and the new world—where efficiency and responsibility…",
-      "url": "https://theminusoneguarantee.substack.com/p/the-1-line-the-moment-doing-things",
-      "slug": "the-1-line-the-moment-doing-things"
-    },
-    {
-      "date": "2026-03-05",
-      "datetime_utc": "2026-03-05T14:02:44Z",
-      "time_utc": "14:02:44",
-      "title": "“What If Everyone Claims the -1?” (You’re Asking the Wrong Question)",
-      "subtitle": "If “everyone” wants the penalty, the problem isn’t the guarantee. It’s your value, your delivery, or your target.",
-      "url": "https://theminusoneguarantee.substack.com/p/what-if-everyone-claims-the-1-youre",
-      "slug": "what-if-everyone-claims-the-1-youre"
-    },
-    {
-      "date": "2026-03-06",
-      "datetime_utc": "2026-03-06T14:02:27Z",
-      "time_utc": "14:02:27",
-      "title": "The Offer Only Improved When It Finally Hurt",
-      "subtitle": "Most offers don’t evolve because there’s no penalty for staying mediocre. A hard guarantee creates pressure—and pressure creates quality.",
-      "url": "https://theminusoneguarantee.substack.com/p/the-offer-only-improved-when-it-finally",
-      "slug": "the-offer-only-improved-when-it-finally"
-    },
-    {
-      "date": "2026-03-07",
-      "datetime_utc": "2026-03-07T14:01:56Z",
-      "time_utc": "14:01:56",
-      "title": "Most Businesses Survive Only Because Their Competitors Are Just as Bad",
-      "subtitle": "You can coast in a sea of mediocrity… until one operator gets efficient and takes the best customers. Then everyone else collapses.",
-      "url": "https://theminusoneguarantee.substack.com/p/most-businesses-survive-only-because",
-      "slug": "most-businesses-survive-only-because"
-    },
-    {
-      "date": "2026-03-08",
-      "datetime_utc": "2026-03-08T14:02:21Z",
-      "time_utc": "14:02:21",
-      "title": "Negative-Price Is the Next Poker Game Companies Will Play With the Market",
-      "subtitle": "“-1” is the great equalizer. It forces open cards, exposes bluff value, and rewards operators who can prove outcomes.",
-      "url": "https://theminusoneguarantee.substack.com/p/negative-price-is-the-next-poker",
-      "slug": "negative-price-is-the-next-poker"
-    },
-    {
-      "date": "2026-03-09",
-      "datetime_utc": "2026-03-09T14:02:00Z",
-      "time_utc": "14:02:00",
-      "title": "How the -1 Repositions You Instantly",
-      "subtitle": "In crowded markets, claims are cheap. Risk is not. The moment you put a penalty behind your promise, you stop sounding like everyone else.",
-      "url": "https://theminusoneguarantee.substack.com/p/how-the-1-repositions-you-instantly",
-      "slug": "how-the-1-repositions-you-instantly"
-    },
-    {
-      "date": "2026-03-10",
-      "datetime_utc": "2026-03-10T16:02:37Z",
-      "time_utc": "16:02:37",
-      "title": "“-1” Is Chess. Your Competitors Are Still Playing Checkers",
-      "subtitle": "Negative-price guarantees force a strategic leap: public accountability, higher efficiency, and trust that price wars can’t buy.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-is-chess-your-competitors-are-still",
-      "slug": "1-is-chess-your-competitors-are-still"
-    },
-    {
-      "date": "2026-03-11",
-      "datetime_utc": "2026-03-11T16:01:40Z",
-      "time_utc": "16:01:40",
-      "title": "“-1” Is the Necessary Return to a Hard Truth: You Must Earn Your Value",
-      "subtitle": "Negative-price guarantees are a tsunami of honesty. They expose fake value, reward real delivery, and punish promise addicts.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-is-the-necessary-return-to-a-hard",
-      "slug": "1-is-the-necessary-return-to-a-hard"
-    },
-    {
-      "date": "2026-03-12",
-      "datetime_utc": "2026-03-12T16:01:21Z",
-      "time_utc": "16:01:21",
-      "title": "“-1” Forces a Brutal Truth: Someone Else Might Be Better Than You",
-      "subtitle": "The moment a competitor runs a negative-price guarantee, excuses die. Either they collapse… or they earn your best customers.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-forces-a-brutal-truth-someone-else",
-      "slug": "1-forces-a-brutal-truth-someone-else"
-    },
-    {
-      "date": "2026-03-13",
-      "datetime_utc": "2026-03-13T16:02:32Z",
-      "time_utc": "16:02:32",
-      "title": "“-1” Makes the Line Obvious: Value vs Waste, Evolution vs Decay",
-      "subtitle": "Some activities should not exist. Some workflows must be automated. “-1” doesn’t create the split—it exposes it, fast.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-makes-the-line-obvious-value-vs",
-      "slug": "1-makes-the-line-obvious-value-vs"
-    },
-    {
-      "date": "2026-03-14",
-      "datetime_utc": "2026-03-14T16:01:18Z",
-      "time_utc": "16:01:18",
-      "title": "R-Day: The Rebellion Day Against Inefficiency",
-      "subtitle": "A future chronicle: one day the retirement fairy tale collapses. “-1” is how you stop living on promises—and start demanding measurable value now.",
-      "url": "https://theminusoneguarantee.substack.com/p/r-day-the-rebellion-day-against-inefficiency",
-      "slug": "r-day-the-rebellion-day-against-inefficiency"
-    },
-    {
-      "date": "2026-03-15",
-      "datetime_utc": "2026-03-15T16:01:25Z",
-      "time_utc": "16:01:25",
-      "title": "“-1” Builds a No-Lies Economy",
-      "subtitle": "Negative-price doesn’t just change guarantees. It makes pretending expensive—so value, accountability, and credit finally become real.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-builds-a-no-lies-economy",
-      "slug": "1-builds-a-no-lies-economy"
-    },
-    {
-      "date": "2026-03-16",
-      "datetime_utc": "2026-03-16T16:02:05Z",
-      "time_utc": "16:02:05",
-      "title": "The Old Career Ladder Is Rotten. “-1” Is the Exit",
-      "subtitle": "If legacy companies won’t reward value and innovation, build a negative-price business that proves it—and takes the best customers.",
-      "url": "https://theminusoneguarantee.substack.com/p/the-old-career-ladder-is-rotten-1",
-      "slug": "the-old-career-ladder-is-rotten-1"
-    },
-    {
-      "date": "2026-03-17",
-      "datetime_utc": "2026-03-17T16:01:18Z",
-      "time_utc": "16:01:18",
-      "title": "The Hard Truth: Many Companies Prefer Cheap “Yes” People Over Valuable “Why” People",
-      "subtitle": "The most revolutionary move is to say no—then build a -1 offer that makes accountability real and paper castles collapse.",
-      "url": "https://theminusoneguarantee.substack.com/p/the-hard-truth-many-companies-prefer",
-      "slug": "the-hard-truth-many-companies-prefer"
-    },
-    {
-      "date": "2026-03-18",
-      "datetime_utc": "2026-03-18T16:01:32Z",
-      "time_utc": "16:01:32",
-      "title": "With “-1” There Are No Excuses: Busy Is Not a Status, It’s a Symptom",
-      "subtitle": "Working a lot is not a flex. If it produces low margin and chaos, it’s just expensive motion—and “-1” makes that visible.",
-      "url": "https://theminusoneguarantee.substack.com/p/with-1-there-are-no-excuses-busy",
-      "slug": "with-1-there-are-no-excuses-busy"
-    },
-    {
-      "date": "2026-03-19",
-      "datetime_utc": "2026-03-19T16:02:25Z",
-      "time_utc": "16:02:25",
-      "title": "In a World With No Guarantees, the Most Revolutionary Act Is to Guarantee Yourself",
-      "subtitle": "When everything is volatile—jobs, markets, AI, even tomorrow—“-1” is the decision to be judged on real value, every day.",
-      "url": "https://theminusoneguarantee.substack.com/p/in-a-world-with-no-guarantees-the",
-      "slug": "in-a-world-with-no-guarantees-the"
-    },
-    {
-      "date": "2026-03-20",
-      "datetime_utc": "2026-03-20T16:01:29Z",
-      "time_utc": "16:01:29",
-      "title": "Discount Buyers Can’t Build a Business. Fans Can.",
-      "subtitle": "Promotions create one-time customers. Premium value creates repeat buyers. “-1” accelerates the shift by attracting fans and filtering bargain hunters.",
-      "url": "https://theminusoneguarantee.substack.com/p/discount-buyers-cant-build-a-business",
-      "slug": "discount-buyers-cant-build-a-business"
-    },
-    {
-      "date": "2026-03-21",
-      "datetime_utc": "2026-03-21T16:01:15Z",
-      "time_utc": "16:01:15",
-      "title": "If a Job Can Be Written as a Prompt, It Can Be Automated. “-1” Is the Only Escape",
-      "subtitle": "The future won’t reward “working harder.” It will reward measurable value, repeatable systems, and personal accountability.",
-      "url": "https://theminusoneguarantee.substack.com/p/if-a-job-can-be-written-as-a-prompt",
-      "slug": "if-a-job-can-be-written-as-a-prompt"
-    },
-    {
-      "date": "2026-03-22",
-      "datetime_utc": "2026-03-22T16:01:45Z",
-      "time_utc": "16:01:45",
-      "title": "“-1” Kills Moral Laziness: The Negative-Price Guarantee That Forces You to Tell the Truth",
-      "subtitle": "If you won’t accept a negative-price guarantee, you don’t have a “business model problem.” You have a “don’t judge me” problem.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-kills-moral-laziness-the-negative",
-      "slug": "1-kills-moral-laziness-the-negative"
-    },
-    {
-      "date": "2026-03-23",
-      "datetime_utc": "2026-03-23T16:01:23Z",
-      "time_utc": "16:01:23",
-      "title": "The “-1” Negative-Price Guarantee Is Meritocracy in Cash",
-      "subtitle": "Meritocracy isn’t a motivational poster. It’s a system that rewards value, punishes value destruction, and forces responsibility—fast.",
-      "url": "https://theminusoneguarantee.substack.com/p/the-1-negative-price-guarantee-is",
-      "slug": "the-1-negative-price-guarantee-is"
-    },
-    {
-      "date": "2026-03-24",
-      "datetime_utc": "2026-03-24T16:01:58Z",
-      "time_utc": "16:01:58",
-      "title": "The “-1” Negative-Price Guarantee Is How You Bet on Yourself",
-      "subtitle": "Most people do the minimum. “-1” forces you to do what’s efficient, measurable, and real—then rewards you for it.",
-      "url": "https://theminusoneguarantee.substack.com/p/the-1-negative-price-guarantee-is-bd8",
-      "slug": "the-1-negative-price-guarantee-is-bd8"
-    },
-    {
-      "date": "2026-03-25",
-      "datetime_utc": "2026-03-25T16:01:35Z",
-      "time_utc": "16:01:35",
-      "title": "Your Job Is to Make Someone’s Life Easier. “-1” Makes You Prove You Did",
-      "subtitle": "Every role is service. “-1” is the only guarantee model that turns “I helped” into “Here’s the proof—or here’s the penalty.”",
-      "url": "https://theminusoneguarantee.substack.com/p/your-job-is-to-make-someones-life",
-      "slug": "your-job-is-to-make-someones-life"
-    },
-    {
-      "date": "2026-03-26",
-      "datetime_utc": "2026-03-26T16:01:07Z",
-      "time_utc": "16:01:07",
-      "title": "“-1” Destroys Fake Promises: It Turns Marketing Into Cash Accountability",
-      "subtitle": "Most people prosper because their promises are foggy. “-1” replaces fog with a receipt: value delivered, or money paid back—plus a penalty.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-destroys-fake-promises-it-turns",
-      "slug": "1-destroys-fake-promises-it-turns"
-    },
-    {
-      "date": "2026-03-27",
-      "datetime_utc": "2026-03-27T16:02:44Z",
-      "time_utc": "16:02:44",
-      "title": "“-1” Exposes Toxic Work Relationships: The Negative-Price Lens That Forces the Truth",
-      "subtitle": "“-1” doesn’t just test your offer. It pressure-tests your people, your processes, and every relationship draining more value than it creates.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-exposes-toxic-work-relationships",
-      "slug": "1-exposes-toxic-work-relationships"
-    },
-    {
-      "date": "2026-03-28",
-      "datetime_utc": "2026-03-28T16:01:22Z",
-      "time_utc": "16:01:22",
-      "title": "“-1” Protects the Proactive: The Negative-Price Guarantee That Filters Cheap Buyers",
-      "subtitle": "If you’re skilled and serious, your biggest enemy isn’t competition. It’s the market segment that wants your results at a discount.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-protects-the-proactive-the-negative",
-      "slug": "1-protects-the-proactive-the-negative"
-    },
-    {
-      "date": "2026-03-29",
-      "datetime_utc": "2026-03-29T15:01:02Z",
-      "time_utc": "15:01:02",
-      "title": "“-1” Is the Promotion You Give Yourself: From Storytelling to Real Leadership",
-      "subtitle": "Titles don’t make you a leader. Accountability does. “-1” is you taking the job: final owner of satisfaction.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-is-the-promotion-you-give-yourself",
-      "slug": "1-is-the-promotion-you-give-yourself"
-    },
-    {
-      "date": "2026-03-30",
-      "datetime_utc": "2026-03-30T15:01:42Z",
-      "time_utc": "15:01:42",
-      "title": "“-1” Is the Ultimate Anti-Bureaucracy Tool: It Prices Waste in Cash",
-      "subtitle": "Bureaucracy survives because nobody pays for it. “-1” makes somebody pay—so the useless steps finally die.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-is-the-ultimate-anti-bureaucracy",
-      "slug": "1-is-the-ultimate-anti-bureaucracy"
-    },
-    {
-      "date": "2026-03-31",
-      "datetime_utc": "2026-03-31T15:01:52Z",
-      "time_utc": "15:01:52",
-      "title": "“-1” Is David’s Sling: The Negative-Price Guarantee That Forces Goliath to Diet",
-      "subtitle": "Big companies win by inertia. “-1” turns inertia into liability—and gives lean operators a weapon they can actually use.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-is-davids-sling-the-negative-price",
-      "slug": "1-is-davids-sling-the-negative-price"
-    },
-    {
-      "date": "2026-04-01",
-      "datetime_utc": "2026-04-01T15:01:04Z",
-      "time_utc": "15:01:04",
-      "title": "“-1” Forces You to Stop Being Toxic: The Guarantee That Punishes Ego and Rewards Listening",
-      "subtitle": "Toxic people can survive in vague markets. “-1” removes the fog—so arrogance becomes expensive and emotional intelligence becomes profit.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-forces-you-to-stop-being-toxic",
-      "slug": "1-forces-you-to-stop-being-toxic"
-    },
-    {
-      "date": "2026-04-02",
-      "datetime_utc": "2026-04-02T15:00:59Z",
-      "time_utc": "15:00:59",
-      "title": "“-1” Fixes Job Mismatch: The Negative-Price Guarantee That Forces Skills to Be Used",
-      "subtitle": "Job mismatch survives in fog. “-1” forces the flow into writing—and prices the gaps in cash.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-fixes-job-mismatch-the-negative",
-      "slug": "1-fixes-job-mismatch-the-negative"
-    },
-    {
-      "date": "2026-04-03",
-      "datetime_utc": "2026-04-03T15:00:54Z",
-      "time_utc": "15:00:54",
-      "title": "Underemployment Is a System Failure. “-1” Makes It Unaffordable",
-      "subtitle": "Overqualified people stuck in dead-end roles aren’t the problem. The unmeasured process is. “-1” forces truth, upgrades, and fair pay—fast.",
-      "url": "https://theminusoneguarantee.substack.com/p/underemployment-is-a-system-failure",
-      "slug": "underemployment-is-a-system-failure"
-    },
-    {
-      "date": "2026-04-04",
-      "datetime_utc": "2026-04-04T15:00:23Z",
-      "time_utc": "15:00:23",
-      "title": "“-1” Forces a Time Audit: The Negative-Price Guarantee That Exposes Your Real Hourly Value",
-      "subtitle": "Money hides waste. Time exposes it. “-1” forces you to price your hours like a business—because every slow, low-value step becomes a liability.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-forces-a-time-audit-the-negative",
-      "slug": "1-forces-a-time-audit-the-negative"
-    },
-    {
-      "date": "2026-04-05",
-      "datetime_utc": "2026-04-05T11:02:17Z",
-      "time_utc": "11:02:17",
-      "title": "Good Ideas Get Voted With Money. “-1” Makes the Vote Honest",
-      "subtitle": "Vision without paying customers is a diary. “-1” speeds up the only vote that matters: cash for proven value—or penalties for missing it.",
-      "url": "https://theminusoneguarantee.substack.com/p/good-ideas-get-voted-with-money-1",
-      "slug": "good-ideas-get-voted-with-money-1"
-    },
-    {
-      "date": "2026-04-06",
-      "datetime_utc": "2026-04-06T13:02:22Z",
-      "time_utc": "13:02:22",
-      "title": "We Live in a Risk Society. “-1” Is Your Flag of Responsibility",
-      "subtitle": "The old guarantees are gone. “-1” is how you prove—publicly, in cash—that you can carry risk, make decisions, and deliver measured improvement.",
-      "url": "https://theminusoneguarantee.substack.com/p/we-live-in-a-risk-society-1-is-your",
-      "slug": "we-live-in-a-risk-society-1-is-your"
-    },
-    {
-      "date": "2026-04-07",
-      "datetime_utc": "2026-04-07T13:02:44Z",
-      "time_utc": "13:02:44",
-      "title": "Social “Success” Has Changed. “-1” Is the New Status Symbol.",
-      "subtitle": "The old trophies were security, comfort, and approval. The new trophy is independence through measurable value. “-1” is the fastest way to prove you…",
-      "url": "https://theminusoneguarantee.substack.com/p/social-success-has-changed-1-is-the",
-      "slug": "social-success-has-changed-1-is-the"
-    },
-    {
-      "date": "2026-04-08",
-      "datetime_utc": "2026-04-08T13:02:27Z",
-      "time_utc": "13:02:27",
-      "title": "Would You Build Your Life on a Project That’s Destined to Fail? “-1” Stops You",
-      "subtitle": "“-1” is not just a guarantee. It’s a failure detector. It shows you—fast—what roads lead to growth and what roads lead to collapse.",
-      "url": "https://theminusoneguarantee.substack.com/p/would-you-build-your-life-on-a-project",
-      "slug": "would-you-build-your-life-on-a-project"
-    },
-    {
-      "date": "2026-04-09",
-      "datetime_utc": "2026-04-09T13:02:10Z",
-      "time_utc": "13:02:10",
-      "title": "“-1” Is the Human Restart Button: Build Something Better Than the Past",
-      "subtitle": "“-1” is a declaration: I’m done with broken standards. I will start again—with higher efficiency, clearer proof, and more value.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-is-the-human-restart-button-build",
-      "slug": "1-is-the-human-restart-button-build"
-    },
-    {
-      "date": "2026-04-10",
-      "datetime_utc": "2026-04-10T13:02:56Z",
-      "time_utc": "13:02:56",
-      "title": "“-1” Is Economic Secularism: The End of Faith-Based Business",
-      "subtitle": "Stop believing. Start verifying. “-1” replaces “trust me” with the lowest-risk test: proof delivered—or the price goes negative.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-is-economic-secularism-the-end",
-      "slug": "1-is-economic-secularism-the-end"
-    },
-    {
-      "date": "2026-04-11",
-      "datetime_utc": "2026-04-11T15:00:47Z",
-      "time_utc": "15:00:47",
-      "title": "When You Realize the Game Is Rigged, “-1” Shows the Rules—and Flips the Scoreboard",
-      "subtitle": "Hidden rules keep liars rich and operators poor. “-1” is the transparency card: it exposes fake merit, punishes value theft, and makes real value…",
-      "url": "https://theminusoneguarantee.substack.com/p/when-you-realize-the-game-is-rigged",
-      "slug": "when-you-realize-the-game-is-rigged"
-    },
-    {
-      "date": "2026-04-12",
-      "datetime_utc": "2026-04-12T15:01:28Z",
-      "time_utc": "15:01:28",
-      "title": "“-1” Builds a Fair, Meritocratic Economy: The Negative-Price Standard That Upgrades Culture",
-      "subtitle": "When value is missing, the seller pays. That one rule changes incentives, cleans ecosystems, and turns “ethics” into a durable system—not a slogan.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-builds-a-fair-meritocratic-economy",
-      "slug": "1-builds-a-fair-meritocratic-economy"
-    },
-    {
-      "date": "2026-04-13",
-      "datetime_utc": "2026-04-13T15:00:51Z",
-      "time_utc": "15:00:51",
-      "title": "“-1” Cures the Worst Disease: The Devaluation of Your Value",
-      "subtitle": "The world trains you to accept less: less pay, less respect, less growth. “-1” is the antidote—because it forces truth, proof, and change.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-cures-the-worst-disease-the-devaluation",
-      "slug": "1-cures-the-worst-disease-the-devaluation"
-    },
-    {
-      "date": "2026-04-14",
-      "datetime_utc": "2026-04-14T15:01:20Z",
-      "time_utc": "15:01:20",
-      "title": "“-1” Is the Red Pill: It Shows You the Real Market Before You Sink With Everyone Else",
-      "subtitle": "Most businesses don’t collapse. They leak. “-1” is how you see the leak early, spot the iceberg, and build a new reality based on efficiency and proof.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-is-the-red-pill-it-shows-you-the",
-      "slug": "1-is-the-red-pill-it-shows-you-the"
-    },
-    {
-      "date": "2026-04-15",
-      "datetime_utc": "2026-04-15T15:03:06Z",
-      "time_utc": "15:03:06",
-      "title": "“-1” Exposes Tech Blindness: The Negative-Price Torch That Reveals the Real Problem",
-      "subtitle": "Most companies aren’t “behind.” They’re in denial. “-1” shines light into the black box, turns symptoms into signals, and forces modernization—or…",
-      "url": "https://theminusoneguarantee.substack.com/p/1-exposes-tech-blindness-the-negative",
-      "slug": "1-exposes-tech-blindness-the-negative"
-    },
-    {
-      "date": "2026-04-16",
-      "datetime_utc": "2026-04-16T15:02:15Z",
-      "time_utc": "15:02:15",
-      "title": "“-1” Is Real R&D: The Negative-Price Guarantee That Levels Up Anything You Build",
-      "subtitle": "Most “innovation” is vibes. “-1” is research and development with consequences: it forces tests, exposes what’s broken, and upgrades your offer fast.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-is-real-r-and-d-the-negative-price",
-      "slug": "1-is-real-r-and-d-the-negative-price"
-    },
-    {
-      "date": "2026-04-17",
-      "datetime_utc": "2026-04-17T15:02:23Z",
-      "time_utc": "15:02:23",
-      "title": "“-1” Is the Virtuous Cycle: Honesty In, Compounding Value Out",
-      "subtitle": "“-1” doesn’t just protect buyers. It funds better pay, better talent, better systems, and faster innovation—because it forces you to stop lying about…",
-      "url": "https://theminusoneguarantee.substack.com/p/1-is-the-virtuous-cycle-honesty-in",
-      "slug": "1-is-the-virtuous-cycle-honesty-in"
-    },
-    {
-      "date": "2026-04-18",
-      "datetime_utc": "2026-04-18T15:01:59Z",
-      "time_utc": "15:01:59",
-      "title": "The Strategic Enemies of “-1”: Who It Fights, and Why They Hate It",
-      "subtitle": "“-1” isn’t a pricing gimmick. It’s a philosophy of adult responsibility. And it has enemies—because it makes excuses expensive.",
-      "url": "https://theminusoneguarantee.substack.com/p/the-strategic-enemies-of-1-who-it",
-      "slug": "the-strategic-enemies-of-1-who-it"
-    },
-    {
-      "date": "2026-04-19",
-      "datetime_utc": "2026-04-19T15:01:54Z",
-      "time_utc": "15:01:54",
-      "title": "“-1” Earns You Real Compliments: Paid Proof, Public Praise, and a Cleaner Soul",
-      "subtitle": "Most “good job” feedback is cheap. “-1” forces the only compliments that matter: full-price payment, measurable outcomes, and testimonies with receipts.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-earns-you-real-compliments-paid",
-      "slug": "1-earns-you-real-compliments-paid"
-    },
-    {
-      "date": "2026-04-20",
-      "datetime_utc": "2026-04-20T15:02:38Z",
-      "time_utc": "15:02:38",
-      "title": "When Was the Last Time Your Work Truly Mattered to Someone? “-1” Is How You Stop Selling Commodities.",
-      "subtitle": "Nobody thanks a mediocre offer. “-1” only works at high value because it forces you to become different, provable, and hard to copy.",
-      "url": "https://theminusoneguarantee.substack.com/p/when-was-the-last-time-your-work",
-      "slug": "when-was-the-last-time-your-work"
-    },
-    {
-      "date": "2026-04-21",
-      "datetime_utc": "2026-04-21T15:02:28Z",
-      "time_utc": "15:02:28",
-      "title": "“-1” Is the Point of No Return: The Jump the Global Economy Can’t Avoid",
-      "subtitle": "Either you jump into measurable efficiency for total customer satisfaction—or you keep pretending you can survive like it’s 20 years ago.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-is-the-point-of-no-return-the-jump",
-      "slug": "1-is-the-point-of-no-return-the-jump"
-    },
-    {
-      "date": "2026-04-22",
-      "datetime_utc": "2026-04-22T15:01:04Z",
-      "time_utc": "15:01:04",
-      "title": "“-1” Ends the Salaryman Era: No More Overtime as a Business Model",
-      "subtitle": "If your system needs burnout to survive, it’s not “hard work.” It’s failure disguised as culture.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-ends-the-salaryman-era-no-more",
-      "slug": "1-ends-the-salaryman-era-no-more"
-    },
-    {
-      "date": "2026-04-23",
-      "datetime_utc": "2026-04-23T15:01:22Z",
-      "time_utc": "15:01:22",
-      "title": "“-1” Surfaces Systemic Errors: The Negative-Price Guarantee That Makes Denial Measurable",
-      "subtitle": "Most businesses don’t have “random problems.” They have systemic failures they refuse to name. “-1” forces the numbers to speak.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-surfaces-systemic-errors-the-negative",
-      "slug": "1-surfaces-systemic-errors-the-negative"
-    },
-    {
-      "date": "2026-04-24",
-      "datetime_utc": "2026-04-24T15:03:12Z",
-      "time_utc": "15:03:12",
-      "title": "“Nobody Stopped It” Doesn’t Mean It Works. “-1” Is the Stress Test That Proves It.",
-      "subtitle": "Bad processes survive for years because they’re tolerated. “-1” pressures them until the truth shows up: efficient, improvable, or insane.",
-      "url": "https://theminusoneguarantee.substack.com/p/nobody-stopped-it-doesnt-mean-it",
-      "slug": "nobody-stopped-it-doesnt-mean-it"
-    },
-    {
-      "date": "2026-04-25",
-      "datetime_utc": "2026-04-25T15:01:14Z",
-      "time_utc": "15:01:14",
-      "title": "“-1” Is the Parent You Can’t Ignore: It Points at the Mistake and Makes You Pay Attention",
-      "subtitle": "Most people avoid uncomfortable truth by dumping responsibility on someone else. “-1” brings the truth back—repeatedly—until you fix it.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-is-the-parent-you-cant-ignore-it",
-      "slug": "1-is-the-parent-you-cant-ignore-it"
-    },
-    {
-      "date": "2026-04-26",
-      "datetime_utc": "2026-04-26T15:02:14Z",
-      "time_utc": "15:02:14",
-      "title": "“-1” Is the Magnifying Glass: Step Through the Mirror and See Your Business as It Really Is",
-      "subtitle": "Most businesses live inside a story. “-1” is how you step through the mirror into measurement: mapped processes, tracked numbers, and value that must…",
-      "url": "https://theminusoneguarantee.substack.com/p/1-is-the-magnifying-glass-step-through",
-      "slug": "1-is-the-magnifying-glass-step-through"
-    },
-    {
-      "date": "2026-04-27",
-      "datetime_utc": "2026-04-27T15:02:10Z",
-      "time_utc": "15:02:10",
-      "title": "If You Won’t Offer “-1,” You’ll Become Replaceable: Obsolescence Is the Price of Avoiding Proof",
-      "subtitle": "The market is done paying for faith. If you can’t be measured, you will be undercut, ignored, or replaced.",
-      "url": "https://theminusoneguarantee.substack.com/p/if-you-wont-offer-1-youll-become",
-      "slug": "if-you-wont-offer-1-youll-become"
-    },
-    {
-      "date": "2026-04-28",
-      "datetime_utc": "2026-04-28T04:05:42Z",
-      "time_utc": "04:05:42",
-      "title": "“-1” Is a Black Swan: The Negative-Price Guarantee That Breaks Old Business Religion",
-      "subtitle": "Most people still don’t understand CAC, free offers, or risk reversal. So they definitely don’t expect this: paying a penalty when value is missing…",
-      "url": "https://theminusoneguarantee.substack.com/p/1-is-a-black-swan-the-negative-price",
-      "slug": "1-is-a-black-swan-the-negative-price"
-    },
-    {
-      "date": "2026-04-29",
-      "datetime_utc": "2026-04-29T15:01:15Z",
-      "time_utc": "15:01:15",
-      "title": "“-1” Destroys Conflicts of Interest Inside Companies: It Replaces Politics With Numbers",
-      "subtitle": "Office politics survives in fog. “-1” removes the fog by pricing missing value—so favoritism, laziness, and self-protection become expensive.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-destroys-conflicts-of-interest",
-      "slug": "1-destroys-conflicts-of-interest"
-    },
-    {
-      "date": "2026-04-30",
-      "datetime_utc": "2026-04-30T15:01:40Z",
-      "time_utc": "15:01:40",
-      "title": "The “-1” Penalty Has Always Existed. You Were Just Paying in a Different Currency.",
-      "subtitle": "Inefficiency is never free. You either pay in cash later—or you pay in time, burnout, lost opportunities, and decaying assets. “-1” simply makes the…",
-      "url": "https://theminusoneguarantee.substack.com/p/the-1-penalty-has-always-existed",
-      "slug": "the-1-penalty-has-always-existed"
-    },
-    {
-      "date": "2026-05-01",
-      "datetime_utc": "2026-05-01T15:02:00Z",
-      "time_utc": "15:02:00",
-      "title": "“-1” Is the Morning Mirror: Look at the Numbers—or Keep Living a Fairytale",
-      "subtitle": "Most businesses don’t fail because they’re unlucky. They fail because they refuse the mirror: the fundamental numbers that prove value is real.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-is-the-morning-mirror-look-at-the",
-      "slug": "1-is-the-morning-mirror-look-at-the"
-    },
-    {
-      "date": "2026-05-02",
-      "datetime_utc": "2026-05-02T15:01:20Z",
-      "time_utc": "15:01:20",
-      "title": "The Future Belongs to Meticulous, Efficiency-Obsessed, Ethical Operators. “-1” Trains You Into One.",
-      "subtitle": "The winners won’t be the loudest. They’ll be the most measurable, the fastest to fix leaks, and the least willing to profit from hidden damage.",
-      "url": "https://theminusoneguarantee.substack.com/p/the-future-belongs-to-meticulous",
-      "slug": "the-future-belongs-to-meticulous"
-    },
-    {
-      "date": "2026-05-03",
-      "datetime_utc": "2026-05-03T15:01:21Z",
-      "time_utc": "15:01:21",
-      "title": "“-1” Ends the Fairytale for Opaque Businesses: The Final Boss of the Future Market",
-      "subtitle": "If your company survives on fog, “-1” is your end-point. If your company survives on real value, “-1” is your happy ending.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-ends-the-fairytale-for-opaque-businesses",
-      "slug": "1-ends-the-fairytale-for-opaque-businesses"
-    },
-    {
-      "date": "2026-05-04",
-      "datetime_utc": "2026-05-04T15:02:28Z",
-      "time_utc": "15:02:28",
-      "title": "“-1” Turns You Into Your Company’s Best Analyst: The Detective Who Solves the Murder of Value",
-      "subtitle": "Under “-1,” value doesn’t “disappear.” It gets killed. Your job becomes simple: find where it died, why it died, and rebuild the scene so it can’t…",
-      "url": "https://theminusoneguarantee.substack.com/p/1-turns-you-into-your-companys-best",
-      "slug": "1-turns-you-into-your-companys-best"
-    },
-    {
-      "date": "2026-05-05",
-      "datetime_utc": "2026-05-05T15:01:40Z",
-      "time_utc": "15:01:40",
-      "title": "“-1” Turns Closed Markets Into Open Markets: It Breaks Privilege and Distributes Opportunity",
-      "subtitle": "Closed systems protect insiders with gray zones. “-1” kills gray zones with proof and penalties—so opportunity flows to people who actually create…",
-      "url": "https://theminusoneguarantee.substack.com/p/1-turns-closed-markets-into-open",
-      "slug": "1-turns-closed-markets-into-open"
-    },
-    {
-      "date": "2026-05-06",
-      "datetime_utc": "2026-05-06T15:01:45Z",
-      "time_utc": "15:01:45",
-      "title": "“-1” Exposes Organizational Deficiency: Silence Is an Action, and It Has a Price",
-      "subtitle": "In a hyper-connected world, choosing not to measure is not neutral. It’s a decision that shifts pain onto others. “-1” makes that decision expensive.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-exposes-organizational-deficiency",
-      "slug": "1-exposes-organizational-deficiency"
-    },
-    {
-      "date": "2026-05-07",
-      "datetime_utc": "2026-05-07T15:02:17Z",
-      "time_utc": "15:02:17",
-      "title": "“-1” Fights Systemic Responsibility Abdication: It Collapses Fake Truth and Forces Real Change",
-      "subtitle": "When nobody measures, everyone can pretend. “-1” destroys the shared illusion by pricing missing value—so the real debate becomes unavoidable.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-fights-systemic-responsibility",
-      "slug": "1-fights-systemic-responsibility"
-    },
-    {
-      "date": "2026-05-08",
-      "datetime_utc": "2026-05-08T15:00:58Z",
-      "time_utc": "15:00:58",
-      "title": "“-1” Rewards Technical Credibility and Radical Transparency—or You Get Wiped Out",
-      "subtitle": "“Good enough” transparency is dead. When a competitor goes negative-price, your operational fog becomes a competitive liability.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-rewards-technical-credibility-and",
-      "slug": "1-rewards-technical-credibility-and"
-    },
-    {
-      "date": "2026-05-09",
-      "datetime_utc": "2026-05-09T15:00:56Z",
-      "time_utc": "15:00:56",
-      "title": "Shifting Baseline Syndrome Is Killing Your Business. “-1” Is the Alarm That Wakes You Up.",
-      "subtitle": "When inefficiency slowly becomes “normal,” you stop noticing the decline. “-1” exposes the bug in the system and forces a correction before you crash.",
-      "url": "https://theminusoneguarantee.substack.com/p/shifting-baseline-syndrome-is-killing",
-      "slug": "shifting-baseline-syndrome-is-killing"
-    },
-    {
-      "date": "2026-05-10",
-      "datetime_utc": "2026-05-10T15:01:57Z",
-      "time_utc": "15:01:57",
-      "title": "“-1” Ends Pretty Words. It Starts Concrete Facts.",
-      "subtitle": "The era of defensible stories is over. “-1” is the supersonic starting gun: meritocracy accelerates, gray zones die, and slow thinkers get swept away.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-ends-pretty-words-it-starts-concrete",
-      "slug": "1-ends-pretty-words-it-starts-concrete"
-    },
-    {
-      "date": "2026-05-11",
-      "datetime_utc": "2026-05-11T15:01:44Z",
-      "time_utc": "15:01:44",
-      "title": "“-1” Creates a New World: Work Becomes Measured, Meritocratic, and Ethically Accountable",
-      "subtitle": "The old market ran on stories. The new market runs on tracked workflows, real numbers, and total responsibility for customer satisfaction.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-creates-a-new-world-work-becomes",
-      "slug": "1-creates-a-new-world-work-becomes"
-    },
-    {
-      "date": "2026-05-12",
-      "datetime_utc": "2026-05-12T15:01:19Z",
-      "time_utc": "15:01:19",
-      "title": "“-1” Is a Firework for a New Social Contract: The Lifeboat Out of the Old System",
-      "subtitle": "“-1” isn’t just a business model. It’s a forcing function for a socio-economic transition: accountability, reskilling, safety nets, and ethical…",
-      "url": "https://theminusoneguarantee.substack.com/p/1-is-a-firework-for-a-new-social",
-      "slug": "1-is-a-firework-for-a-new-social"
-    },
-    {
-      "date": "2026-05-13",
-      "datetime_utc": "2026-05-13T15:01:34Z",
-      "time_utc": "15:01:34",
-      "title": "“-1” Forces Continuous Testing: Run Like Lions Are Behind You",
-      "subtitle": "In the old world you could hide in “busy.” In the “-1” world, every hour gets tested: value created, or value destroyed.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-forces-continuous-testing-run-like",
-      "slug": "1-forces-continuous-testing-run-like"
-    },
-    {
-      "date": "2026-05-14",
-      "datetime_utc": "2026-05-14T15:01:34Z",
-      "time_utc": "15:01:34",
-      "title": "“-1” Puts Your Business on a Diet: The Negative-Price Standard That Burns Inefficiency Fat",
-      "subtitle": "Most companies aren’t “complex.” They’re overweight: bloated by useless steps, slow decisions, and operational junk. “-1” is the diet that forces the…",
-      "url": "https://theminusoneguarantee.substack.com/p/1-puts-your-business-on-a-diet-the",
-      "slug": "1-puts-your-business-on-a-diet-the"
-    },
-    {
-      "date": "2026-05-15",
-      "datetime_utc": "2026-05-15T15:02:53Z",
-      "time_utc": "15:02:53",
-      "title": "Negative Price Is the Maturity Test: Pass It, or Stay a Child in the Market",
-      "subtitle": "The real market isn’t about talk. It’s about measurable value exchange. Negative Price is the proof you’re mature enough to play.",
-      "url": "https://theminusoneguarantee.substack.com/p/negative-price-is-the-maturity-test",
-      "slug": "negative-price-is-the-maturity-test"
-    },
-    {
-      "date": "2026-05-16",
-      "datetime_utc": "2026-05-16T15:01:27Z",
-      "time_utc": "15:01:27",
-      "title": "“Negative Price” Is the Economic Atomic Bomb of the 21st Century: It Nukes Waste and Exposes Value Thieves",
-      "subtitle": "Add one rule—pay when value is missing—and the whole system changes. Money stops disappearing into fog. Value creators rise. Value destroyers get priced…",
-      "url": "https://theminusoneguarantee.substack.com/p/negative-price-is-the-economic-atomic",
-      "slug": "negative-price-is-the-economic-atomic"
-    },
-    {
-      "date": "2026-05-17",
-      "datetime_utc": "2026-05-17T15:01:50Z",
-      "time_utc": "15:01:50",
-      "title": "Negative Price Lets You Choose the Future: From “I Have to Pay You” to “I Want to Pay You”",
-      "subtitle": "The old market pays out of necessity. The future market pays out of desire—because value is measurable, guaranteed, and proven.",
-      "url": "https://theminusoneguarantee.substack.com/p/negative-price-lets-you-choose-the",
-      "slug": "negative-price-lets-you-choose-the"
-    },
-    {
-      "date": "2026-05-18",
-      "datetime_utc": "2026-05-18T15:01:49Z",
-      "time_utc": "15:01:49",
-      "title": "Negative Price Removes the Training Wheels: It Forces the Market to Ride Without Opacity",
-      "subtitle": "Opacity is how weak operators stay upright. Negative Price (“-1”) takes the training wheels off—so value drainers fall, and only efficient, reliable…",
-      "url": "https://theminusoneguarantee.substack.com/p/negative-price-removes-the-training",
-      "slug": "negative-price-removes-the-training"
-    },
-    {
-      "date": "2026-05-19",
-      "datetime_utc": "2026-05-19T16:51:52Z",
-      "time_utc": "16:51:52",
-      "title": "The 9 Ghost Subsidies Are Gone. Negative Price Is the New Structural Advantage.",
-      "subtitle": "Negative-Price Guarantees replace dead privileges with proof, penalties, and real skill.",
-      "url": "https://theminusoneguarantee.substack.com/p/the-9-ghost-subsidies-are-gone-negative",
-      "slug": "the-9-ghost-subsidies-are-gone-negative"
-    },
-    {
-      "date": "2026-05-20",
-      "datetime_utc": "2026-05-20T15:02:42Z",
-      "time_utc": "15:02:42",
-      "title": "Negative Price Isn’t Here to Make You Happy. It’s Here to Tell You the Truth.",
-      "subtitle": "Negative-price guarantees are a maturity test: they force uncomfortable questions, controversial conversations, and measurable improvement.",
-      "url": "https://theminusoneguarantee.substack.com/p/negative-price-isnt-here-to-make",
-      "slug": "negative-price-isnt-here-to-make"
-    },
-    {
-      "date": "2026-05-21",
-      "datetime_utc": "2026-05-21T15:01:56Z",
-      "time_utc": "15:01:56",
-      "title": "AI Learns With Rewards and Penalties. Humans Forgot How. “-1” Brings It Back.",
-      "subtitle": "If we train machines with incentives and consequences, maybe we should stop pretending humans can improve through vibes and meetings.",
-      "url": "https://theminusoneguarantee.substack.com/p/ai-learns-with-rewards-and-penalties",
-      "slug": "ai-learns-with-rewards-and-penalties"
-    },
-    {
-      "date": "2026-05-22",
-      "datetime_utc": "2026-05-22T15:01:26Z",
-      "time_utc": "15:01:26",
-      "title": "Negative Price (“-1”) Forces the Hard Question: Do I Actually Deserve This Money?",
-      "subtitle": "Negative-price guarantees are the most ethical obligation in business: they force you to prove value in numbers, not words.",
-      "url": "https://theminusoneguarantee.substack.com/p/negative-price-1-forces-the-hard",
-      "slug": "negative-price-1-forces-the-hard"
-    },
-    {
-      "date": "2026-05-23",
-      "datetime_utc": "2026-05-23T15:01:35Z",
-      "time_utc": "15:01:35",
-      "title": "Real Revolutions Don’t Arrive With Trumpets. Negative Price (“-1”) Is One of Them.",
-      "subtitle": "It won’t trend loudly. It will spread quietly—until going back becomes impossible.",
-      "url": "https://theminusoneguarantee.substack.com/p/real-revolutions-dont-arrive-with",
-      "slug": "real-revolutions-dont-arrive-with"
-    },
-    {
-      "date": "2026-05-24",
-      "datetime_utc": "2026-05-24T15:01:52Z",
-      "time_utc": "15:01:52",
-      "title": "Negative Price (“-1”) Is the Exam Where You Can’t Pass With a Fake 6/10",
-      "subtitle": "Many businesses are “passing” by cheating: shifting their bad math onto customers, employees, and the future. “-1” exposes the free-riders and forces a…",
-      "url": "https://theminusoneguarantee.substack.com/p/negative-price-1-is-the-exam-where",
-      "slug": "negative-price-1-is-the-exam-where"
-    },
-    {
-      "date": "2026-05-25",
-      "datetime_utc": "2026-05-25T15:02:33Z",
-      "time_utc": "15:02:33",
-      "title": "Negative Price (“-1”) Ends the Generational War: Only Value Creators Will Matter",
-      "subtitle": "This isn’t “young vs old.” It’s operators vs excuse collectors. “-1” turns the market into one scoreboard: measurable value.",
-      "url": "https://theminusoneguarantee.substack.com/p/negative-prie-1-ends-the-generational",
-      "slug": "negative-prie-1-ends-the-generational"
-    },
-    {
-      "date": "2026-05-26",
-      "datetime_utc": "2026-05-26T15:02:17Z",
-      "time_utc": "15:02:17",
-      "title": "Speed Isn’t a Competitive Advantage. It’s Survival. “-1” Is the MotoGP Engine",
-      "subtitle": "“-1” increases speed so much that sloppy operators crash. Meticulous professionals win because they run on proof, not hope.",
-      "url": "https://theminusoneguarantee.substack.com/p/speed-isnt-a-competitive-advantage",
-      "slug": "speed-isnt-a-competitive-advantage"
-    },
-    {
-      "date": "2026-05-27",
-      "datetime_utc": "2026-05-27T15:02:13Z",
-      "time_utc": "15:02:13",
-      "title": "Negative Price Can’t Be Stopped: Pandora’s Box Is Open",
-      "subtitle": "Once the market sees that penalties can enforce value, every old “you can’t do that” belief becomes irrelevant.",
-      "url": "https://theminusoneguarantee.substack.com/p/negative-price-cant-be-stopped-pandoras",
-      "slug": "negative-price-cant-be-stopped-pandoras"
-    },
-    {
-      "date": "2026-05-28",
-      "datetime_utc": "2026-05-28T15:01:41Z",
-      "time_utc": "15:01:41",
-      "title": "In the Ideal Society, You’re Not a “Role.” You’re a Process Optimizer. “-1” Makes That Real.",
-      "subtitle": "Titles are politics. Processes are reality. “-1” trains people the way winning systems get trained: incentives for value, penalties for leaks, constant…",
-      "url": "https://theminusoneguarantee.substack.com/p/in-the-ideal-society-youre-not-a",
-      "slug": "in-the-ideal-society-youre-not-a"
-    },
-    {
-      "date": "2026-05-29",
-      "datetime_utc": "2026-05-29T15:01:17Z",
-      "time_utc": "15:01:17",
-      "title": "“-1” Won’t Stay Private: Cities Can Run Negative-Price Experiments Too",
-      "subtitle": "The moment you accept “pay a penalty when value is missing,” you can apply it to an entire urban ecosystem—public and private.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-wont-stay-private-cities-can-run",
-      "slug": "1-wont-stay-private-cities-can-run"
-    },
-    {
-      "date": "2026-05-30",
-      "datetime_utc": "2026-05-30T15:01:16Z",
-      "time_utc": "15:01:16",
-      "title": "Negative Prie Inside a Company Means Merit Pay, No Value Theft, and No Sabotage by Fog",
-      "subtitle": "If missing value has a penalty, then real value must have a reward. “-1” forces tracked contribution, quality standards, and training that makes value…",
-      "url": "https://theminusoneguarantee.substack.com/p/negative-prie-inside-a-company-means",
-      "slug": "negative-prie-inside-a-company-means"
-    },
-    {
-      "date": "2026-05-31",
-      "datetime_utc": "2026-05-31T15:02:33Z",
-      "time_utc": "15:02:33",
-      "title": "“-1” Forces Uncomfortable Questions—and Sometimes a Total Reset",
-      "subtitle": "Negative price guarantees put real numbers in front of you and ask: “Is this truly working… or are you defending a dead process?”",
-      "url": "https://theminusoneguarantee.substack.com/p/1-forces-uncomfortable-questionsand",
-      "slug": "1-forces-uncomfortable-questionsand"
-    },
-    {
-      "date": "2026-06-01",
-      "datetime_utc": "2026-06-01T15:01:18Z",
-      "time_utc": "15:01:18",
-      "title": "“-1” Forces Your Priorities: It Shows What Burns Money, What Creates Value, and What Must Change Yesterday",
-      "subtitle": "Most companies don’t have a “priority problem.” They have a visibility problem. “-1” fixes visibility by pricing value leaks in cash.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-forces-your-priorities-it-shows",
-      "slug": "1-forces-your-priorities-it-shows"
-    },
-    {
-      "date": "2026-06-02",
-      "datetime_utc": "2026-06-02T15:02:21Z",
-      "time_utc": "15:02:21",
-      "title": "The “-1” Refund Moment Is the Real Feedback Moment—If You’re Brave Enough to Listen",
-      "subtitle": "The penalty payout isn’t a failure. It’s a diagnostic window most businesses avoid. It tells you what to fix, and who is worth keeping.",
-      "url": "https://theminusoneguarantee.substack.com/p/the-1-refund-moment-is-the-real-feedback",
-      "slug": "the-1-refund-moment-is-the-real-feedback"
-    },
-    {
-      "date": "2026-06-03",
-      "datetime_utc": "2026-06-03T15:02:40Z",
-      "time_utc": "15:02:40",
-      "title": "“-1” Is the Shield for Proactive People: It Blocks Old-Business Lies and Protects Your Value",
-      "subtitle": "When the old system says “adapt,” it often means “stay underpaid, stay quiet, stay inefficient.” “-1” is how you refuse—using proof, not rebellion.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-is-the-shield-for-proactive-people",
-      "slug": "1-is-the-shield-for-proactive-people"
-    },
-    {
-      "date": "2026-06-04",
-      "datetime_utc": "2026-06-04T15:01:30Z",
-      "time_utc": "15:01:30",
-      "title": "Negative Price Forces You to Price Everything: Money, Time, and Real ROI",
-      "subtitle": "Most businesses don’t “lack strategy.” They lack valuation. “-1” makes you assign a cost and a time to every step—then it forces the uncomfortable…",
-      "url": "https://theminusoneguarantee.substack.com/p/negative-price-forces-you-to-price",
-      "slug": "negative-price-forces-you-to-price"
-    },
-    {
-      "date": "2026-06-05",
-      "datetime_utc": "2026-06-05T15:01:01Z",
-      "time_utc": "15:01:01",
-      "title": "The Age of Incentives Is Ending. The Age of Penalties Is Here. “-1” Finds the Direction First.",
-      "subtitle": "Many offers survived on subsidies, connections, hype, or investor patience. That era is fading. The next market rewards operators who can deliver—or pay…",
-      "url": "https://theminusoneguarantee.substack.com/p/the-age-of-incentives-is-ending-the",
-      "slug": "the-age-of-incentives-is-ending-the"
-    },
-    {
-      "date": "2026-06-06",
-      "datetime_utc": "2026-06-06T15:01:15Z",
-      "time_utc": "15:01:15",
-      "title": "“-1” Forces the Only Numbers That Matter—Because Nobody Wants to Know Them",
-      "subtitle": "In unmeasured companies, the most important numbers are unknown on purpose. “-1” makes them unavoidable, because denial becomes expensive.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-forces-the-only-numbers-that-matterbecause",
-      "slug": "1-forces-the-only-numbers-that-matterbecause"
-    },
-    {
-      "date": "2026-06-07",
-      "datetime_utc": "2026-06-07T15:02:12Z",
-      "time_utc": "15:02:12",
-      "title": "Negative Price Forces You to See the Real System You’re Living In",
-      "subtitle": "The old world profits when the lies stay visible-but-unseen. “-1” adds penalties, and the whole mechanism changes. Once you see it, you can’t go back.",
-      "url": "https://theminusoneguarantee.substack.com/p/negative-price-forces-you-to-see",
-      "slug": "negative-price-forces-you-to-see"
-    },
-    {
-      "date": "2026-06-08",
-      "datetime_utc": "2026-06-08T15:01:12Z",
-      "time_utc": "15:01:12",
-      "title": "Applying Negative Price Means You Don’t Get Paid Until Value Is Undeniable",
-      "subtitle": "It’s not just a guarantee. It’s an ethical upgrade: you refuse money until your actions are inside a measured, repeatable system that proves value.",
-      "url": "https://theminusoneguarantee.substack.com/p/applying-negative-price-means-you",
-      "slug": "applying-negative-price-means-you"
-    },
-    {
-      "date": "2026-06-09",
-      "datetime_utc": "2026-06-09T15:01:42Z",
-      "time_utc": "15:01:42",
-      "title": "“-1” Moves You From Being Paid for Hours to Being Chosen for Results",
-      "subtitle": "The old model pays you to occupy time. The “-1” model selects you because you can produce outcomes—faster, cleaner, and with the strongest guarantee in…",
-      "url": "https://theminusoneguarantee.substack.com/p/1-moves-you-from-being-paid-for-hours",
-      "slug": "1-moves-you-from-being-paid-for-hours"
-    },
-    {
-      "date": "2026-06-10",
-      "datetime_utc": "2026-06-10T15:02:22Z",
-      "time_utc": "15:02:22",
-      "title": "Competing on Lowest Price Is a Black Hole. “-1” Finds the Mountain Worth Climbing.",
-      "subtitle": "The cheapest competitor pulls you into a gravity well you rarely escape. “-1” helps you spot the profitable peak: measurable extra value for a niche…",
-      "url": "https://theminusoneguarantee.substack.com/p/competing-on-lowest-price-is-a-black",
-      "slug": "competing-on-lowest-price-is-a-black"
-    },
-    {
-      "date": "2026-06-11",
-      "datetime_utc": "2026-06-11T15:01:40Z",
-      "time_utc": "15:01:40",
-      "title": "“-1” Forces the Hard Choices: The Ones You Avoided Because Comfort Was Cheaper",
-      "subtitle": "If easy improvements were enough, you’d have done them already. “-1” makes the real decisions unavoidable—because missing value becomes expensive.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-forces-the-hard-choices-the-ones",
-      "slug": "1-forces-the-hard-choices-the-ones"
-    },
-    {
-      "date": "2026-06-12",
-      "datetime_utc": "2026-06-12T15:00:38Z",
-      "time_utc": "15:00:38",
-      "title": "If Your Wealth Survives Only in the Dark, “-1” Is Coming for You.",
-      "subtitle": "Negative-Price Guarantees are a generational challenge: prove you deserve what you kept—or watch the market reprice you.",
-      "url": "https://theminusoneguarantee.substack.com/p/if-your-wealth-survives-only-in-the",
-      "slug": "if-your-wealth-survives-only-in-the"
-    },
-    {
-      "date": "2026-06-13",
-      "datetime_utc": "2026-06-13T15:01:00Z",
-      "time_utc": "15:01:00",
-      "title": "If You Refuse “-1,” You’re Not a Professional. You’re a Fog Merchant.",
-      "subtitle": "The future is a hard split: people who demand measurable results—and people who hide behind “no guarantees.” “-1” drags that split into daylight.",
-      "url": "https://theminusoneguarantee.substack.com/p/if-you-refuse-1-youre-not-a-professional",
-      "slug": "if-you-refuse-1-youre-not-a-professional"
-    },
-    {
-      "date": "2026-06-14",
-      "datetime_utc": "2026-06-14T15:01:52Z",
-      "time_utc": "15:01:52",
-      "title": "Your Marketing Budget Is Already a Penalty System. “-1” Just Stops You From Ignoring It.",
-      "subtitle": "CAC is the cost of filtering. Refunds are the cost of weak fit. “-1” turns both into a brutal direction-finder you can’t deny.",
-      "url": "https://theminusoneguarantee.substack.com/p/your-marketing-budget-is-already",
-      "slug": "your-marketing-budget-is-already"
-    },
-    {
-      "date": "2026-06-15",
-      "datetime_utc": "2026-06-15T15:01:15Z",
-      "time_utc": "15:01:15",
-      "title": "If Your Business “Works Only When Everything Goes Well,” You Don’t Have a Business. You Have a Fairytale.",
-      "subtitle": "Negative Price Guarantee (“-1”) is the brutal stress test for modern markets: competition is faster, urgency is real, and “good will” systems collapse…",
-      "url": "https://theminusoneguarantee.substack.com/p/if-your-business-works-only-when",
-      "slug": "if-your-business-works-only-when"
-    },
-    {
-      "date": "2026-06-16",
-      "datetime_utc": "2026-06-16T15:01:30Z",
-      "time_utc": "15:01:30",
-      "title": "If You Take Money and Hide From Responsibility, You’re Not a Business. You’re a Scam With Better Manners.",
-      "subtitle": "Risk and responsibility exist in every transaction. The Negative Price Guarantee (“-1”) just stops you from pretending they don’t.",
-      "url": "https://theminusoneguarantee.substack.com/p/if-you-take-money-and-hide-from-responsibility",
-      "slug": "if-you-take-money-and-hide-from-responsibility"
-    },
-    {
-      "date": "2026-06-17",
-      "datetime_utc": "2026-06-17T15:02:20Z",
-      "time_utc": "15:02:20",
-      "title": "Stop Bragging About Prompts. Start Automating Workflows—or Get Replaced.",
-      "subtitle": "The real AI competitive advantage is not “what prompt to write.” It’s knowing what workflows you can delegate to AI agents—then using “-1” to force…",
-      "url": "https://theminusoneguarantee.substack.com/p/stop-bragging-about-prompts-start",
-      "slug": "stop-bragging-about-prompts-start"
-    },
-    {
-      "date": "2026-06-18",
-      "datetime_utc": "2026-06-18T15:01:43Z",
-      "time_utc": "15:01:43",
-      "title": "If You’re Afraid of “-1,” You’re Afraid of the Diagnosis. And the Disease Doesn’t Care.",
-      "subtitle": "The Negative Price Guarantee (“-1”) is the medical checkup you keep postponing: it will expose what’s wrong, force responsibility, and end the…",
-      "url": "https://theminusoneguarantee.substack.com/p/if-youre-afraid-of-1-youre-afraid",
-      "slug": "if-youre-afraid-of-1-youre-afraid"
-    },
-    {
-      "date": "2026-06-19",
-      "datetime_utc": "2026-06-19T15:01:28Z",
-      "time_utc": "15:01:28",
-      "title": "“-1” Is the Tsunami You See Coming… and Still Refuse to Move From Your Stolen Beach",
-      "subtitle": "Negative Price Guarantee (“-1”) is market accountability at full speed. Ignore it, and the market will audit your inefficiency and ethics for you.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-is-the-tsunami-you-see-coming-and",
-      "slug": "1-is-the-tsunami-you-see-coming-and"
-    },
-    {
-      "date": "2026-06-20",
-      "datetime_utc": "2026-06-20T15:00:55Z",
-      "time_utc": "15:00:55",
-      "title": "If You Won’t Give Back What You Didn’t Earn, “-1” Will Take It From You.",
-      "subtitle": "Negative Price Guarantee (“-1”) is the first domino: it forces investment, humility, process surgery, and the end of unearned benefits.",
-      "url": "https://theminusoneguarantee.substack.com/p/if-you-wont-give-back-what-you-didnt",
-      "slug": "if-you-wont-give-back-what-you-didnt"
-    },
-    {
-      "date": "2026-06-21",
-      "datetime_utc": "2026-06-21T15:01:38Z",
-      "time_utc": "15:01:38",
-      "title": "Your “Growth Problem” Is a Lie. You Have a Gap Problem—and “-1” Exposes Every Single Gap.",
-      "subtitle": "Revenue isn’t the gap. Headcount isn’t the gap. Channels aren’t the gap. The real gap is inside your workflows—and Negative Price Guarantee (“-1…",
-      "url": "https://theminusoneguarantee.substack.com/p/your-growth-problem-is-a-lie-you",
-      "slug": "your-growth-problem-is-a-lie-you"
-    },
-    {
-      "date": "2026-06-22",
-      "datetime_utc": "2026-06-22T15:00:23Z",
-      "time_utc": "15:00:23",
-      "title": "Tell Me When I’m Lying: If You Hate Polarization, You Hate Progress (and “-1” Will Expose You)",
-      "subtitle": "Market evolution is not polite. It’s measurable: incentives, penalties, process mapping, ethics, and proof. Negative Price Guarantee (“-1”) is the…",
-      "url": "https://theminusoneguarantee.substack.com/p/tell-me-when-im-lying-if-you-hate",
-      "slug": "tell-me-when-im-lying-if-you-hate"
-    },
-    {
-      "date": "2026-06-23",
-      "datetime_utc": "2026-06-23T15:00:28Z",
-      "time_utc": "15:00:28",
-      "title": "You’ve Been Paying Penalties the Whole Time. You Just Hid Them Like a Coward. “-1” Makes Them Cash.",
-      "subtitle": "Negative Price Guarantee (“-1”) doesn’t invent penalties. It stops you from outsourcing them to customers, employees, and your future reputation.",
-      "url": "https://theminusoneguarantee.substack.com/p/youve-been-paying-penalties-the-whole",
-      "slug": "youve-been-paying-penalties-the-whole"
-    },
-    {
-      "date": "2026-06-24",
-      "datetime_utc": "2026-06-24T15:01:14Z",
-      "time_utc": "15:01:14",
-      "title": "Your Resume Is About to Become a Lie Detector. No “-1” Track Record? No Hire.",
-      "subtitle": "The future CV isn’t job titles. It’s measurable outcomes under Negative Price Guarantee (“-1”): results, responsibility, and the real cost of…",
-      "url": "https://theminusoneguarantee.substack.com/p/your-resume-is-about-to-become-a",
-      "slug": "your-resume-is-about-to-become-a"
-    },
-    {
-      "date": "2026-06-25",
-      "datetime_utc": "2026-06-25T15:01:04Z",
-      "time_utc": "15:01:04",
-      "title": "If “-1” Existed in Your Company, Half Your “Important Roles” Would Be Fired by Friday.",
-      "subtitle": "Negative Price Guarantee (“-1”) is the highlighter that exposes roles with no skills, no results, no deadlines—just activity that doesn’t move revenue…",
-      "url": "https://theminusoneguarantee.substack.com/p/if-1-existed-in-your-company-half",
-      "slug": "if-1-existed-in-your-company-half"
-    },
-    {
-      "date": "2026-06-26",
-      "datetime_utc": "2026-06-26T15:01:05Z",
-      "time_utc": "15:01:05",
-      "title": "Keep Saying “Yes” to Your Boss and You’ll Die in Mediocrity. “-1” Is Your Exit.",
-      "subtitle": "In a recession + price war + Amazon + AI economy, compliance is not loyalty. It’s self-harm. Negative Price Guarantee (“-1”) is the rebellion that…",
-      "url": "https://theminusoneguarantee.substack.com/p/keep-saying-yes-to-your-boss-and",
-      "slug": "keep-saying-yes-to-your-boss-and"
-    },
-    {
-      "date": "2026-06-27",
-      "datetime_utc": "2026-06-27T15:01:27Z",
-      "time_utc": "15:01:27",
-      "title": "Some Clients Are Time Bombs. “-1” Helps You Identify Them and Build a Blacklist Fast.",
-      "subtitle": "Negative Price Guarantee (“-1”) doesn’t just reverse risk. It exposes toxic buyers who try to control your work, your terms, and your future.",
-      "url": "https://theminusoneguarantee.substack.com/p/some-clients-are-time-bombs-1-helps",
-      "slug": "some-clients-are-time-bombs-1-helps"
-    },
-    {
-      "date": "2026-06-28",
-      "datetime_utc": "2026-06-28T15:01:44Z",
-      "time_utc": "15:01:44",
-      "title": "Your Business Is Full of Useless Stuff. That’s Why You’re Stuck. “-1” Forces the Cut.",
-      "subtitle": "Negative Price Guarantee (“-1”) separates profitable assets from self-sabotaging waste—inside companies and inside your life.",
-      "url": "https://theminusoneguarantee.substack.com/p/your-business-is-full-of-useless",
-      "slug": "your-business-is-full-of-useless"
-    },
-    {
-      "date": "2026-06-29",
-      "datetime_utc": "2026-06-29T15:00:42Z",
-      "time_utc": "15:00:42",
-      "title": "Most Founders Would Rather Die Slowly Than Rebuild While There’s Still Time. “-1” Forces the Rebuild.",
-      "subtitle": "Negative Price Guarantee (“-1”) is the ultimate challenge: stop doing “more of the wrong,” track real value, and take responsibility before the collapse…",
-      "url": "https://theminusoneguarantee.substack.com/p/most-founders-would-rather-die-slowly",
-      "slug": "most-founders-would-rather-die-slowly"
-    },
-    {
-      "date": "2026-06-30",
-      "datetime_utc": "2026-06-30T15:00:36Z",
-      "time_utc": "15:00:36",
-      "title": "Short-Term Thinking Makes You Do Stupid Things. “-1” Forces Long-Term Success.",
-      "subtitle": "Negative Price Guarantee (“-1”) is a long-term operating system: it keeps you on the highway of measurable value while short-term operators get lost in…",
-      "url": "https://theminusoneguarantee.substack.com/p/short-term-thinking-makes-you-do",
-      "slug": "short-term-thinking-makes-you-do"
-    },
-    {
-      "date": "2026-07-01",
-      "datetime_utc": "2026-07-01T15:01:14Z",
-      "time_utc": "15:01:14",
-      "title": "“-1” Lets You Fire the Things You Hate: The Negative Price Guarantee That Exposes Loss-Making Habits",
-      "subtitle": "If a process destroys value, why keep it? Negative Price Guarantee (“-1”) makes losses visible, so you can cut the disease before it kills the system.",
-      "url": "https://theminusoneguarantee.substack.com/p/1-lets-you-fire-the-things-you-hate",
-      "slug": "1-lets-you-fire-the-things-you-hate"
-    },
-    {
-      "date": "2026-07-02",
-      "datetime_utc": "2026-07-02T15:01:16Z",
-      "time_utc": "15:01:16",
-      "title": "Working More Hours Won’t Make You Rich. “-1” Forces Efficiency—or Exposes You as a Time-Waster.",
-      "subtitle": "Negative Price Guarantee (“-1”) proves the real solution to “I need more money” is not more time—it’s more efficient, repeatable processes using the…",
-      "url": "https://theminusoneguarantee.substack.com/p/working-more-hours-wont-make-you",
-      "slug": "working-more-hours-wont-make-you"
-    },
-    {
-      "date": "2026-07-03",
-      "datetime_utc": "2026-07-03T15:02:01Z",
-      "time_utc": "15:02:01",
-      "title": "“-1” Makes Greed Unprofitable: Exploit People and You’ll Die Alone in the Market",
-      "subtitle": "Negative Price Guarantee (“-1”) forces win-win economics. If your “success” depends on squeezing customers, vendors, or employees, the system will…",
-      "url": "https://theminusoneguarantee.substack.com/p/1-makes-greed-unprofitable-exploit",
-      "slug": "1-makes-greed-unprofitable-exploit"
-    },
-    {
-      "date": "2026-07-04",
-      "datetime_utc": "2026-07-04T15:01:32Z",
-      "time_utc": "15:01:32",
-      "title": "The First Time You Hear “-1,” Your Brain Glitches. Good. That’s How Progress Starts.",
-      "subtitle": "Negative Price Guarantee (“-1”) makes “impossible requests” normal: you stop debating what’s allowed and start testing what works.",
-      "url": "https://theminusoneguarantee.substack.com/p/the-first-time-you-hear-1-your-brain",
-      "slug": "the-first-time-you-hear-1-your-brain"
-    },
-    {
-      "date": "2026-07-05",
-      "datetime_utc": "2026-07-05T15:00:34Z",
-      "time_utc": "15:00:34",
-      "title": "If You’re Threatened by Someone Tracking the Numbers, You’re Probably Overpaid. “-1” Exposes It.",
-      "subtitle": "Negative Price Guarantee (“-1”) forces direct accountability in every workflow: value creators rise, value impostors and value thieves lose their cover.",
-      "url": "https://theminusoneguarantee.substack.com/p/if-youre-threatened-by-someone-tracking",
-      "slug": "if-youre-threatened-by-someone-tracking"
-    },
-    {
-      "date": "2026-07-06",
-      "datetime_utc": "2026-07-06T15:01:39Z",
-      "time_utc": "15:01:39",
-      "title": "If You Refuse to Pay for Excellence, Your Kids Will Live Underpaid. “-1” Makes That Consequence Visible.",
-      "subtitle": "Negative Price Guarantee (“-1”) forces a fair deal: pay for real excellence, or get more money back when expectations aren’t met—because exporting risk…",
-      "url": "https://theminusoneguarantee.substack.com/p/if-you-refuse-to-pay-for-excellence",
-      "slug": "if-you-refuse-to-pay-for-excellence"
-    },
-    {
-      "date": "2026-07-07",
-      "datetime_utc": "2026-07-07T15:01:46Z",
-      "time_utc": "15:01:46",
-      "title": "“-1” Will Force You to Admit the One Thing You’d Rather Die Than Say: “Maybe I’m Mediocre.”",
-      "subtitle": "Negative Price Guarantee is a mirror with teeth. It makes you confront training gaps, reinvestment failures, wasted profits, lost talent—and the…",
-      "url": "https://theminusoneguarantee.substack.com/p/1-will-force-you-to-admit-the-one",
-      "slug": "1-will-force-you-to-admit-the-one"
-    },
-    {
-      "date": "2026-07-08",
-      "datetime_utc": "2026-07-08T15:01:28Z",
-      "time_utc": "15:01:28",
-      "title": "If You Ignore Indirect Costs, You’re Not “Profitable.” You’re Delusional. “-1” Forces the Real Math.",
-      "subtitle": "Negative Price Guarantee (“-1”) breaks the fake-profit illusion by forcing you to track ALL direct and indirect costs—so you stop making decisions on a…",
-      "url": "https://theminusoneguarantee.substack.com/p/if-you-ignore-indirect-costs-youre",
-      "slug": "if-you-ignore-indirect-costs-youre"
-    }
-  ]
-}
+[
+  {
+    "date": "2026-01-14",
+    "datetime_utc": "2026-01-14T18:37:54Z",
+    "title": "The -1 Guarantee: The Rules",
+    "subtitle": "Negative-Price Guarantees: Stop Paying for Promises, Pay for Proof.",
+    "url": "https://theminusoneguarantee.substack.com/p/the-1-guarantee-the-rules"
+  },
+  {
+    "date": "2026-01-15",
+    "datetime_utc": "2026-01-15T11:46:31Z",
+    "title": "Why most guarantees are fake (and how to spot one in 60 seconds)",
+    "subtitle": "If there’s no penalty for the seller, it’s not a guarantee. It’s decoration.",
+    "url": "https://theminusoneguarantee.substack.com/p/why-most-guarantees-are-fake-and"
+  },
+  {
+    "date": "2026-01-16",
+    "datetime_utc": "2026-01-16T20:02:27Z",
+    "title": "The Guarantee Arms Race: Why Price Wars Die and Guarantee Wars Win",
+    "subtitle": "The next battlefield isn’t price. It’s penalty. If your guarantee can’t hurt you, it can’t help them trust you.",
+    "url": "https://theminusoneguarantee.substack.com/p/the-guarantee-arms-race-why-price"
+  },
+  {
+    "date": "2026-01-17",
+    "datetime_utc": "2026-01-17T18:21:12Z",
+    "title": "The Hidden Purpose of a Strong Guarantee: Repel Bad Buyers",
+    "subtitle": "A real guarantee isn’t there to “reduce refunds.” It’s there to filter humans.",
+    "url": "https://theminusoneguarantee.substack.com/p/the-hidden-purpose-of-a-strong-guarantee"
+  },
+  {
+    "date": "2026-01-18",
+    "datetime_utc": "2026-01-18T15:11:23Z",
+    "title": "Negative-Price Guarantees: The Anti-Competitor Weapon (If You Can Survive It)",
+    "subtitle": "A -1 guarantee doesn’t just beat competitors. It forces you to become the kind of business they can’t copy.",
+    "url": "https://theminusoneguarantee.substack.com/p/negative-price-guarantees-the-anti"
+  },
+  {
+    "date": "2026-01-19",
+    "datetime_utc": "2026-01-19T14:55:49Z",
+    "title": "When Everyone Goes Negative-Price, Inefficiency Becomes Visible Overnight",
+    "subtitle": "If every company adopted a negative-price guarantee tomorrow, the “hidden cost” wouldn’t be refunds. It would be exposure.",
+    "url": "https://theminusoneguarantee.substack.com/p/when-everyone-goes-negative-price"
+  },
+  {
+    "date": "2026-01-20",
+    "datetime_utc": "2026-01-20T15:51:56Z",
+    "title": "Negative-Price Publishing Isn’t a Gimmick. It’s a Penalty System.",
+    "subtitle": "Most guarantees are marketing. A negative-price guarantee is a consequence.",
+    "url": "https://theminusoneguarantee.substack.com/p/negative-price-publishing-isnt-a"
+  },
+  {
+    "date": "2026-01-21",
+    "datetime_utc": "2026-01-21T10:46:49Z",
+    "title": "The First Cent Test: Why a Negative-Price Guarantee Builds Trust Faster",
+    "subtitle": "One regret and they’re gone. A -1 guarantee makes the first step feel safe — and earns repeat business.",
+    "url": "https://theminusoneguarantee.substack.com/p/the-first-cent-test-why-a-negative"
+  },
+  {
+    "date": "2026-01-22",
+    "datetime_utc": "2026-01-22T13:17:29Z",
+    "title": "From Trunk to Branch: How “-1” Becomes a Category",
+    "subtitle": "Al Ries & Laura Ries explain brand evolution. Negative-price is the next split in the tree.",
+    "url": "https://theminusoneguarantee.substack.com/p/from-trunk-to-branch-how-1-becomes"
+  },
+  {
+    "date": "2026-01-23",
+    "datetime_utc": "2026-01-23T19:34:26Z",
+    "title": "The -1 Readiness Test: Can Your Business Survive a Negative-Price Guarantee?",
+    "subtitle": "Seven departments, numbers you must know, and the one-offer test that exposes chaos.",
+    "url": "https://theminusoneguarantee.substack.com/p/the-1-readiness-test-can-your-business"
+  },
+  {
+    "date": "2026-01-24",
+    "datetime_utc": "2026-01-24T11:06:53Z",
+    "title": "Negative-Price Guarantees Don’t Fail. Companies Do.",
+    "subtitle": "“-1” is not a promise. It’s a stress test that exposes slow delivery, fuzzy expectations, and weak quality control—so only efficient businesses can…",
+    "url": "https://theminusoneguarantee.substack.com/p/negative-price-guarantees-dont-fail"
+  },
+  {
+    "date": "2026-01-25",
+    "datetime_utc": "2026-01-25T12:13:41Z",
+    "title": "Negative-Price Doesn’t Fix Chaos. It Exposes It.",
+    "subtitle": "“-1” is an amplifier. If your business is messy, you won’t gain an advantage—you’ll just pay faster for every weakness you’ve been ignoring.",
+    "url": "https://theminusoneguarantee.substack.com/p/negative-price-doesnt-fix-chaos-it"
+  },
+  {
+    "date": "2026-01-26",
+    "datetime_utc": "2026-01-26T11:14:47Z",
+    "title": "The Day Guarantees Become Mandatory: What Happens To Businesses With “No Refunds”",
+    "subtitle": "No-refund businesses won’t “hold their ground.” They’ll get cut out of the market—because trust is becoming a requirement, not a bonus.",
+    "url": "https://theminusoneguarantee.substack.com/p/the-day-guarantees-become-mandatory"
+  },
+  {
+    "date": "2026-01-27",
+    "datetime_utc": "2026-01-27T08:25:36Z",
+    "title": "One Bad First Sale Kills Repeat Business. A -1 Guarantee Prevents It.",
+    "subtitle": "The first cent is the real test. If the buyer regrets it once, you don’t get a second chance—so “-1” makes the first step feel safe and keeps the right…",
+    "url": "https://theminusoneguarantee.substack.com/p/one-bad-first-sale-kills-repeat-business"
+  },
+  {
+    "date": "2026-01-28",
+    "datetime_utc": "2026-01-28T08:01:48Z",
+    "title": "Negative-Price Forces Cash Discipline (Or It Breaks You)",
+    "subtitle": "“-1” doesn’t just test your offer. It tests your cash—down to the cent and down to the day. If you can’t pay penalties on time, you don’t have a…",
+    "url": "https://theminusoneguarantee.substack.com/p/negative-price-forces-cash-discipline"
+  },
+  {
+    "date": "2026-01-29",
+    "datetime_utc": "2026-01-29T08:02:45Z",
+    "title": "The Nuclear Guarantee: Why “-1” Wipes Out Old-School Businesses",
+    "subtitle": "A negative-price guarantee isn’t “strong customer service.” It’s a high-accountability weapon that destroys companies running on inertia, excuses, and…",
+    "url": "https://theminusoneguarantee.substack.com/p/the-nuclear-guarantee-why-1-wipes"
+  },
+  {
+    "date": "2026-01-30",
+    "datetime_utc": "2026-01-30T08:01:16Z",
+    "title": "Negative-Price Guarantees Are Evolution—Not a Gimmick",
+    "subtitle": "Every upgrade in human history gets resisted first. Then it becomes normal. “-1” is the same: adapt and win new advantages, or refuse and slowly…",
+    "url": "https://theminusoneguarantee.substack.com/p/negative-price-guarantees-are-evolutionnot"
+  },
+  {
+    "date": "2026-01-31",
+    "datetime_utc": "2026-01-31T09:01:57Z",
+    "title": "Negative-Price Won’t Kill Jobs. It Will Kill Unfit Businesses.",
+    "subtitle": "“-1” doesn’t destroy careers. It destroys weak business models—and clears space for new winners.",
+    "url": "https://theminusoneguarantee.substack.com/p/negative-price-wont-kill-jobs-it"
+  },
+  {
+    "date": "2026-02-01",
+    "datetime_utc": "2026-02-01T09:02:58Z",
+    "title": "“-1” Clears the Field: Why the Next Category Leaders Will “Deserve” Customers",
+    "subtitle": "Negative-price isn’t a marketing flex. It’s a legitimacy filter: it removes businesses that survive on friction and excuses—and rewards brands that can…",
+    "url": "https://theminusoneguarantee.substack.com/p/1-clears-the-field-why-the-next-category"
+  },
+  {
+    "date": "2026-02-02",
+    "datetime_utc": "2026-02-02T15:59:21Z",
+    "title": "Negative-Price Is a Cash-Burning Accelerator for Cowards",
+    "subtitle": "-1” burns money fast if you refuse to improve. It doesn’t punish mistakes—it punishes denial, excuses, and “good enough” leadership.",
+    "url": "https://theminusoneguarantee.substack.com/p/negative-price-is-a-cash-burning"
+  },
+  {
+    "date": "2026-02-04",
+    "datetime_utc": "2026-02-04T14:02:56Z",
+    "title": "“-1” Is the New Starting Line for the Next Generation of Entrepreneurs",
+    "subtitle": "Your parents could survive with craft alone. In the new market, craft isn’t enough. “-1” rewards operators who learn business skills, build efficiency…",
+    "url": "https://theminusoneguarantee.substack.com/p/1-is-the-new-starting-line-for-the"
+  },
+  {
+    "date": "2026-02-05",
+    "datetime_utc": "2026-02-05T14:02:49Z",
+    "title": "“-1” Is Market Evolution: Adapt or Get Replaced",
+    "subtitle": "Markets evolve like species. As trust standards rise, negative-price becomes the next genetic upgrade—letting the most accountable brands exchange more…",
+    "url": "https://theminusoneguarantee.substack.com/p/1-is-market-evolution-adapt-or-get"
+  },
+  {
+    "date": "2026-02-06",
+    "datetime_utc": "2026-02-06T14:03:04Z",
+    "title": "Big Company Credentials Are Losing Status. “-1” Makes Outcomes the Only Status.",
+    "subtitle": "“-1” doesn’t care where you worked. It cares what you moved—measurably.",
+    "url": "https://theminusoneguarantee.substack.com/p/big-company-credentials-are-losing"
+  },
+  {
+    "date": "2026-02-07",
+    "datetime_utc": "2026-02-07T14:01:32Z",
+    "title": "“-1” Ends the Debt-Fueled Business Era",
+    "subtitle": "Negative-price makes losses impossible to hide. If you can’t create real value for a tight niche—profitably—you don’t deserve scale.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-ends-the-debt-fueled-business-era"
+  },
+  {
+    "date": "2026-02-08",
+    "datetime_utc": "2026-02-08T14:01:39Z",
+    "title": "“-1” Forces Full-Stack Business Visibility: Every Cent In, Every Cent Out",
+    "subtitle": "Negative-price turns your company from a black box into a measurable pipeline—so you can see leaks, bottlenecks, and broken steps before they kill you.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-forces-full-stack-business-visibility"
+  },
+  {
+    "date": "2026-02-09",
+    "datetime_utc": "2026-02-09T14:01:42Z",
+    "title": "“-1” Turns Your Business Into a Light-Speed Ship",
+    "subtitle": "Negative-price isn’t a Sunday drive. It forces precision, speed, and zero complacency—because tiny neglect becomes instant cash burn.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-turns-your-business-into-a-light"
+  },
+  {
+    "date": "2026-02-10",
+    "datetime_utc": "2026-02-10T14:01:40Z",
+    "title": "The Market Doesn’t Reward “Happy Degrowth.” It Rewards Relentless Momentum.",
+    "subtitle": "If you slow down, competitors inherit your customers. “-1” rewards those who keep improving—and punishes stalls disguised as comfort.",
+    "url": "https://theminusoneguarantee.substack.com/p/the-market-doesnt-reward-happy-degrowth"
+  },
+  {
+    "date": "2026-02-11",
+    "datetime_utc": "2026-02-11T09:12:13Z",
+    "title": "“-1” Forces Sustainable Efficiency: Not Just Profit—People",
+    "subtitle": "Negative-price punishes short-term extraction. To survive “-1,” you must optimize systems and human energy—or penalties expose the rot.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-forces-sustainable-efficiency-not"
+  },
+  {
+    "date": "2026-02-12",
+    "datetime_utc": "2026-02-12T14:01:58Z",
+    "title": "“-1” Separates Premium Value From Cheap Noise",
+    "subtitle": "Negative-price makes one thing obvious: serious high-ticket offers can share risk. Low-margin, low-value sellers can’t—and attract the wrong buyers.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-separates-premium-value-from-cheap"
+  },
+  {
+    "date": "2026-02-13",
+    "datetime_utc": "2026-02-13T14:02:57Z",
+    "title": "“-1” Splits the Future: Measurable Value vs Cheap Commodities",
+    "subtitle": "Negative-price creates two lanes: elite operators who prove outcomes and absorb risk—and commodity sellers who die the moment someone undercuts them.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-splits-the-future-measurable-value"
+  },
+  {
+    "date": "2026-02-14",
+    "datetime_utc": "2026-02-14T14:03:07Z",
+    "title": "“-1” Forces Better Jobs: You Can’t Run Negative-Price on Burnout",
+    "subtitle": "To survive “-1,” you need great people, great systems, and real accountability. Exploiting labor becomes an expensive failure mode—not a business model.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-forces-better-jobs-you-cant-run"
+  },
+  {
+    "date": "2026-02-15",
+    "datetime_utc": "2026-02-15T14:02:33Z",
+    "title": "“-1” Is the Ultimate Reality Check: It Makes Business Lies Expensive",
+    "subtitle": "Negative-price turns hidden weaknesses into immediate cash loss—so every missing variable, broken process, and vague promise gets exposed fast.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-is-the-ultimate-reality-check-it"
+  },
+  {
+    "date": "2026-02-16",
+    "datetime_utc": "2026-02-16T14:03:12Z",
+    "title": "WARNING: 7 Company Lies “-1” Will Expose (And Charge You For)",
+    "subtitle": "Negative-price doesn’t negotiate with your excuses. It turns them into refunds, penalties, and public regret.",
+    "url": "https://theminusoneguarantee.substack.com/p/warning-7-company-lies-1-will-expose"
+  },
+  {
+    "date": "2026-02-17",
+    "datetime_utc": "2026-02-17T14:01:10Z",
+    "title": "Negative-Price Guarantees Kill Fad Businesses (and Reward Long-Term Brands)",
+    "subtitle": "“-1” punishes short-term cash grabs and weak delivery. It rewards retention, LTV, reputation—and turns customers into fans.",
+    "url": "https://theminusoneguarantee.substack.com/p/negative-price-guarantees-kill-fad"
+  },
+  {
+    "date": "2026-02-18",
+    "datetime_utc": "2026-02-18T14:02:49Z",
+    "title": "“-1” Is Accelerated Growth… or Accelerated Collapse",
+    "subtitle": "Negative-price doesn’t “fix” a business. It multiplies what’s already inside—efficiency or chaos.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-is-accelerated-growth-or-accelerated"
+  },
+  {
+    "date": "2026-02-19",
+    "datetime_utc": "2026-02-19T14:02:32Z",
+    "title": "Negative-Price Is a Weapon System (And a Trap for Imitators)",
+    "subtitle": "“-1” rewards full-stack operators and punishes surface-level copycats—fast.",
+    "url": "https://theminusoneguarantee.substack.com/p/negative-price-is-a-weapon-system"
+  },
+  {
+    "date": "2026-02-20",
+    "datetime_utc": "2026-02-20T14:02:11Z",
+    "title": "The -1 Guarantee Is a Weapon. Use It Wrong and It Shoots You First.",
+    "subtitle": "Negative-price works. But without the right “body,” the right place, and protections, it turns into recoil—fast.",
+    "url": "https://theminusoneguarantee.substack.com/p/the-1-guarantee-is-a-weapon-use-it"
+  },
+  {
+    "date": "2026-02-21",
+    "datetime_utc": "2026-02-21T14:01:13Z",
+    "title": "“-1” Is Market Evolution—And It Forces an Ethical Upgrade",
+    "subtitle": "Negative-price doesn’t just change offers. It changes what kind of operator you must become.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-is-market-evolutionand-it-forces"
+  },
+  {
+    "date": "2026-02-22",
+    "datetime_utc": "2026-02-22T14:03:02Z",
+    "title": "“-1” Forces a Real Team: Yes-Men Become a Liability",
+    "subtitle": "Negative-price punishes internal sabotage, passive compliance, and “keep my seat” culture—because inefficiency becomes penalties.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-forces-a-real-team-yes-men-become"
+  },
+  {
+    "date": "2026-02-23",
+    "datetime_utc": "2026-02-23T14:01:50Z",
+    "title": "“-1” Is the Sharpest Knife in Business: It Cuts Lies Into Visible Wounds",
+    "subtitle": "Negative-price turns “minor issues” into open injuries—because every inefficiency becomes a penalty you can’t ignore.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-is-the-sharpest-knife-in-business"
+  },
+  {
+    "date": "2026-02-24",
+    "datetime_utc": "2026-02-24T14:02:18Z",
+    "title": "“-1” Forces Role Clarity—and Turns Top Performers Into Profit Partners",
+    "subtitle": "Negative-price pushes companies toward clean handoffs, measurable KPIs, and incentives that reward real value (not politics).",
+    "url": "https://theminusoneguarantee.substack.com/p/1-forces-role-clarityand-turns-top"
+  },
+  {
+    "date": "2026-02-25",
+    "datetime_utc": "2026-02-25T14:02:38Z",
+    "title": "The New Rule of Work: If You Create Value, You Must Get Paid Like You Created It",
+    "subtitle": "In a “-1” world, being “just a worker” dies. Everyone becomes a measurable value carrier—or gets replaced.",
+    "url": "https://theminusoneguarantee.substack.com/p/the-new-rule-of-work-if-you-create"
+  },
+  {
+    "date": "2026-02-26",
+    "datetime_utc": "2026-02-26T14:01:33Z",
+    "title": "Mediocre Work Isn’t Competing With People Anymore. It’s Competing With AI.",
+    "subtitle": "“-1” will split the market even harder: high-accountability companies will surge, low-accountability companies will get exposed.",
+    "url": "https://theminusoneguarantee.substack.com/p/mediocre-work-isnt-competing-with"
+  },
+  {
+    "date": "2026-02-27",
+    "datetime_utc": "2026-02-27T14:02:42Z",
+    "title": "The Working Poor Era: Why “Cheaper” Jobs Will Multiply (And Why “-1” Will Expose Them)",
+    "subtitle": "It’s not “people don’t want to work.” It’s that many offers don’t pay enough to live—so accountability becomes the only real differentiator.",
+    "url": "https://theminusoneguarantee.substack.com/p/the-working-poor-era-why-cheaper"
+  },
+  {
+    "date": "2026-02-28",
+    "datetime_utc": "2026-02-28T14:01:03Z",
+    "title": "The “Innovation Test” at Your Job: Would They Let You Improve Anything?",
+    "subtitle": "If you can create new value but your company blocks you—and won’t share the upside—“-1” reveals the truth fast.",
+    "url": "https://theminusoneguarantee.substack.com/p/the-innovation-test-at-your-job-would"
+  },
+  {
+    "date": "2026-03-01",
+    "datetime_utc": "2026-03-01T14:01:59Z",
+    "title": "“-1” Is a Daily Guillotine: It Cuts Inefficiency Every Time Value Is Missing",
+    "subtitle": "Negative-price doesn’t “motivate.” It enforces. It rewards real value and kills activities that shouldn’t exist in an efficient market.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-is-a-daily-guillotine-it-cuts-inefficiency"
+  },
+  {
+    "date": "2026-03-02",
+    "datetime_utc": "2026-03-02T14:01:32Z",
+    "title": "“-1” Is It Really Too Risky?",
+    "subtitle": "Negative-price isn’t dangerous. Vagueness is. “-1” only hurts businesses that don’t control delivery.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-is-it-really-too-risky"
+  },
+  {
+    "date": "2026-03-03",
+    "datetime_utc": "2026-03-03T14:02:33Z",
+    "title": "The Real Signal of Strength Behind an Extreme Guarantee",
+    "subtitle": "“-1” isn’t a slogan. It’s proof. It doesn’t save weak offers—it exposes them, upgrades them, and filters bad buyers out.",
+    "url": "https://theminusoneguarantee.substack.com/p/the-real-signal-of-strength-behind"
+  },
+  {
+    "date": "2026-03-04",
+    "datetime_utc": "2026-03-04T14:01:48Z",
+    "title": "The -1 Line: The Moment “Doing Things Randomly” Stops Working",
+    "subtitle": "Negative-price is the demarcation point between the old world—where chaos could still survive—and the new world—where efficiency and responsibility…",
+    "url": "https://theminusoneguarantee.substack.com/p/the-1-line-the-moment-doing-things"
+  },
+  {
+    "date": "2026-03-05",
+    "datetime_utc": "2026-03-05T14:02:44Z",
+    "title": "“What If Everyone Claims the -1?” (You’re Asking the Wrong Question)",
+    "subtitle": "If “everyone” wants the penalty, the problem isn’t the guarantee. It’s your value, your delivery, or your target.",
+    "url": "https://theminusoneguarantee.substack.com/p/what-if-everyone-claims-the-1-youre"
+  },
+  {
+    "date": "2026-03-06",
+    "datetime_utc": "2026-03-06T14:02:27Z",
+    "title": "The Offer Only Improved When It Finally Hurt",
+    "subtitle": "Most offers don’t evolve because there’s no penalty for staying mediocre. A hard guarantee creates pressure—and pressure creates quality.",
+    "url": "https://theminusoneguarantee.substack.com/p/the-offer-only-improved-when-it-finally"
+  },
+  {
+    "date": "2026-03-07",
+    "datetime_utc": "2026-03-07T14:01:56Z",
+    "title": "Most Businesses Survive Only Because Their Competitors Are Just as Bad",
+    "subtitle": "You can coast in a sea of mediocrity… until one operator gets efficient and takes the best customers. Then everyone else collapses.",
+    "url": "https://theminusoneguarantee.substack.com/p/most-businesses-survive-only-because"
+  },
+  {
+    "date": "2026-03-08",
+    "datetime_utc": "2026-03-08T14:02:21Z",
+    "title": "Negative-Price Is the Next Poker Game Companies Will Play With the Market",
+    "subtitle": "“-1” is the great equalizer. It forces open cards, exposes bluff value, and rewards operators who can prove outcomes.",
+    "url": "https://theminusoneguarantee.substack.com/p/negative-price-is-the-next-poker"
+  },
+  {
+    "date": "2026-03-09",
+    "datetime_utc": "2026-03-09T14:02:00Z",
+    "title": "How the -1 Repositions You Instantly",
+    "subtitle": "In crowded markets, claims are cheap. Risk is not. The moment you put a penalty behind your promise, you stop sounding like everyone else.",
+    "url": "https://theminusoneguarantee.substack.com/p/how-the-1-repositions-you-instantly"
+  },
+  {
+    "date": "2026-03-10",
+    "datetime_utc": "2026-03-10T16:02:37Z",
+    "title": "“-1” Is Chess. Your Competitors Are Still Playing Checkers",
+    "subtitle": "Negative-price guarantees force a strategic leap: public accountability, higher efficiency, and trust that price wars can’t buy.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-is-chess-your-competitors-are-still"
+  },
+  {
+    "date": "2026-03-11",
+    "datetime_utc": "2026-03-11T16:01:40Z",
+    "title": "“-1” Is the Necessary Return to a Hard Truth: You Must Earn Your Value",
+    "subtitle": "Negative-price guarantees are a tsunami of honesty. They expose fake value, reward real delivery, and punish promise addicts.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-is-the-necessary-return-to-a-hard"
+  },
+  {
+    "date": "2026-03-12",
+    "datetime_utc": "2026-03-12T16:01:21Z",
+    "title": "“-1” Forces a Brutal Truth: Someone Else Might Be Better Than You",
+    "subtitle": "The moment a competitor runs a negative-price guarantee, excuses die. Either they collapse… or they earn your best customers.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-forces-a-brutal-truth-someone-else"
+  },
+  {
+    "date": "2026-03-13",
+    "datetime_utc": "2026-03-13T16:02:32Z",
+    "title": "“-1” Makes the Line Obvious: Value vs Waste, Evolution vs Decay",
+    "subtitle": "Some activities should not exist. Some workflows must be automated. “-1” doesn’t create the split—it exposes it, fast.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-makes-the-line-obvious-value-vs"
+  },
+  {
+    "date": "2026-03-14",
+    "datetime_utc": "2026-03-14T16:01:18Z",
+    "title": "R-Day: The Rebellion Day Against Inefficiency",
+    "subtitle": "A future chronicle: one day the retirement fairy tale collapses. “-1” is how you stop living on promises—and start demanding measurable value now.",
+    "url": "https://theminusoneguarantee.substack.com/p/r-day-the-rebellion-day-against-inefficiency"
+  },
+  {
+    "date": "2026-03-15",
+    "datetime_utc": "2026-03-15T16:01:25Z",
+    "title": "“-1” Builds a No-Lies Economy",
+    "subtitle": "Negative-price doesn’t just change guarantees. It makes pretending expensive—so value, accountability, and credit finally become real.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-builds-a-no-lies-economy"
+  },
+  {
+    "date": "2026-03-16",
+    "datetime_utc": "2026-03-16T16:02:05Z",
+    "title": "The Old Career Ladder Is Rotten. “-1” Is the Exit",
+    "subtitle": "If legacy companies won’t reward value and innovation, build a negative-price business that proves it—and takes the best customers.",
+    "url": "https://theminusoneguarantee.substack.com/p/the-old-career-ladder-is-rotten-1"
+  },
+  {
+    "date": "2026-03-17",
+    "datetime_utc": "2026-03-17T16:01:18Z",
+    "title": "The Hard Truth: Many Companies Prefer Cheap “Yes” People Over Valuable “Why” People",
+    "subtitle": "The most revolutionary move is to say no—then build a -1 offer that makes accountability real and paper castles collapse.",
+    "url": "https://theminusoneguarantee.substack.com/p/the-hard-truth-many-companies-prefer"
+  },
+  {
+    "date": "2026-03-18",
+    "datetime_utc": "2026-03-18T16:01:32Z",
+    "title": "With “-1” There Are No Excuses: Busy Is Not a Status, It’s a Symptom",
+    "subtitle": "Working a lot is not a flex. If it produces low margin and chaos, it’s just expensive motion—and “-1” makes that visible.",
+    "url": "https://theminusoneguarantee.substack.com/p/with-1-there-are-no-excuses-busy"
+  },
+  {
+    "date": "2026-03-19",
+    "datetime_utc": "2026-03-19T16:02:25Z",
+    "title": "In a World With No Guarantees, the Most Revolutionary Act Is to Guarantee Yourself",
+    "subtitle": "When everything is volatile—jobs, markets, AI, even tomorrow—“-1” is the decision to be judged on real value, every day.",
+    "url": "https://theminusoneguarantee.substack.com/p/in-a-world-with-no-guarantees-the"
+  },
+  {
+    "date": "2026-03-20",
+    "datetime_utc": "2026-03-20T16:01:29Z",
+    "title": "Discount Buyers Can’t Build a Business. Fans Can.",
+    "subtitle": "Promotions create one-time customers. Premium value creates repeat buyers. “-1” accelerates the shift by attracting fans and filtering bargain hunters.",
+    "url": "https://theminusoneguarantee.substack.com/p/discount-buyers-cant-build-a-business"
+  },
+  {
+    "date": "2026-03-21",
+    "datetime_utc": "2026-03-21T16:01:15Z",
+    "title": "If a Job Can Be Written as a Prompt, It Can Be Automated. “-1” Is the Only Escape",
+    "subtitle": "The future won’t reward “working harder.” It will reward measurable value, repeatable systems, and personal accountability.",
+    "url": "https://theminusoneguarantee.substack.com/p/if-a-job-can-be-written-as-a-prompt"
+  },
+  {
+    "date": "2026-03-22",
+    "datetime_utc": "2026-03-22T16:01:45Z",
+    "title": "“-1” Kills Moral Laziness: The Negative-Price Guarantee That Forces You to Tell the Truth",
+    "subtitle": "If you won’t accept a negative-price guarantee, you don’t have a “business model problem.” You have a “don’t judge me” problem.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-kills-moral-laziness-the-negative"
+  },
+  {
+    "date": "2026-03-23",
+    "datetime_utc": "2026-03-23T16:01:23Z",
+    "title": "The “-1” Negative-Price Guarantee Is Meritocracy in Cash",
+    "subtitle": "Meritocracy isn’t a motivational poster. It’s a system that rewards value, punishes value destruction, and forces responsibility—fast.",
+    "url": "https://theminusoneguarantee.substack.com/p/the-1-negative-price-guarantee-is"
+  },
+  {
+    "date": "2026-03-24",
+    "datetime_utc": "2026-03-24T16:01:58Z",
+    "title": "The “-1” Negative-Price Guarantee Is How You Bet on Yourself",
+    "subtitle": "Most people do the minimum. “-1” forces you to do what’s efficient, measurable, and real—then rewards you for it.",
+    "url": "https://theminusoneguarantee.substack.com/p/the-1-negative-price-guarantee-is-bd8"
+  },
+  {
+    "date": "2026-03-25",
+    "datetime_utc": "2026-03-25T16:01:35Z",
+    "title": "Your Job Is to Make Someone’s Life Easier. “-1” Makes You Prove You Did",
+    "subtitle": "Every role is service. “-1” is the only guarantee model that turns “I helped” into “Here’s the proof—or here’s the penalty.”",
+    "url": "https://theminusoneguarantee.substack.com/p/your-job-is-to-make-someones-life"
+  },
+  {
+    "date": "2026-03-26",
+    "datetime_utc": "2026-03-26T16:01:07Z",
+    "title": "“-1” Destroys Fake Promises: It Turns Marketing Into Cash Accountability",
+    "subtitle": "Most people prosper because their promises are foggy. “-1” replaces fog with a receipt: value delivered, or money paid back—plus a penalty.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-destroys-fake-promises-it-turns"
+  },
+  {
+    "date": "2026-03-27",
+    "datetime_utc": "2026-03-27T16:02:44Z",
+    "title": "“-1” Exposes Toxic Work Relationships: The Negative-Price Lens That Forces the Truth",
+    "subtitle": "“-1” doesn’t just test your offer. It pressure-tests your people, your processes, and every relationship draining more value than it creates.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-exposes-toxic-work-relationships"
+  },
+  {
+    "date": "2026-03-28",
+    "datetime_utc": "2026-03-28T16:01:22Z",
+    "title": "“-1” Protects the Proactive: The Negative-Price Guarantee That Filters Cheap Buyers",
+    "subtitle": "If you’re skilled and serious, your biggest enemy isn’t competition. It’s the market segment that wants your results at a discount.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-protects-the-proactive-the-negative"
+  },
+  {
+    "date": "2026-03-29",
+    "datetime_utc": "2026-03-29T15:01:02Z",
+    "title": "“-1” Is the Promotion You Give Yourself: From Storytelling to Real Leadership",
+    "subtitle": "Titles don’t make you a leader. Accountability does. “-1” is you taking the job: final owner of satisfaction.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-is-the-promotion-you-give-yourself"
+  },
+  {
+    "date": "2026-03-30",
+    "datetime_utc": "2026-03-30T15:01:42Z",
+    "title": "“-1” Is the Ultimate Anti-Bureaucracy Tool: It Prices Waste in Cash",
+    "subtitle": "Bureaucracy survives because nobody pays for it. “-1” makes somebody pay—so the useless steps finally die.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-is-the-ultimate-anti-bureaucracy"
+  },
+  {
+    "date": "2026-03-31",
+    "datetime_utc": "2026-03-31T15:01:52Z",
+    "title": "“-1” Is David’s Sling: The Negative-Price Guarantee That Forces Goliath to Diet",
+    "subtitle": "Big companies win by inertia. “-1” turns inertia into liability—and gives lean operators a weapon they can actually use.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-is-davids-sling-the-negative-price"
+  },
+  {
+    "date": "2026-04-01",
+    "datetime_utc": "2026-04-01T15:01:04Z",
+    "title": "“-1” Forces You to Stop Being Toxic: The Guarantee That Punishes Ego and Rewards Listening",
+    "subtitle": "Toxic people can survive in vague markets. “-1” removes the fog—so arrogance becomes expensive and emotional intelligence becomes profit.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-forces-you-to-stop-being-toxic"
+  },
+  {
+    "date": "2026-04-02",
+    "datetime_utc": "2026-04-02T15:00:59Z",
+    "title": "“-1” Fixes Job Mismatch: The Negative-Price Guarantee That Forces Skills to Be Used",
+    "subtitle": "Job mismatch survives in fog. “-1” forces the flow into writing—and prices the gaps in cash.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-fixes-job-mismatch-the-negative"
+  },
+  {
+    "date": "2026-04-03",
+    "datetime_utc": "2026-04-03T15:00:54Z",
+    "title": "Underemployment Is a System Failure. “-1” Makes It Unaffordable",
+    "subtitle": "Overqualified people stuck in dead-end roles aren’t the problem. The unmeasured process is. “-1” forces truth, upgrades, and fair pay—fast.",
+    "url": "https://theminusoneguarantee.substack.com/p/underemployment-is-a-system-failure"
+  },
+  {
+    "date": "2026-04-04",
+    "datetime_utc": "2026-04-04T15:00:23Z",
+    "title": "“-1” Forces a Time Audit: The Negative-Price Guarantee That Exposes Your Real Hourly Value",
+    "subtitle": "Money hides waste. Time exposes it. “-1” forces you to price your hours like a business—because every slow, low-value step becomes a liability.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-forces-a-time-audit-the-negative"
+  },
+  {
+    "date": "2026-04-05",
+    "datetime_utc": "2026-04-05T11:02:17Z",
+    "title": "Good Ideas Get Voted With Money. “-1” Makes the Vote Honest",
+    "subtitle": "Vision without paying customers is a diary. “-1” speeds up the only vote that matters: cash for proven value—or penalties for missing it.",
+    "url": "https://theminusoneguarantee.substack.com/p/good-ideas-get-voted-with-money-1"
+  },
+  {
+    "date": "2026-04-06",
+    "datetime_utc": "2026-04-06T13:02:22Z",
+    "title": "We Live in a Risk Society. “-1” Is Your Flag of Responsibility",
+    "subtitle": "The old guarantees are gone. “-1” is how you prove—publicly, in cash—that you can carry risk, make decisions, and deliver measured improvement.",
+    "url": "https://theminusoneguarantee.substack.com/p/we-live-in-a-risk-society-1-is-your"
+  },
+  {
+    "date": "2026-04-07",
+    "datetime_utc": "2026-04-07T13:02:44Z",
+    "title": "Social “Success” Has Changed. “-1” Is the New Status Symbol.",
+    "subtitle": "The old trophies were security, comfort, and approval. The new trophy is independence through measurable value. “-1” is the fastest way to prove you…",
+    "url": "https://theminusoneguarantee.substack.com/p/social-success-has-changed-1-is-the"
+  },
+  {
+    "date": "2026-04-08",
+    "datetime_utc": "2026-04-08T13:02:27Z",
+    "title": "Would You Build Your Life on a Project That’s Destined to Fail? “-1” Stops You",
+    "subtitle": "“-1” is not just a guarantee. It’s a failure detector. It shows you—fast—what roads lead to growth and what roads lead to collapse.",
+    "url": "https://theminusoneguarantee.substack.com/p/would-you-build-your-life-on-a-project"
+  },
+  {
+    "date": "2026-04-09",
+    "datetime_utc": "2026-04-09T13:02:10Z",
+    "title": "“-1” Is the Human Restart Button: Build Something Better Than the Past",
+    "subtitle": "“-1” is a declaration: I’m done with broken standards. I will start again—with higher efficiency, clearer proof, and more value.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-is-the-human-restart-button-build"
+  },
+  {
+    "date": "2026-04-10",
+    "datetime_utc": "2026-04-10T13:02:56Z",
+    "title": "“-1” Is Economic Secularism: The End of Faith-Based Business",
+    "subtitle": "Stop believing. Start verifying. “-1” replaces “trust me” with the lowest-risk test: proof delivered—or the price goes negative.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-is-economic-secularism-the-end"
+  },
+  {
+    "date": "2026-04-11",
+    "datetime_utc": "2026-04-11T15:00:47Z",
+    "title": "When You Realize the Game Is Rigged, “-1” Shows the Rules—and Flips the Scoreboard",
+    "subtitle": "Hidden rules keep liars rich and operators poor. “-1” is the transparency card: it exposes fake merit, punishes value theft, and makes real value…",
+    "url": "https://theminusoneguarantee.substack.com/p/when-you-realize-the-game-is-rigged"
+  },
+  {
+    "date": "2026-04-12",
+    "datetime_utc": "2026-04-12T15:01:28Z",
+    "title": "“-1” Builds a Fair, Meritocratic Economy: The Negative-Price Standard That Upgrades Culture",
+    "subtitle": "When value is missing, the seller pays. That one rule changes incentives, cleans ecosystems, and turns “ethics” into a durable system—not a slogan.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-builds-a-fair-meritocratic-economy"
+  },
+  {
+    "date": "2026-04-13",
+    "datetime_utc": "2026-04-13T15:00:51Z",
+    "title": "“-1” Cures the Worst Disease: The Devaluation of Your Value",
+    "subtitle": "The world trains you to accept less: less pay, less respect, less growth. “-1” is the antidote—because it forces truth, proof, and change.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-cures-the-worst-disease-the-devaluation"
+  },
+  {
+    "date": "2026-04-14",
+    "datetime_utc": "2026-04-14T15:01:20Z",
+    "title": "“-1” Is the Red Pill: It Shows You the Real Market Before You Sink With Everyone Else",
+    "subtitle": "Most businesses don’t collapse. They leak. “-1” is how you see the leak early, spot the iceberg, and build a new reality based on efficiency and proof.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-is-the-red-pill-it-shows-you-the"
+  },
+  {
+    "date": "2026-04-15",
+    "datetime_utc": "2026-04-15T15:03:06Z",
+    "title": "“-1” Exposes Tech Blindness: The Negative-Price Torch That Reveals the Real Problem",
+    "subtitle": "Most companies aren’t “behind.” They’re in denial. “-1” shines light into the black box, turns symptoms into signals, and forces modernization—or…",
+    "url": "https://theminusoneguarantee.substack.com/p/1-exposes-tech-blindness-the-negative"
+  },
+  {
+    "date": "2026-04-16",
+    "datetime_utc": "2026-04-16T15:02:15Z",
+    "title": "“-1” Is Real R&D: The Negative-Price Guarantee That Levels Up Anything You Build",
+    "subtitle": "Most “innovation” is vibes. “-1” is research and development with consequences: it forces tests, exposes what’s broken, and upgrades your offer fast.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-is-real-r-and-d-the-negative-price"
+  },
+  {
+    "date": "2026-04-17",
+    "datetime_utc": "2026-04-17T15:02:23Z",
+    "title": "“-1” Is the Virtuous Cycle: Honesty In, Compounding Value Out",
+    "subtitle": "“-1” doesn’t just protect buyers. It funds better pay, better talent, better systems, and faster innovation—because it forces you to stop lying about…",
+    "url": "https://theminusoneguarantee.substack.com/p/1-is-the-virtuous-cycle-honesty-in"
+  },
+  {
+    "date": "2026-04-18",
+    "datetime_utc": "2026-04-18T15:01:59Z",
+    "title": "The Strategic Enemies of “-1”: Who It Fights, and Why They Hate It",
+    "subtitle": "“-1” isn’t a pricing gimmick. It’s a philosophy of adult responsibility. And it has enemies—because it makes excuses expensive.",
+    "url": "https://theminusoneguarantee.substack.com/p/the-strategic-enemies-of-1-who-it"
+  },
+  {
+    "date": "2026-04-19",
+    "datetime_utc": "2026-04-19T15:01:54Z",
+    "title": "“-1” Earns You Real Compliments: Paid Proof, Public Praise, and a Cleaner Soul",
+    "subtitle": "Most “good job” feedback is cheap. “-1” forces the only compliments that matter: full-price payment, measurable outcomes, and testimonies with receipts.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-earns-you-real-compliments-paid"
+  },
+  {
+    "date": "2026-04-20",
+    "datetime_utc": "2026-04-20T15:02:38Z",
+    "title": "When Was the Last Time Your Work Truly Mattered to Someone? “-1” Is How You Stop Selling Commodities.",
+    "subtitle": "Nobody thanks a mediocre offer. “-1” only works at high value because it forces you to become different, provable, and hard to copy.",
+    "url": "https://theminusoneguarantee.substack.com/p/when-was-the-last-time-your-work"
+  },
+  {
+    "date": "2026-04-21",
+    "datetime_utc": "2026-04-21T15:02:28Z",
+    "title": "“-1” Is the Point of No Return: The Jump the Global Economy Can’t Avoid",
+    "subtitle": "Either you jump into measurable efficiency for total customer satisfaction—or you keep pretending you can survive like it’s 20 years ago.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-is-the-point-of-no-return-the-jump"
+  },
+  {
+    "date": "2026-04-22",
+    "datetime_utc": "2026-04-22T15:01:04Z",
+    "title": "“-1” Ends the Salaryman Era: No More Overtime as a Business Model",
+    "subtitle": "If your system needs burnout to survive, it’s not “hard work.” It’s failure disguised as culture.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-ends-the-salaryman-era-no-more"
+  },
+  {
+    "date": "2026-04-23",
+    "datetime_utc": "2026-04-23T15:01:22Z",
+    "title": "“-1” Surfaces Systemic Errors: The Negative-Price Guarantee That Makes Denial Measurable",
+    "subtitle": "Most businesses don’t have “random problems.” They have systemic failures they refuse to name. “-1” forces the numbers to speak.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-surfaces-systemic-errors-the-negative"
+  },
+  {
+    "date": "2026-04-24",
+    "datetime_utc": "2026-04-24T15:03:12Z",
+    "title": "“Nobody Stopped It” Doesn’t Mean It Works. “-1” Is the Stress Test That Proves It.",
+    "subtitle": "Bad processes survive for years because they’re tolerated. “-1” pressures them until the truth shows up: efficient, improvable, or insane.",
+    "url": "https://theminusoneguarantee.substack.com/p/nobody-stopped-it-doesnt-mean-it"
+  },
+  {
+    "date": "2026-04-25",
+    "datetime_utc": "2026-04-25T15:01:14Z",
+    "title": "“-1” Is the Parent You Can’t Ignore: It Points at the Mistake and Makes You Pay Attention",
+    "subtitle": "Most people avoid uncomfortable truth by dumping responsibility on someone else. “-1” brings the truth back—repeatedly—until you fix it.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-is-the-parent-you-cant-ignore-it"
+  },
+  {
+    "date": "2026-04-26",
+    "datetime_utc": "2026-04-26T15:02:14Z",
+    "title": "“-1” Is the Magnifying Glass: Step Through the Mirror and See Your Business as It Really Is",
+    "subtitle": "Most businesses live inside a story. “-1” is how you step through the mirror into measurement: mapped processes, tracked numbers, and value that must…",
+    "url": "https://theminusoneguarantee.substack.com/p/1-is-the-magnifying-glass-step-through"
+  },
+  {
+    "date": "2026-04-27",
+    "datetime_utc": "2026-04-27T15:02:10Z",
+    "title": "If You Won’t Offer “-1,” You’ll Become Replaceable: Obsolescence Is the Price of Avoiding Proof",
+    "subtitle": "The market is done paying for faith. If you can’t be measured, you will be undercut, ignored, or replaced.",
+    "url": "https://theminusoneguarantee.substack.com/p/if-you-wont-offer-1-youll-become"
+  },
+  {
+    "date": "2026-04-28",
+    "datetime_utc": "2026-04-28T04:05:42Z",
+    "title": "“-1” Is a Black Swan: The Negative-Price Guarantee That Breaks Old Business Religion",
+    "subtitle": "Most people still don’t understand CAC, free offers, or risk reversal. So they definitely don’t expect this: paying a penalty when value is missing…",
+    "url": "https://theminusoneguarantee.substack.com/p/1-is-a-black-swan-the-negative-price"
+  },
+  {
+    "date": "2026-04-29",
+    "datetime_utc": "2026-04-29T15:01:15Z",
+    "title": "“-1” Destroys Conflicts of Interest Inside Companies: It Replaces Politics With Numbers",
+    "subtitle": "Office politics survives in fog. “-1” removes the fog by pricing missing value—so favoritism, laziness, and self-protection become expensive.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-destroys-conflicts-of-interest"
+  },
+  {
+    "date": "2026-04-30",
+    "datetime_utc": "2026-04-30T15:01:40Z",
+    "title": "The “-1” Penalty Has Always Existed. You Were Just Paying in a Different Currency.",
+    "subtitle": "Inefficiency is never free. You either pay in cash later—or you pay in time, burnout, lost opportunities, and decaying assets. “-1” simply makes the…",
+    "url": "https://theminusoneguarantee.substack.com/p/the-1-penalty-has-always-existed"
+  },
+  {
+    "date": "2026-05-01",
+    "datetime_utc": "2026-05-01T15:02:00Z",
+    "title": "“-1” Is the Morning Mirror: Look at the Numbers—or Keep Living a Fairytale",
+    "subtitle": "Most businesses don’t fail because they’re unlucky. They fail because they refuse the mirror: the fundamental numbers that prove value is real.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-is-the-morning-mirror-look-at-the"
+  },
+  {
+    "date": "2026-05-02",
+    "datetime_utc": "2026-05-02T15:01:20Z",
+    "title": "The Future Belongs to Meticulous, Efficiency-Obsessed, Ethical Operators. “-1” Trains You Into One.",
+    "subtitle": "The winners won’t be the loudest. They’ll be the most measurable, the fastest to fix leaks, and the least willing to profit from hidden damage.",
+    "url": "https://theminusoneguarantee.substack.com/p/the-future-belongs-to-meticulous"
+  },
+  {
+    "date": "2026-05-03",
+    "datetime_utc": "2026-05-03T15:01:21Z",
+    "title": "“-1” Ends the Fairytale for Opaque Businesses: The Final Boss of the Future Market",
+    "subtitle": "If your company survives on fog, “-1” is your end-point. If your company survives on real value, “-1” is your happy ending.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-ends-the-fairytale-for-opaque-businesses"
+  },
+  {
+    "date": "2026-05-04",
+    "datetime_utc": "2026-05-04T15:02:28Z",
+    "title": "“-1” Turns You Into Your Company’s Best Analyst: The Detective Who Solves the Murder of Value",
+    "subtitle": "Under “-1,” value doesn’t “disappear.” It gets killed. Your job becomes simple: find where it died, why it died, and rebuild the scene so it can’t…",
+    "url": "https://theminusoneguarantee.substack.com/p/1-turns-you-into-your-companys-best"
+  },
+  {
+    "date": "2026-05-05",
+    "datetime_utc": "2026-05-05T15:01:40Z",
+    "title": "“-1” Turns Closed Markets Into Open Markets: It Breaks Privilege and Distributes Opportunity",
+    "subtitle": "Closed systems protect insiders with gray zones. “-1” kills gray zones with proof and penalties—so opportunity flows to people who actually create…",
+    "url": "https://theminusoneguarantee.substack.com/p/1-turns-closed-markets-into-open"
+  },
+  {
+    "date": "2026-05-06",
+    "datetime_utc": "2026-05-06T15:01:45Z",
+    "title": "“-1” Exposes Organizational Deficiency: Silence Is an Action, and It Has a Price",
+    "subtitle": "In a hyper-connected world, choosing not to measure is not neutral. It’s a decision that shifts pain onto others. “-1” makes that decision expensive.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-exposes-organizational-deficiency"
+  },
+  {
+    "date": "2026-05-07",
+    "datetime_utc": "2026-05-07T15:02:17Z",
+    "title": "“-1” Fights Systemic Responsibility Abdication: It Collapses Fake Truth and Forces Real Change",
+    "subtitle": "When nobody measures, everyone can pretend. “-1” destroys the shared illusion by pricing missing value—so the real debate becomes unavoidable.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-fights-systemic-responsibility"
+  },
+  {
+    "date": "2026-05-08",
+    "datetime_utc": "2026-05-08T15:00:58Z",
+    "title": "“-1” Rewards Technical Credibility and Radical Transparency—or You Get Wiped Out",
+    "subtitle": "“Good enough” transparency is dead. When a competitor goes negative-price, your operational fog becomes a competitive liability.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-rewards-technical-credibility-and"
+  },
+  {
+    "date": "2026-05-09",
+    "datetime_utc": "2026-05-09T15:00:56Z",
+    "title": "Shifting Baseline Syndrome Is Killing Your Business. “-1” Is the Alarm That Wakes You Up.",
+    "subtitle": "When inefficiency slowly becomes “normal,” you stop noticing the decline. “-1” exposes the bug in the system and forces a correction before you crash.",
+    "url": "https://theminusoneguarantee.substack.com/p/shifting-baseline-syndrome-is-killing"
+  },
+  {
+    "date": "2026-05-10",
+    "datetime_utc": "2026-05-10T15:01:57Z",
+    "title": "“-1” Ends Pretty Words. It Starts Concrete Facts.",
+    "subtitle": "The era of defensible stories is over. “-1” is the supersonic starting gun: meritocracy accelerates, gray zones die, and slow thinkers get swept away.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-ends-pretty-words-it-starts-concrete"
+  },
+  {
+    "date": "2026-05-11",
+    "datetime_utc": "2026-05-11T15:01:44Z",
+    "title": "“-1” Creates a New World: Work Becomes Measured, Meritocratic, and Ethically Accountable",
+    "subtitle": "The old market ran on stories. The new market runs on tracked workflows, real numbers, and total responsibility for customer satisfaction.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-creates-a-new-world-work-becomes"
+  },
+  {
+    "date": "2026-05-12",
+    "datetime_utc": "2026-05-12T15:01:19Z",
+    "title": "“-1” Is a Firework for a New Social Contract: The Lifeboat Out of the Old System",
+    "subtitle": "“-1” isn’t just a business model. It’s a forcing function for a socio-economic transition: accountability, reskilling, safety nets, and ethical…",
+    "url": "https://theminusoneguarantee.substack.com/p/1-is-a-firework-for-a-new-social"
+  },
+  {
+    "date": "2026-05-13",
+    "datetime_utc": "2026-05-13T15:01:34Z",
+    "title": "“-1” Forces Continuous Testing: Run Like Lions Are Behind You",
+    "subtitle": "In the old world you could hide in “busy.” In the “-1” world, every hour gets tested: value created, or value destroyed.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-forces-continuous-testing-run-like"
+  },
+  {
+    "date": "2026-05-14",
+    "datetime_utc": "2026-05-14T15:01:34Z",
+    "title": "“-1” Puts Your Business on a Diet: The Negative-Price Standard That Burns Inefficiency Fat",
+    "subtitle": "Most companies aren’t “complex.” They’re overweight: bloated by useless steps, slow decisions, and operational junk. “-1” is the diet that forces the…",
+    "url": "https://theminusoneguarantee.substack.com/p/1-puts-your-business-on-a-diet-the"
+  },
+  {
+    "date": "2026-05-15",
+    "datetime_utc": "2026-05-15T15:02:53Z",
+    "title": "Negative Price Is the Maturity Test: Pass It, or Stay a Child in the Market",
+    "subtitle": "The real market isn’t about talk. It’s about measurable value exchange. Negative Price is the proof you’re mature enough to play.",
+    "url": "https://theminusoneguarantee.substack.com/p/negative-price-is-the-maturity-test"
+  },
+  {
+    "date": "2026-05-16",
+    "datetime_utc": "2026-05-16T15:01:27Z",
+    "title": "“Negative Price” Is the Economic Atomic Bomb of the 21st Century: It Nukes Waste and Exposes Value Thieves",
+    "subtitle": "Add one rule—pay when value is missing—and the whole system changes. Money stops disappearing into fog. Value creators rise. Value destroyers get priced…",
+    "url": "https://theminusoneguarantee.substack.com/p/negative-price-is-the-economic-atomic"
+  },
+  {
+    "date": "2026-05-17",
+    "datetime_utc": "2026-05-17T15:01:50Z",
+    "title": "Negative Price Lets You Choose the Future: From “I Have to Pay You” to “I Want to Pay You”",
+    "subtitle": "The old market pays out of necessity. The future market pays out of desire—because value is measurable, guaranteed, and proven.",
+    "url": "https://theminusoneguarantee.substack.com/p/negative-price-lets-you-choose-the"
+  },
+  {
+    "date": "2026-05-18",
+    "datetime_utc": "2026-05-18T15:01:49Z",
+    "title": "Negative Price Removes the Training Wheels: It Forces the Market to Ride Without Opacity",
+    "subtitle": "Opacity is how weak operators stay upright. Negative Price (“-1”) takes the training wheels off—so value drainers fall, and only efficient, reliable…",
+    "url": "https://theminusoneguarantee.substack.com/p/negative-price-removes-the-training"
+  },
+  {
+    "date": "2026-05-19",
+    "datetime_utc": "2026-05-19T16:51:52Z",
+    "title": "The 9 Ghost Subsidies Are Gone. Negative Price Is the New Structural Advantage.",
+    "subtitle": "Negative-Price Guarantees replace dead privileges with proof, penalties, and real skill.",
+    "url": "https://theminusoneguarantee.substack.com/p/the-9-ghost-subsidies-are-gone-negative"
+  },
+  {
+    "date": "2026-05-20",
+    "datetime_utc": "2026-05-20T15:02:42Z",
+    "title": "Negative Price Isn’t Here to Make You Happy. It’s Here to Tell You the Truth.",
+    "subtitle": "Negative-price guarantees are a maturity test: they force uncomfortable questions, controversial conversations, and measurable improvement.",
+    "url": "https://theminusoneguarantee.substack.com/p/negative-price-isnt-here-to-make"
+  },
+  {
+    "date": "2026-05-21",
+    "datetime_utc": "2026-05-21T15:01:56Z",
+    "title": "AI Learns With Rewards and Penalties. Humans Forgot How. “-1” Brings It Back.",
+    "subtitle": "If we train machines with incentives and consequences, maybe we should stop pretending humans can improve through vibes and meetings.",
+    "url": "https://theminusoneguarantee.substack.com/p/ai-learns-with-rewards-and-penalties"
+  },
+  {
+    "date": "2026-05-22",
+    "datetime_utc": "2026-05-22T15:01:26Z",
+    "title": "Negative Price (“-1”) Forces the Hard Question: Do I Actually Deserve This Money?",
+    "subtitle": "Negative-price guarantees are the most ethical obligation in business: they force you to prove value in numbers, not words.",
+    "url": "https://theminusoneguarantee.substack.com/p/negative-price-1-forces-the-hard"
+  },
+  {
+    "date": "2026-05-23",
+    "datetime_utc": "2026-05-23T15:01:35Z",
+    "title": "Real Revolutions Don’t Arrive With Trumpets. Negative Price (“-1”) Is One of Them.",
+    "subtitle": "It won’t trend loudly. It will spread quietly—until going back becomes impossible.",
+    "url": "https://theminusoneguarantee.substack.com/p/real-revolutions-dont-arrive-with"
+  },
+  {
+    "date": "2026-05-24",
+    "datetime_utc": "2026-05-24T15:01:52Z",
+    "title": "Negative Price (“-1”) Is the Exam Where You Can’t Pass With a Fake 6/10",
+    "subtitle": "Many businesses are “passing” by cheating: shifting their bad math onto customers, employees, and the future. “-1” exposes the free-riders and forces a…",
+    "url": "https://theminusoneguarantee.substack.com/p/negative-price-1-is-the-exam-where"
+  },
+  {
+    "date": "2026-05-25",
+    "datetime_utc": "2026-05-25T15:02:33Z",
+    "title": "Negative Price (“-1”) Ends the Generational War: Only Value Creators Will Matter",
+    "subtitle": "This isn’t “young vs old.” It’s operators vs excuse collectors. “-1” turns the market into one scoreboard: measurable value.",
+    "url": "https://theminusoneguarantee.substack.com/p/negative-prie-1-ends-the-generational"
+  },
+  {
+    "date": "2026-05-26",
+    "datetime_utc": "2026-05-26T15:02:17Z",
+    "title": "Speed Isn’t a Competitive Advantage. It’s Survival. “-1” Is the MotoGP Engine",
+    "subtitle": "“-1” increases speed so much that sloppy operators crash. Meticulous professionals win because they run on proof, not hope.",
+    "url": "https://theminusoneguarantee.substack.com/p/speed-isnt-a-competitive-advantage"
+  },
+  {
+    "date": "2026-05-27",
+    "datetime_utc": "2026-05-27T15:02:13Z",
+    "title": "Negative Price Can’t Be Stopped: Pandora’s Box Is Open",
+    "subtitle": "Once the market sees that penalties can enforce value, every old “you can’t do that” belief becomes irrelevant.",
+    "url": "https://theminusoneguarantee.substack.com/p/negative-price-cant-be-stopped-pandoras"
+  },
+  {
+    "date": "2026-05-28",
+    "datetime_utc": "2026-05-28T15:01:41Z",
+    "title": "In the Ideal Society, You’re Not a “Role.” You’re a Process Optimizer. “-1” Makes That Real.",
+    "subtitle": "Titles are politics. Processes are reality. “-1” trains people the way winning systems get trained: incentives for value, penalties for leaks, constant…",
+    "url": "https://theminusoneguarantee.substack.com/p/in-the-ideal-society-youre-not-a"
+  },
+  {
+    "date": "2026-05-29",
+    "datetime_utc": "2026-05-29T15:01:17Z",
+    "title": "“-1” Won’t Stay Private: Cities Can Run Negative-Price Experiments Too",
+    "subtitle": "The moment you accept “pay a penalty when value is missing,” you can apply it to an entire urban ecosystem—public and private.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-wont-stay-private-cities-can-run"
+  },
+  {
+    "date": "2026-05-30",
+    "datetime_utc": "2026-05-30T15:01:16Z",
+    "title": "Negative Prie Inside a Company Means Merit Pay, No Value Theft, and No Sabotage by Fog",
+    "subtitle": "If missing value has a penalty, then real value must have a reward. “-1” forces tracked contribution, quality standards, and training that makes value…",
+    "url": "https://theminusoneguarantee.substack.com/p/negative-prie-inside-a-company-means"
+  },
+  {
+    "date": "2026-05-31",
+    "datetime_utc": "2026-05-31T15:02:33Z",
+    "title": "“-1” Forces Uncomfortable Questions—and Sometimes a Total Reset",
+    "subtitle": "Negative price guarantees put real numbers in front of you and ask: “Is this truly working… or are you defending a dead process?”",
+    "url": "https://theminusoneguarantee.substack.com/p/1-forces-uncomfortable-questionsand"
+  },
+  {
+    "date": "2026-06-01",
+    "datetime_utc": "2026-06-01T15:01:18Z",
+    "title": "“-1” Forces Your Priorities: It Shows What Burns Money, What Creates Value, and What Must Change Yesterday",
+    "subtitle": "Most companies don’t have a “priority problem.” They have a visibility problem. “-1” fixes visibility by pricing value leaks in cash.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-forces-your-priorities-it-shows"
+  },
+  {
+    "date": "2026-06-02",
+    "datetime_utc": "2026-06-02T15:02:21Z",
+    "title": "The “-1” Refund Moment Is the Real Feedback Moment—If You’re Brave Enough to Listen",
+    "subtitle": "The penalty payout isn’t a failure. It’s a diagnostic window most businesses avoid. It tells you what to fix, and who is worth keeping.",
+    "url": "https://theminusoneguarantee.substack.com/p/the-1-refund-moment-is-the-real-feedback"
+  },
+  {
+    "date": "2026-06-03",
+    "datetime_utc": "2026-06-03T15:02:40Z",
+    "title": "“-1” Is the Shield for Proactive People: It Blocks Old-Business Lies and Protects Your Value",
+    "subtitle": "When the old system says “adapt,” it often means “stay underpaid, stay quiet, stay inefficient.” “-1” is how you refuse—using proof, not rebellion.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-is-the-shield-for-proactive-people"
+  },
+  {
+    "date": "2026-06-04",
+    "datetime_utc": "2026-06-04T15:01:30Z",
+    "title": "Negative Price Forces You to Price Everything: Money, Time, and Real ROI",
+    "subtitle": "Most businesses don’t “lack strategy.” They lack valuation. “-1” makes you assign a cost and a time to every step—then it forces the uncomfortable…",
+    "url": "https://theminusoneguarantee.substack.com/p/negative-price-forces-you-to-price"
+  },
+  {
+    "date": "2026-06-05",
+    "datetime_utc": "2026-06-05T15:01:01Z",
+    "title": "The Age of Incentives Is Ending. The Age of Penalties Is Here. “-1” Finds the Direction First.",
+    "subtitle": "Many offers survived on subsidies, connections, hype, or investor patience. That era is fading. The next market rewards operators who can deliver—or pay…",
+    "url": "https://theminusoneguarantee.substack.com/p/the-age-of-incentives-is-ending-the"
+  },
+  {
+    "date": "2026-06-06",
+    "datetime_utc": "2026-06-06T15:01:15Z",
+    "title": "“-1” Forces the Only Numbers That Matter—Because Nobody Wants to Know Them",
+    "subtitle": "In unmeasured companies, the most important numbers are unknown on purpose. “-1” makes them unavoidable, because denial becomes expensive.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-forces-the-only-numbers-that-matterbecause"
+  },
+  {
+    "date": "2026-06-07",
+    "datetime_utc": "2026-06-07T15:02:12Z",
+    "title": "Negative Price Forces You to See the Real System You’re Living In",
+    "subtitle": "The old world profits when the lies stay visible-but-unseen. “-1” adds penalties, and the whole mechanism changes. Once you see it, you can’t go back.",
+    "url": "https://theminusoneguarantee.substack.com/p/negative-price-forces-you-to-see"
+  },
+  {
+    "date": "2026-06-08",
+    "datetime_utc": "2026-06-08T15:01:12Z",
+    "title": "Applying Negative Price Means You Don’t Get Paid Until Value Is Undeniable",
+    "subtitle": "It’s not just a guarantee. It’s an ethical upgrade: you refuse money until your actions are inside a measured, repeatable system that proves value.",
+    "url": "https://theminusoneguarantee.substack.com/p/applying-negative-price-means-you"
+  },
+  {
+    "date": "2026-06-09",
+    "datetime_utc": "2026-06-09T15:01:42Z",
+    "title": "“-1” Moves You From Being Paid for Hours to Being Chosen for Results",
+    "subtitle": "The old model pays you to occupy time. The “-1” model selects you because you can produce outcomes—faster, cleaner, and with the strongest guarantee in…",
+    "url": "https://theminusoneguarantee.substack.com/p/1-moves-you-from-being-paid-for-hours"
+  },
+  {
+    "date": "2026-06-10",
+    "datetime_utc": "2026-06-10T15:02:22Z",
+    "title": "Competing on Lowest Price Is a Black Hole. “-1” Finds the Mountain Worth Climbing.",
+    "subtitle": "The cheapest competitor pulls you into a gravity well you rarely escape. “-1” helps you spot the profitable peak: measurable extra value for a niche…",
+    "url": "https://theminusoneguarantee.substack.com/p/competing-on-lowest-price-is-a-black"
+  },
+  {
+    "date": "2026-06-11",
+    "datetime_utc": "2026-06-11T15:01:40Z",
+    "title": "“-1” Forces the Hard Choices: The Ones You Avoided Because Comfort Was Cheaper",
+    "subtitle": "If easy improvements were enough, you’d have done them already. “-1” makes the real decisions unavoidable—because missing value becomes expensive.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-forces-the-hard-choices-the-ones"
+  },
+  {
+    "date": "2026-06-12",
+    "datetime_utc": "2026-06-12T15:00:38Z",
+    "title": "If Your Wealth Survives Only in the Dark, “-1” Is Coming for You.",
+    "subtitle": "Negative-Price Guarantees are a generational challenge: prove you deserve what you kept—or watch the market reprice you.",
+    "url": "https://theminusoneguarantee.substack.com/p/if-your-wealth-survives-only-in-the"
+  },
+  {
+    "date": "2026-06-13",
+    "datetime_utc": "2026-06-13T15:01:00Z",
+    "title": "If You Refuse “-1,” You’re Not a Professional. You’re a Fog Merchant.",
+    "subtitle": "The future is a hard split: people who demand measurable results—and people who hide behind “no guarantees.” “-1” drags that split into daylight.",
+    "url": "https://theminusoneguarantee.substack.com/p/if-you-refuse-1-youre-not-a-professional"
+  },
+  {
+    "date": "2026-06-14",
+    "datetime_utc": "2026-06-14T15:01:52Z",
+    "title": "Your Marketing Budget Is Already a Penalty System. “-1” Just Stops You From Ignoring It.",
+    "subtitle": "CAC is the cost of filtering. Refunds are the cost of weak fit. “-1” turns both into a brutal direction-finder you can’t deny.",
+    "url": "https://theminusoneguarantee.substack.com/p/your-marketing-budget-is-already"
+  },
+  {
+    "date": "2026-06-15",
+    "datetime_utc": "2026-06-15T15:01:15Z",
+    "title": "If Your Business “Works Only When Everything Goes Well,” You Don’t Have a Business. You Have a Fairytale.",
+    "subtitle": "Negative Price Guarantee (“-1”) is the brutal stress test for modern markets: competition is faster, urgency is real, and “good will” systems collapse…",
+    "url": "https://theminusoneguarantee.substack.com/p/if-your-business-works-only-when"
+  },
+  {
+    "date": "2026-06-16",
+    "datetime_utc": "2026-06-16T15:01:30Z",
+    "title": "If You Take Money and Hide From Responsibility, You’re Not a Business. You’re a Scam With Better Manners.",
+    "subtitle": "Risk and responsibility exist in every transaction. The Negative Price Guarantee (“-1”) just stops you from pretending they don’t.",
+    "url": "https://theminusoneguarantee.substack.com/p/if-you-take-money-and-hide-from-responsibility"
+  },
+  {
+    "date": "2026-06-17",
+    "datetime_utc": "2026-06-17T15:02:20Z",
+    "title": "Stop Bragging About Prompts. Start Automating Workflows—or Get Replaced.",
+    "subtitle": "The real AI competitive advantage is not “what prompt to write.” It’s knowing what workflows you can delegate to AI agents—then using “-1” to force…",
+    "url": "https://theminusoneguarantee.substack.com/p/stop-bragging-about-prompts-start"
+  },
+  {
+    "date": "2026-06-18",
+    "datetime_utc": "2026-06-18T15:01:43Z",
+    "title": "If You’re Afraid of “-1,” You’re Afraid of the Diagnosis. And the Disease Doesn’t Care.",
+    "subtitle": "The Negative Price Guarantee (“-1”) is the medical checkup you keep postponing: it will expose what’s wrong, force responsibility, and end the…",
+    "url": "https://theminusoneguarantee.substack.com/p/if-youre-afraid-of-1-youre-afraid"
+  },
+  {
+    "date": "2026-06-19",
+    "datetime_utc": "2026-06-19T15:01:28Z",
+    "title": "“-1” Is the Tsunami You See Coming… and Still Refuse to Move From Your Stolen Beach",
+    "subtitle": "Negative Price Guarantee (“-1”) is market accountability at full speed. Ignore it, and the market will audit your inefficiency and ethics for you.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-is-the-tsunami-you-see-coming-and"
+  },
+  {
+    "date": "2026-06-20",
+    "datetime_utc": "2026-06-20T15:00:55Z",
+    "title": "If You Won’t Give Back What You Didn’t Earn, “-1” Will Take It From You.",
+    "subtitle": "Negative Price Guarantee (“-1”) is the first domino: it forces investment, humility, process surgery, and the end of unearned benefits.",
+    "url": "https://theminusoneguarantee.substack.com/p/if-you-wont-give-back-what-you-didnt"
+  },
+  {
+    "date": "2026-06-21",
+    "datetime_utc": "2026-06-21T15:01:38Z",
+    "title": "Your “Growth Problem” Is a Lie. You Have a Gap Problem—and “-1” Exposes Every Single Gap.",
+    "subtitle": "Revenue isn’t the gap. Headcount isn’t the gap. Channels aren’t the gap. The real gap is inside your workflows—and Negative Price Guarantee (“-1…",
+    "url": "https://theminusoneguarantee.substack.com/p/your-growth-problem-is-a-lie-you"
+  },
+  {
+    "date": "2026-06-22",
+    "datetime_utc": "2026-06-22T15:00:23Z",
+    "title": "Tell Me When I’m Lying: If You Hate Polarization, You Hate Progress (and “-1” Will Expose You)",
+    "subtitle": "Market evolution is not polite. It’s measurable: incentives, penalties, process mapping, ethics, and proof. Negative Price Guarantee (“-1”) is the…",
+    "url": "https://theminusoneguarantee.substack.com/p/tell-me-when-im-lying-if-you-hate"
+  },
+  {
+    "date": "2026-06-23",
+    "datetime_utc": "2026-06-23T15:00:28Z",
+    "title": "You’ve Been Paying Penalties the Whole Time. You Just Hid Them Like a Coward. “-1” Makes Them Cash.",
+    "subtitle": "Negative Price Guarantee (“-1”) doesn’t invent penalties. It stops you from outsourcing them to customers, employees, and your future reputation.",
+    "url": "https://theminusoneguarantee.substack.com/p/youve-been-paying-penalties-the-whole"
+  },
+  {
+    "date": "2026-06-24",
+    "datetime_utc": "2026-06-24T15:01:14Z",
+    "title": "Your Resume Is About to Become a Lie Detector. No “-1” Track Record? No Hire.",
+    "subtitle": "The future CV isn’t job titles. It’s measurable outcomes under Negative Price Guarantee (“-1”): results, responsibility, and the real cost of…",
+    "url": "https://theminusoneguarantee.substack.com/p/your-resume-is-about-to-become-a"
+  },
+  {
+    "date": "2026-06-25",
+    "datetime_utc": "2026-06-25T15:01:04Z",
+    "title": "If “-1” Existed in Your Company, Half Your “Important Roles” Would Be Fired by Friday.",
+    "subtitle": "Negative Price Guarantee (“-1”) is the highlighter that exposes roles with no skills, no results, no deadlines—just activity that doesn’t move revenue…",
+    "url": "https://theminusoneguarantee.substack.com/p/if-1-existed-in-your-company-half"
+  },
+  {
+    "date": "2026-06-26",
+    "datetime_utc": "2026-06-26T15:01:05Z",
+    "title": "Keep Saying “Yes” to Your Boss and You’ll Die in Mediocrity. “-1” Is Your Exit.",
+    "subtitle": "In a recession + price war + Amazon + AI economy, compliance is not loyalty. It’s self-harm. Negative Price Guarantee (“-1”) is the rebellion that…",
+    "url": "https://theminusoneguarantee.substack.com/p/keep-saying-yes-to-your-boss-and"
+  },
+  {
+    "date": "2026-06-27",
+    "datetime_utc": "2026-06-27T15:01:27Z",
+    "title": "Some Clients Are Time Bombs. “-1” Helps You Identify Them and Build a Blacklist Fast.",
+    "subtitle": "Negative Price Guarantee (“-1”) doesn’t just reverse risk. It exposes toxic buyers who try to control your work, your terms, and your future.",
+    "url": "https://theminusoneguarantee.substack.com/p/some-clients-are-time-bombs-1-helps"
+  },
+  {
+    "date": "2026-06-28",
+    "datetime_utc": "2026-06-28T15:01:44Z",
+    "title": "Your Business Is Full of Useless Stuff. That’s Why You’re Stuck. “-1” Forces the Cut.",
+    "subtitle": "Negative Price Guarantee (“-1”) separates profitable assets from self-sabotaging waste—inside companies and inside your life.",
+    "url": "https://theminusoneguarantee.substack.com/p/your-business-is-full-of-useless"
+  },
+  {
+    "date": "2026-06-29",
+    "datetime_utc": "2026-06-29T15:00:42Z",
+    "title": "Most Founders Would Rather Die Slowly Than Rebuild While There’s Still Time. “-1” Forces the Rebuild.",
+    "subtitle": "Negative Price Guarantee (“-1”) is the ultimate challenge: stop doing “more of the wrong,” track real value, and take responsibility before the collapse…",
+    "url": "https://theminusoneguarantee.substack.com/p/most-founders-would-rather-die-slowly"
+  },
+  {
+    "date": "2026-06-30",
+    "datetime_utc": "2026-06-30T15:00:36Z",
+    "title": "Short-Term Thinking Makes You Do Stupid Things. “-1” Forces Long-Term Success.",
+    "subtitle": "Negative Price Guarantee (“-1”) is a long-term operating system: it keeps you on the highway of measurable value while short-term operators get lost in…",
+    "url": "https://theminusoneguarantee.substack.com/p/short-term-thinking-makes-you-do"
+  },
+  {
+    "date": "2026-07-01",
+    "datetime_utc": "2026-07-01T15:01:14Z",
+    "title": "“-1” Lets You Fire the Things You Hate: The Negative Price Guarantee That Exposes Loss-Making Habits",
+    "subtitle": "If a process destroys value, why keep it? Negative Price Guarantee (“-1”) makes losses visible, so you can cut the disease before it kills the system.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-lets-you-fire-the-things-you-hate"
+  },
+  {
+    "date": "2026-07-02",
+    "datetime_utc": "2026-07-02T15:01:16Z",
+    "title": "Working More Hours Won’t Make You Rich. “-1” Forces Efficiency—or Exposes You as a Time-Waster.",
+    "subtitle": "Negative Price Guarantee (“-1”) proves the real solution to “I need more money” is not more time—it’s more efficient, repeatable processes using the…",
+    "url": "https://theminusoneguarantee.substack.com/p/working-more-hours-wont-make-you"
+  },
+  {
+    "date": "2026-07-03",
+    "datetime_utc": "2026-07-03T15:02:01Z",
+    "title": "“-1” Makes Greed Unprofitable: Exploit People and You’ll Die Alone in the Market",
+    "subtitle": "Negative Price Guarantee (“-1”) forces win-win economics. If your “success” depends on squeezing customers, vendors, or employees, the system will…",
+    "url": "https://theminusoneguarantee.substack.com/p/1-makes-greed-unprofitable-exploit"
+  },
+  {
+    "date": "2026-07-04",
+    "datetime_utc": "2026-07-04T15:01:32Z",
+    "title": "The First Time You Hear “-1,” Your Brain Glitches. Good. That’s How Progress Starts.",
+    "subtitle": "Negative Price Guarantee (“-1”) makes “impossible requests” normal: you stop debating what’s allowed and start testing what works.",
+    "url": "https://theminusoneguarantee.substack.com/p/the-first-time-you-hear-1-your-brain"
+  },
+  {
+    "date": "2026-07-05",
+    "datetime_utc": "2026-07-05T15:00:34Z",
+    "title": "If You’re Threatened by Someone Tracking the Numbers, You’re Probably Overpaid. “-1” Exposes It.",
+    "subtitle": "Negative Price Guarantee (“-1”) forces direct accountability in every workflow: value creators rise, value impostors and value thieves lose their cover.",
+    "url": "https://theminusoneguarantee.substack.com/p/if-youre-threatened-by-someone-tracking"
+  },
+  {
+    "date": "2026-07-06",
+    "datetime_utc": "2026-07-06T15:01:39Z",
+    "title": "If You Refuse to Pay for Excellence, Your Kids Will Live Underpaid. “-1” Makes That Consequence Visible.",
+    "subtitle": "Negative Price Guarantee (“-1”) forces a fair deal: pay for real excellence, or get more money back when expectations aren’t met—because exporting risk…",
+    "url": "https://theminusoneguarantee.substack.com/p/if-you-refuse-to-pay-for-excellence"
+  },
+  {
+    "date": "2026-07-07",
+    "datetime_utc": "2026-07-07T15:01:46Z",
+    "title": "“-1” Will Force You to Admit the One Thing You’d Rather Die Than Say: “Maybe I’m Mediocre.”",
+    "subtitle": "Negative Price Guarantee is a mirror with teeth. It makes you confront training gaps, reinvestment failures, wasted profits, lost talent—and the…",
+    "url": "https://theminusoneguarantee.substack.com/p/1-will-force-you-to-admit-the-one"
+  },
+  {
+    "date": "2026-07-08",
+    "datetime_utc": "2026-07-08T15:01:28Z",
+    "title": "If You Ignore Indirect Costs, You’re Not “Profitable.” You’re Delusional. “-1” Forces the Real Math.",
+    "subtitle": "Negative Price Guarantee (“-1”) breaks the fake-profit illusion by forcing you to track ALL direct and indirect costs—so you stop making decisions on a…",
+    "url": "https://theminusoneguarantee.substack.com/p/if-you-ignore-indirect-costs-youre"
+  },
+  {
+    "date": "2026-07-09",
+    "datetime_utc": "2026-07-09T15:00:54.342Z",
+    "title": "If Your “Work” Doesn’t Help People, You’re Not Working. You’re Just Busy. “-1” Exposes It.",
+    "subtitle": "Negative Price Guarantee (“-1”) forces the only value the customer cares about: satisfaction vs expectations. Everything else is noise.",
+    "url": "https://theminusoneguarantee.substack.com/p/if-your-work-doesnt-help-people-youre"
+  },
+  {
+    "date": "2026-07-10",
+    "datetime_utc": "2026-07-10T15:01:38.593Z",
+    "title": "The Hiring Market Will Split: Builders Hiring Builders… and Slavers Hiring Cheap Labor. “-1” Forces You to Choose.",
+    "subtitle": "Negative Price Guarantee (“-1”) turns hiring into a strategic stress test: either you align strong people around measurable value—or you pay to maintain broken work.",
+    "url": "https://theminusoneguarantee.substack.com/p/the-hiring-market-will-split-builders"
+  },
+  {
+    "date": "2026-07-11",
+    "datetime_utc": "2026-07-11T14:01:30.104Z",
+    "title": "BONUS: How Do You Explain A Negative Price (\"-1\") To An 8-Year-Old?",
+    "subtitle": "If an 8-Year-Old Can Understand Negative Price (“-1”), Your Industry Has Run Out of Excuses",
+    "url": "https://theminusoneguarantee.substack.com/p/bonus-how-do-you-explain-a-negative"
+  },
+  {
+    "date": "2026-07-11",
+    "datetime_utc": "2026-07-11T15:00:27.147Z",
+    "title": "There’s a Prompt for Everything. But There Aren’t Enough Adults to Use It. “-1” Is the Filter.",
+    "subtitle": "AI can suggest the most efficient move in seconds. The real scarcity is humans willing to choose the ethical move. “-1” pre-filters the market.",
+    "url": "https://theminusoneguarantee.substack.com/p/theres-a-prompt-for-everything-but"
+  },
+  {
+    "date": "2026-07-12",
+    "datetime_utc": "2026-07-12T15:01:09.790Z",
+    "title": "If You’re Still Chasing “Security,” You’re Already Losing the Future. “-1” Is the Badge of the Brave.",
+    "subtitle": "The future rewards challenge-seekers, not comfort-seekers. “-1” signals you take responsibility for outcomes, not just decisions.",
+    "url": "https://theminusoneguarantee.substack.com/p/if-youre-still-chasing-security-youre"
+  },
+  {
+    "date": "2026-07-13",
+    "datetime_utc": "2026-07-13T15:00:37.914Z",
+    "title": "If AI Gave You a 24/7 Sales Director + Business Analyst for Free, You’d Still Fail—Because You’re Afraid of Responsibility.",
+    "subtitle": "Prompts can surface the truth. Negative Price Guarantee (“-1”) forces you to act on it. That’s the missing gear.",
+    "url": "https://theminusoneguarantee.substack.com/p/if-ai-gave-you-a-247-sales-director"
+  },
+  {
+    "date": "2026-07-14",
+    "datetime_utc": "2026-07-14T15:01:54.524Z",
+    "title": "If You Treat Everything Like a “Cost,” You’ll Stay Poor. “-1” Forces You to Think in Investments.",
+    "subtitle": "Negative Price Guarantee (“-1”) makes the difference visible: cost-cutters shrink; ROI builders compound. It helps you keep profitable assets and delete non-profitable costs.",
+    "url": "https://theminusoneguarantee.substack.com/p/if-you-treat-everything-like-a-cost"
+  },
+  {
+    "date": "2026-07-15",
+    "datetime_utc": "2026-07-15T15:01:52.027Z",
+    "title": "Every Day You Stay on a Dead Road, You Pay. “-1” Forces the Reverse Gear Back to the Right Path.",
+    "subtitle": "Without essential data, you keep driving into closed roads. Negative Price Guarantee (“-1”) forces measurement, exposes dead ends fast, and redirects you toward the opportunities you’re missing.",
+    "url": "https://theminusoneguarantee.substack.com/p/every-day-you-stay-on-a-dead-road"
+  },
+  {
+    "date": "2026-07-16",
+    "datetime_utc": "2026-07-16T15:00:44.159Z",
+    "title": "If You Only Count Money, You’re Blind. “-1” Exposes the 3 Currencies That Decide Your Fate.",
+    "subtitle": "Negative Price Guarantee (“-1”) forces you to measure not just cash, but time and emotional currency—the hidden costs driving resignations, churn, and future rebellion.",
+    "url": "https://theminusoneguarantee.substack.com/p/if-you-only-count-money-youre-blind"
+  },
+  {
+    "date": "2026-07-17",
+    "datetime_utc": "2026-07-17T15:01:12.076Z",
+    "title": "If Your Company Touches Millions and Still Loses Millions, You Don’t Have “Growth.” You Have Operational Rot. “-1” Exposes It.",
+    "subtitle": "High revenue with big losses is not impressive. It’s proof your system leaks value. Negative Price Guarantee (“-1”) turns the leak into a map.",
+    "url": "https://theminusoneguarantee.substack.com/p/if-your-company-touches-millions"
+  },
+  {
+    "date": "2026-07-18",
+    "datetime_utc": "2026-07-18T15:00:46.713Z",
+    "title": "“Do You Even Want to Work?” Is What Lazy Systems Ask When You Threaten Them With Truth. “-1” Breaks That Shield.",
+    "subtitle": "Negative Price Guarantee (“-1”) pressures outdated sales and business processes by forcing measurement, modernization, and accountability.",
+    "url": "https://theminusoneguarantee.substack.com/p/do-you-even-want-to-work-is-what"
+  },
+  {
+    "date": "2026-07-19",
+    "datetime_utc": "2026-07-19T15:01:38.170Z",
+    "title": "Your Company Isn’t “Late.” It’s Behind. “-1” Exposes Your Hidden Lag Debt.",
+    "subtitle": "Deadlines are a symptom. The real killer is organizational lag: outdated skills, slow processes, and ignored upgrades. Negative Price Guarantee (“-1”) makes lag visible—and expensive.",
+    "url": "https://theminusoneguarantee.substack.com/p/your-company-isnt-late-its-behind"
+  },
+  {
+    "date": "2026-07-20",
+    "datetime_utc": "2026-07-20T15:02:00.262Z",
+    "title": "“More Revenue” Is Not a Priority. It’s a Symptom. If You Won’t Fix the Cause, “-1” Will Break You.",
+    "subtitle": "Negative Price Guarantee (“-1”) forces real priorities: measurable root causes, not vague goals, not comfort fixes, not political avoidance.",
+    "url": "https://theminusoneguarantee.substack.com/p/more-revenue-is-not-a-priority-its"
+  },
+  {
+    "date": "2026-07-21",
+    "datetime_utc": "2026-07-21T15:00:47.643Z",
+    "title": "Hiring Cheap Is the Most Expensive Mistake You’ll Keep Repeating. “-1” Exposes the Hidden Costs.",
+    "subtitle": "Cheap is “costly.” Right is “expensive but final.” Negative Price Guarantee (“-1”) forces you to see the difference in hiring, offers, and purchases.",
+    "url": "https://theminusoneguarantee.substack.com/p/hiring-cheap-is-the-most-expensive"
+  },
+  {
+    "date": "2026-07-22",
+    "datetime_utc": "2026-07-22T15:00:16.196Z",
+    "title": "Stay Mediocre and You’ll Be Replaced. Choose “-1” and Earn a Better Life.",
+    "subtitle": "Negative Price Guarantee (“-1”) is the generational challenge that breaks false security, forces excellence, and turns you from replaceable gear into an outcome-driven operator.",
+    "url": "https://theminusoneguarantee.substack.com/p/stay-mediocre-and-youll-be-replaced"
+  },
+  {
+    "date": "2026-07-23",
+    "datetime_utc": "2026-07-23T15:01:20.331Z",
+    "title": "Improve It or Quit It. If You Repeat the Same Work Without Upgrading, You’re the Problem. “-1” Forces the Choice.",
+    "subtitle": "Negative Price Guarantee (“-1”) turns every activity into a moral decision: either you improve the workflow and help people measurably, or you pay for missing value.",
+    "url": "https://theminusoneguarantee.substack.com/p/improve-it-or-quit-it-if-you-repeat"
+  },
+  {
+    "date": "2026-07-24",
+    "datetime_utc": "2026-07-24T15:01:03.393Z",
+    "title": "Two Types of Companies Will Die From “-1”: The Powerful Who Refuse It… and the Small Who Think They Can’t Afford It.",
+    "subtitle": "Negative Price Guarantee (“-1”) is a structural upgrade, not a budget item. Big companies reject it until a competitor weaponizes it. Small companies can adopt it by trading value for capability.",
+    "url": "https://theminusoneguarantee.substack.com/p/two-types-of-companies-will-die-from"
+  },
+  {
+    "date": "2026-07-25",
+    "datetime_utc": "2026-07-25T15:00:46.813Z",
+    "title": "The Job Market Is Splitting: Sell Hours and Sink… or Sell Systems and Win. “-1” Picks the Winners.",
+    "subtitle": "Negative Price Guarantee (“-1”) rewards the second economy: measurable skills, processes, and outcomes. The first economy—hours-for-money—gets cheaper, uglier, and doomed.",
+    "url": "https://theminusoneguarantee.substack.com/p/the-job-market-is-splitting-sell"
+  },
+  {
+    "date": "2026-07-26",
+    "datetime_utc": "2026-07-26T15:02:15.238Z",
+    "title": "“I Want to Play a Game.” If Money Went to Zero Tomorrow, Would Anyone Still Choose You? “-1” Forces the Answer.",
+    "subtitle": "Remove price as the lever and the truth appears: your product, your hiring, your strategy. Negative Price Guarantee (“-1”) is the accountability game that exposes who’s real.",
+    "url": "https://theminusoneguarantee.substack.com/p/i-want-to-play-a-game-if-money-went"
+  },
+  {
+    "date": "2026-07-27",
+    "datetime_utc": "2026-07-27T15:01:20.237Z",
+    "title": "If You Won’t Raise Standards to Excellence, “-1” Will Hand Your Future to a Competitor Who Will.",
+    "subtitle": "Negative Price Guarantee (“-1”) forces higher standards, constant testing, and proof-based authority. Mediocrity becomes unaffordable.",
+    "url": "https://theminusoneguarantee.substack.com/p/if-you-wont-raise-standards-to-excellence"
+  },
+  {
+    "date": "2026-07-28",
+    "datetime_utc": "2026-07-28T15:01:53.020Z",
+    "title": "If Your Business Model Depends on Price Opacity, “-1” Is Your Executioner.",
+    "subtitle": "AI makes information cheap. Negative Price Guarantee (“-1”) makes opacity expensive. Together, they destroy the “hidden price” advantage step by step.",
+    "url": "https://theminusoneguarantee.substack.com/p/if-your-business-model-depends-on"
+  },
+  {
+    "date": "2026-07-29",
+    "datetime_utc": "2026-07-29T15:01:20.510Z",
+    "title": "AI Is a Cyber Weapon. “-1” Is an Ethical Economic Weapon. Learn Both—or Get Outpaced.",
+    "subtitle": "AI boosts efficiency and selection standards. Negative Price Guarantee (“-1”) boosts responsibility and ethics. The future demands you master both.",
+    "url": "https://theminusoneguarantee.substack.com/p/ai-is-a-cyber-weapon-1-is-an-ethical"
+  },
+  {
+    "date": "2026-07-30",
+    "datetime_utc": "2026-07-30T15:59:46.989Z",
+    "title": "“-1” Isn’t the Problem. Your Dirty Data Is. No Clean Numbers = No AI, No Strategy, No Ethics.",
+    "subtitle": "Negative Price Guarantee (“-1”) only works on truth. If your data is missing, messy, or political, every “improvement tool” becomes theater.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-isnt-the-problem-your-dirty-data"
+  },
+  {
+    "date": "2026-07-31",
+    "datetime_utc": "2026-07-31T15:02:13.914Z",
+    "title": "If You Fight “-1,” You’re Admitting You Can’t Handle It. And You’ve Probably Been Rejecting Progress for Years.",
+    "subtitle": "Negative Price Guarantee (“-1”) exposes who chases conversion, efficiency, and proof—and who quietly bleeds margin and opportunity without noticing.",
+    "url": "https://theminusoneguarantee.substack.com/p/if-you-fight-1-youre-admitting-you"
+  },
+  {
+    "date": "2026-08-01",
+    "datetime_utc": "2026-08-01T15:01:22.222Z",
+    "title": "Loss Aversion Is Why You’re Afraid of “-1.” And It’s Why You’ll Stay Stuck Until You Beat It.",
+    "subtitle": "Negative Price Guarantee (“-1”) weaponizes a cognitive bias: you fear a visible loss more than you desire a larger hidden gain. Learn the bias—or it will run your business.",
+    "url": "https://theminusoneguarantee.substack.com/p/loss-aversion-is-why-youre-afraid"
+  },
+  {
+    "date": "2026-08-02",
+    "datetime_utc": "2026-08-02T15:00:43.461Z",
+    "title": "“-1” Reveals Truth in Proportion to Brutality: The More You Apply It, the More Reality You Can’t Hide.",
+    "subtitle": "Negative Price Guarantee (“-1”) is an information extractor. Apply it to one step and you get one leak. Apply it to every step and you get the whole map.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-reveals-truth-in-proportion-to"
+  },
+  {
+    "date": "2026-08-03",
+    "datetime_utc": "2026-08-03T15:01:17.686Z",
+    "title": "If You Don’t Treat “-1” Like ROI Math, You’ll Call It “Crazy” and Stay Average.",
+    "subtitle": "Negative Price Guarantee (“-1”) is a new ROI model: penalties are like CAC spend. Refunds are conversion data. Fans repay the misses—if you track the real numbers.",
+    "url": "https://theminusoneguarantee.substack.com/p/if-you-dont-treat-1-like-roi-math"
+  },
+  {
+    "date": "2026-08-04",
+    "datetime_utc": "2026-08-04T15:01:20.741Z",
+    "title": "After You “Max Out” Your Business, “-1” Becomes a Strategic Weapon Your Competitors Can’t Survive.",
+    "subtitle": "Negative Price Guarantee (“-1”) isn’t just risk reversal. After you’ve optimized workflows, conversions, and resilience, it lets you operate on a level that imitators will self-destruct trying to copy",
+    "url": "https://theminusoneguarantee.substack.com/p/after-you-max-out-your-business-1"
+  },
+  {
+    "date": "2026-08-05",
+    "datetime_utc": "2026-08-05T15:02:25.519Z",
+    "title": "Want to Kill Your Best People? Keep Saying “No.” “-1” Is the Rebellion That Makes Meritocracy Non-Negotiable.",
+    "subtitle": "“We’ve never done it.” “Don’t ask.” “Stop measuring.” That’s how you extinguish talent. Negative Price Guarantee (“-1”) is the declaration that ends fog, upgrades systems, and protects value creators.",
+    "url": "https://theminusoneguarantee.substack.com/p/want-to-kill-your-best-people-keep"
+  },
+  {
+    "date": "2026-08-06",
+    "datetime_utc": "2026-08-06T15:02:28.867Z",
+    "title": "“It’s Not Wrong” Is a Lie. The Real Answer Is: “I Don’t Want to Talk About It.” “-1” Exposes That Evasion.",
+    "subtitle": "Negative Price Guarantee (“-1”) forces uncomfortable analysis: inefficiencies become visible fast, and “no time” becomes a cover for avoiding responsibility.",
+    "url": "https://theminusoneguarantee.substack.com/p/its-not-wrong-is-a-lie-the-real-answer"
+  },
+  {
+    "date": "2026-08-07",
+    "datetime_utc": "2026-08-07T15:00:22.964Z",
+    "title": "“-1” Eliminates Scapegoats: When It Fails, You Only Get to Blame One Person—You.",
+    "subtitle": "Negative Price Guarantee (“-1”) forces adult ownership: planning, testing, documentation, training, standards, hiring. No excuses survive measurement.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-eliminates-scapegoats-when-it-fails"
+  },
+  {
+    "date": "2026-08-08",
+    "datetime_utc": "2026-08-08T15:01:46.724Z",
+    "title": "Cold Sales Jobs Should Be Illegal. “-1” Exposes the Companies Dumping CAC Onto Workers",
+    "subtitle": "Cold selling dumps CAC onto workers. “-1” forces pre-qualified funnels, CRM proof, and sales accountability.",
+    "url": "https://theminusoneguarantee.substack.com/p/cold-sales-jobs-should-be-illegal"
+  },
+  {
+    "date": "2026-08-09",
+    "datetime_utc": "2026-08-09T15:00:46.921Z",
+    "title": "The Best Candidate You’ll Ever Meet Is Knocking. It’s Called “-1.” Most Companies Are Too Cowardly to Open the Door.",
+    "subtitle": "Negative Price Guarantee (“-1”) is not just an offer. It is the candidate that brings truth, accountability, ethics, and future-proof strategy into your business.",
+    "url": "https://theminusoneguarantee.substack.com/p/the-best-candidate-youll-ever-meet"
+  },
+  {
+    "date": "2026-08-10",
+    "datetime_utc": "2026-08-10T15:00:24.926Z",
+    "title": "Calling “-1” Arrogant Is the Old World’s Favorite Defense Mechanism.",
+    "subtitle": "Negative Price Guarantee (“-1”) separates constructive ambition from toxic arrogance: proof, standards, incentives, penalties, and measurable improvement versus fog.",
+    "url": "https://theminusoneguarantee.substack.com/p/calling-1-arrogant-is-the-old-worlds"
+  },
+  {
+    "date": "2026-08-11",
+    "datetime_utc": "2026-08-11T15:02:12.365Z",
+    "title": "“-1” Is Entrepreneurial Engineering. And That’s Why Number-Blind Operators Are Terrified of It.",
+    "subtitle": "Negative Price Guarantee (“-1”) exports engineering discipline into every business department: numbers, systems, proof, responsibility, and ethical reputation.",
+    "url": "https://theminusoneguarantee.substack.com/p/1-is-entrepreneurial-engineering"
+  },
+  {
+    "date": "2026-08-12",
+    "datetime_utc": "2026-08-12T15:02:14.394Z",
+    "title": "Ethical Illiteracy Is the Hidden Disease Inside Companies. “-1” Forces Everyone to Learn or Be Exposed.",
+    "subtitle": "Negative Price Guarantee (“-1”) turns work into measurable responsibility: numerical literacy, business literacy, digital literacy, financial literacy, and ethical literacy.",
+    "url": "https://theminusoneguarantee.substack.com/p/ethical-illiteracy-is-the-hidden"
+  },
+  {
+    "date": "2026-08-13",
+    "datetime_utc": "2026-08-13T15:01:34.746Z",
+    "title": "Going Slowly in the Right Direction Beats Running Fast Toward Collapse. “-1” Shows You Where to Turn.",
+    "subtitle": "Negative Price Guarantee (“-1”) proves that changing direction is not defeat. It is survival measured in real numbers.",
+    "url": "https://theminusoneguarantee.substack.com/p/going-slowly-in-the-right-direction"
+  },
+  {
+    "date": "2026-08-14",
+    "datetime_utc": "2026-08-14T15:00:48.247Z",
+    "title": "While Your Competitors Scream Louder, “-1” Makes You Quietly Dangerous.",
+    "subtitle": "Negative Price Guarantee (“-1”) is the anti-fog strategy: fewer promises, more proof, real numbers, and a reputation competitors can’t crack.",
+    "url": "https://theminusoneguarantee.substack.com/p/while-your-competitors-scream-louder"
+  },
+  {
+    "date": "2026-08-15",
+    "datetime_utc": "2026-08-15T15:00:48.733Z",
+    "title": "AI Just Made It Easy to Expose Weak Companies. “-1” Is the Final Test They Can’t Fake.",
+    "subtitle": "AI helps anyone evaluate ethics, numbers, and strategy. Negative Price Guarantee (“-1”) reveals who can answer uncomfortable questions.",
+    "url": "https://theminusoneguarantee.substack.com/p/ai-just-made-it-easy-to-expose-weak"
+  }
+]

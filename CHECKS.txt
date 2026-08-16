@@ -1,25 +1,38 @@
 The -1 Guarantee — GitHub files verification report
-Generated: 2026-07-08
+Generated: 2026-08-16
 
 SOURCE
-- Archive file parsed: Archive - The -1 Guarantee.html
-- Article preview blocks extracted: 175
+- Previous verified baseline: 175 articles through 2026-07-08
+- New source: Substack /api/v1/archive JSON saved as archive.txt
+- API records supplied: 50
+- New public articles identified: 39
 
-STRUCTURAL CHECKS
-- Unique URLs: 175/175
+NEW ARTICLE CROSS-CHECKS
+- New canonical_url values unique: 39/39
+- canonical_url path matches Substack slug: 39/39
+- canonical_url equals inboxItem.web_url: 39/39
+- New date range: 2026-07-09 to 2026-08-15
+- Dates covered: 38 calendar days
+- Extra publication date: 2026-07-11 has 2 articles
+
+FULL ARCHIVE STRUCTURAL CHECKS
+- Articles: 214
+- Unique URLs: 214/214
 - Duplicate URLs: 0
-- URLs with expected Substack /p/ prefix: 175/175
-- Titles present: 175/175
-- Subtitles present: 175/175
-- Datetime values present: 175/175
-- Date range: 2026-01-14 to 2026-07-08
+- URLs with expected Substack /p/ prefix: 214/214
+- Titles present: 214/214
+- Subtitles present: 214/214
+- Datetime values present: 214/214
+- Date range: 2026-01-14 to 2026-08-15
 - Missing dates in continuous date range: 2026-02-03
 
 GENERATED FILE CHECKS
-- sitemap.txt URLs: 175
-- sitemap.xml parsed successfully: yes
-- All article URLs included in every generated public file: yes
+- sitemap.txt URLs: 214
+- sitemap.xml generated from the same 214 URL/date records
+- articles.csv rows: 214
+- articles.json records: 214
+- archive.html/index.html/archive.md generated from the same canonical dataset
 
 LIMITATION
-- These checks verify extraction, formatting, uniqueness, XML validity, and internal consistency.
-- They do not prove that every Substack URL returned HTTP 200 at generation time, because the runtime environment cannot perform 175 external live requests reliably.
+- The new URLs are not guessed: they come directly from Substack's canonical_url field.
+- The runtime cannot independently issue a live HTTP request to every Substack URL. For the 39 new records, internal Substack consistency was checked three ways: canonical_url, slug, and inboxItem.web_url.
