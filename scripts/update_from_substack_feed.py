@@ -1,7 +1,17 @@
 #!/usr/bin/env python3
-# Append newly published Substack posts to the permanent GitHub archive.
-# Primary source: https://theminusoneguarantee.substack.com/feed
-# Safety rule: existing historical URLs are never deleted automatically.
+"""
+Append newly published Substack posts to the permanent GitHub archive.
+
+Discovery order:
+1) RSS /feed
+2) Substack archive JSON API /api/v1/archive
+3) Substack posts JSON API /api/v1/posts
+
+Safety:
+- Existing historical URLs are never deleted automatically.
+- Only canonical URLs from this publication under /p/ are accepted.
+- The script writes files only when at least one new canonical article is found.
+"""
 
 from __future__ import annotations
 
@@ -21,9 +31,14 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 BASE = "https://theminusoneguarantee.substack.com"
 FEED = BASE + "/feed"
+ARCHIVE_API = BASE + "/api/v1/archive"
+POSTS_API = BASE + "/api/v1/posts"
+
+# Use a normal browser UA. Some edge/CDN rules reject obvious bot UAs.
 UA = (
-    "Mozilla/5.0 (compatible; TheMinusOneGuaranteeArchiveBot/1.0; "
-    "+https://github.com/massimilianobanini/theminusoneguarantee-sitemap)"
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) "
+    "Chrome/151.0.0.0 Safari/537.36"
 )
 
 
@@ -39,23 +54,44 @@ def canonical_url(url: str) -> str:
     if parsed.scheme not in {"http", "https"}:
         return ""
     path = parsed.path.rstrip("/")
-    return urllib.parse.urlunsplit(("https", parsed.netloc.lower(), path, "", ""))
+    return urllib.parse.urlunsplit(
+        ("https", parsed.netloc.lower(), path, "", "")
+    )
 
 
-def fetch_text(url: str, *, no_cache: bool = False) -> str:
+def http_get(url: str, *, accept: str, no_cache: bool = True) -> bytes:
     headers = {
         "User-Agent": UA,
-        "Accept": (
-            "application/rss+xml, application/xml, text/xml, "
-            "text/html;q=0.9, */*;q=0.8"
-        ),
+        "Accept": accept,
+        "Accept-Language": "en-US,en;q=0.9",
+        "Referer": BASE + "/",
+        "Connection": "close",
     }
     if no_cache:
         headers["Cache-Control"] = "no-cache, no-store, max-age=0"
         headers["Pragma"] = "no-cache"
-    request = urllib.request.Request(url, headers=headers)
-    with urllib.request.urlopen(request, timeout=40) as response:
-        return response.read().decode("utf-8-sig", errors="replace")
+
+    req = urllib.request.Request(url, headers=headers)
+    with urllib.request.urlopen(req, timeout=40) as response:
+        return response.read()
+
+
+def fetch_text(url: str) -> str:
+    return http_get(
+        url,
+        accept=(
+            "application/rss+xml, application/xml, text/xml, "
+            "text/html;q=0.9, */*;q=0.8"
+        ),
+    ).decode("utf-8-sig", errors="replace")
+
+
+def fetch_json(url: str):
+    raw = http_get(
+        url,
+        accept="application/json,text/plain,*/*",
+    )
+    return json.loads(raw.decode("utf-8-sig", errors="replace"))
 
 
 class TextExtractor(HTMLParser):
@@ -77,47 +113,38 @@ def strip_html(fragment: str) -> str:
         return clean(re.sub(r"<[^>]+>", " ", fragment or ""))
 
 
-class MetaDescriptionParser(HTMLParser):
-    def __init__(self) -> None:
-        super().__init__()
-        self.values: dict[str, str] = {}
+def parse_iso_datetime(value: object) -> str:
+    s = clean(value)
+    if not s:
+        return ""
 
-    def handle_starttag(
-        self, tag: str, attrs: list[tuple[str, str | None]]
-    ) -> None:
-        if tag.lower() != "meta":
-            return
-        a = {clean(k).lower(): clean(v) for k, v in attrs if k and v}
-        key = (a.get("property") or a.get("name") or "").lower()
-        content = a.get("content", "")
-        if key and content and key not in self.values:
-            self.values[key] = content
-
-
-def page_subtitle(url: str) -> str:
+    # RSS date
     try:
-        page = fetch_text(url)
-        parser = MetaDescriptionParser()
-        parser.feed(page)
-        for key in ("og:description", "twitter:description", "description"):
-            value = clean(html.unescape(parser.values.get(key, "")))
-            if value:
-                return value
-    except Exception as exc:
-        print(f"WARN subtitle metadata unavailable for {url}: {exc}")
-    return ""
+        dt = parsedate_to_datetime(s)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return (
+            dt.astimezone(timezone.utc)
+            .replace(microsecond=0)
+            .isoformat()
+            .replace("+00:00", "Z")
+        )
+    except Exception:
+        pass
 
-
-def parse_pubdate(value: str) -> str:
-    dt = parsedate_to_datetime(clean(value))
-    if dt.tzinfo is None:
-        dt = dt.replace(tzinfo=timezone.utc)
-    return (
-        dt.astimezone(timezone.utc)
-        .replace(microsecond=0)
-        .isoformat()
-        .replace("+00:00", "Z")
-    )
+    # ISO date
+    try:
+        dt = datetime.fromisoformat(s[:-1] + "+00:00" if s.endswith("Z") else s)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return (
+            dt.astimezone(timezone.utc)
+            .replace(microsecond=0)
+            .isoformat()
+            .replace("+00:00", "Z")
+        )
+    except Exception:
+        return ""
 
 
 def child_text(item: ET.Element, local_name: str) -> str:
@@ -145,7 +172,10 @@ def parse_feed(xml_text: str) -> list[dict[str, str]]:
         if not url.startswith(BASE + "/p/"):
             continue
 
-        dt = parse_pubdate(pub)
+        dt = parse_iso_datetime(pub)
+        if not dt:
+            continue
+
         records.append(
             {
                 "date": dt[:10],
@@ -157,10 +187,117 @@ def parse_feed(xml_text: str) -> list[dict[str, str]]:
         )
 
     if not records:
-        raise RuntimeError("RSS feed returned no usable article items")
+        raise RuntimeError("RSS returned no usable article items")
 
-    by_url = {r["url"]: r for r in records}
-    return list(by_url.values())
+    return list({r["url"]: r for r in records}.values())
+
+
+def api_record(post: dict) -> dict[str, str] | None:
+    if not isinstance(post, dict):
+        return None
+
+    # Skip drafts/non-published records when flags exist.
+    if post.get("draft") is True or post.get("is_published") is False:
+        return None
+
+    post_type = clean(post.get("type")).lower()
+    # Keep newsletters/articles. Empty type is tolerated for compatibility.
+    if post_type and post_type not in {"newsletter", "post"}:
+        return None
+
+    title = clean(post.get("title"))
+    subtitle = clean(
+        post.get("subtitle")
+        or post.get("description")
+        or post.get("social_title")
+    )
+
+    url = ""
+    for key in ("canonical_url", "canonicalUrl", "web_url", "url"):
+        candidate = canonical_url(post.get(key, ""))
+        if candidate.startswith(BASE + "/p/"):
+            url = candidate
+            break
+
+    if not url:
+        slug = clean(post.get("slug"))
+        if slug:
+            url = canonical_url(BASE + "/p/" + slug)
+
+    dt = ""
+    for key in (
+        "post_date",
+        "published_at",
+        "publication_date",
+        "publishedAt",
+        "created_at",
+    ):
+        dt = parse_iso_datetime(post.get(key))
+        if dt:
+            break
+
+    if not title or not url.startswith(BASE + "/p/") or not dt:
+        return None
+
+    return {
+        "date": dt[:10],
+        "datetime_utc": dt,
+        "title": title,
+        "subtitle": subtitle,
+        "url": url,
+    }
+
+
+def rows_from_api_payload(payload) -> list[dict[str, str]]:
+    if isinstance(payload, list):
+        posts = payload
+    elif isinstance(payload, dict):
+        posts = []
+        for key in ("posts", "items", "results", "data"):
+            if isinstance(payload.get(key), list):
+                posts = payload[key]
+                break
+    else:
+        posts = []
+
+    rows = []
+    for post in posts:
+        record = api_record(post)
+        if record:
+            rows.append(record)
+
+    return list({r["url"]: r for r in rows}.values())
+
+
+def fetch_api_source(base_url: str, source_name: str) -> list[dict[str, str]]:
+    # We only need a recent window because GitHub is the permanent archive.
+    # Fetch several small pages to survive missed workflow runs.
+    collected: dict[str, dict[str, str]] = {}
+
+    for offset in range(0, 60, 12):
+        params = urllib.parse.urlencode(
+            {
+                "sort": "new",
+                "limit": 12,
+                "offset": offset,
+                "type": "newsletter",
+                "_": int(time.time()),
+            }
+        )
+        url = base_url + "?" + params
+        payload = fetch_json(url)
+        rows = rows_from_api_payload(payload)
+
+        for row in rows:
+            collected[row["url"]] = row
+
+        if len(rows) < 12:
+            break
+
+    if not collected:
+        raise RuntimeError(f"{source_name} returned no usable article items")
+
+    return list(collected.values())
 
 
 def load_existing() -> list[dict[str, str]]:
@@ -172,9 +309,54 @@ def load_existing() -> list[dict[str, str]]:
     return rows
 
 
-def validate(
-    rows: list[dict[str, str]], historical_urls: set[str]
-) -> None:
+def source_newest(rows: list[dict[str, str]]) -> str:
+    return max(r["datetime_utc"] for r in rows)
+
+
+def discover_recent(existing: list[dict[str, str]]) -> tuple[str, list[dict[str, str]]]:
+    attempts = [
+        (
+            "RSS",
+            lambda: parse_feed(
+                fetch_text(FEED + "?archive_check=" + str(int(time.time())))
+            ),
+        ),
+        (
+            "archive API",
+            lambda: fetch_api_source(ARCHIVE_API, "archive API"),
+        ),
+        (
+            "posts API",
+            lambda: fetch_api_source(POSTS_API, "posts API"),
+        ),
+    ]
+
+    errors: list[str] = []
+    successful: list[tuple[str, list[dict[str, str]]]] = []
+
+    for name, fn in attempts:
+        try:
+            rows = fn()
+            print(
+                f"OK {name}: {len(rows)} usable items; "
+                f"newest={source_newest(rows)}"
+            )
+            successful.append((name, rows))
+        except Exception as exc:
+            msg = f"{name}: {exc}"
+            errors.append(msg)
+            print(f"WARN {msg}")
+
+    if not successful:
+        raise RuntimeError(
+            "All Substack discovery methods failed: " + " | ".join(errors)
+        )
+
+    # Choose the source with the newest visible post.
+    return max(successful, key=lambda pair: source_newest(pair[1]))
+
+
+def validate(rows: list[dict[str, str]], historical_urls: set[str]) -> None:
     urls = [canonical_url(r.get("url", "")) for r in rows]
 
     if len(urls) != len(set(urls)):
@@ -182,22 +364,16 @@ def validate(
 
     if not historical_urls.issubset(set(urls)):
         missing = sorted(historical_urls - set(urls))
-        raise RuntimeError(
-            f"Historical URL loss detected: {missing[:5]}"
-        )
+        raise RuntimeError(f"Historical URL loss detected: {missing[:5]}")
 
     for row in rows:
         if not row.get("title"):
             raise RuntimeError(f"Missing title: {row}")
 
-        if not re.fullmatch(
-            r"\d{4}-\d{2}-\d{2}", row.get("date", "")
-        ):
+        if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", row.get("date", "")):
             raise RuntimeError(f"Invalid date: {row}")
 
-        if not canonical_url(row.get("url", "")).startswith(
-            BASE + "/p/"
-        ):
+        if not canonical_url(row.get("url", "")).startswith(BASE + "/p/"):
             raise RuntimeError(f"Unexpected URL: {row}")
 
 
@@ -206,7 +382,7 @@ def markdown_cell(value: str) -> str:
 
 
 def write_outputs(
-    rows: list[dict[str, str]], new_count: int
+    rows: list[dict[str, str]], new_count: int, source_name: str
 ) -> None:
     public_rows = [
         {
@@ -268,10 +444,7 @@ def write_outputs(
     md_lines = [
         "# The -1 Guarantee — Full Article Archive",
         "",
-        (
-            "Archive of all public articles. "
-            "Canonical articles are hosted on Substack."
-        ),
+        "Archive of all public articles. Canonical articles are hosted on Substack.",
         "",
         "| Publication date | Title | Subtitle | URL |",
         "|---|---|---|---|",
@@ -350,18 +523,9 @@ def write_outputs(
     llms = [
         "# The -1 Guarantee",
         "",
-        (
-            '> The -1 Guarantee is a Substack publication by '
-            'Massimiliano Banini about Negative Price Guarantees '
-            '("-1"), measurable value, accountability, risk reversal, '
-            "business systems, work, AI, and economic incentives."
-        ),
+        '> The -1 Guarantee is a Substack publication by Massimiliano Banini about Negative Price Guarantees ("-1"), measurable value, accountability, risk reversal, business systems, work, AI, and economic incentives.',
         "",
-        (
-            "Canonical articles are hosted on Substack. "
-            "This GitHub Pages project provides a static discovery "
-            "layer because the Substack archive is dynamically loaded."
-        ),
+        "Canonical articles are hosted on Substack. This GitHub Pages project provides a static discovery layer because the Substack archive is dynamically loaded.",
         "",
         "## Latest articles",
         "",
@@ -385,8 +549,8 @@ This repository exposes a public, crawlable archive for **The -1 Guarantee** Sub
 
 - [`sitemap.xml`](https://massimilianobanini.github.io/theminusoneguarantee-sitemap/sitemap.xml) — XML sitemap with `loc` and `lastmod`.
 - [`sitemap.txt`](https://massimilianobanini.github.io/theminusoneguarantee-sitemap/sitemap.txt) — plain text sitemap, one URL per line.
-- [`archive.html`](https://massimilianobanini.github.io/theminusoneguarantee-sitemap/archive.html) — human- and bot-readable archive with publication date, title, subtitle, and URL.
-- [`llms.txt`](https://massimilianobanini.github.io/theminusoneguarantee-sitemap/llms.txt) — LLM-oriented overview and recent links.
+- [`archive.html`](https://massimilianobanini.github.io/theminusoneguarantee-sitemap/archive.html) — human- and bot-readable archive.
+- [`llms.txt`](https://massimilianobanini.github.io/theminusoneguarantee-sitemap/llms.txt) — LLM-oriented recent index.
 - [`articles.json`](https://massimilianobanini.github.io/theminusoneguarantee-sitemap/articles.json) — structured article list.
 - [`articles.csv`](https://massimilianobanini.github.io/theminusoneguarantee-sitemap/articles.csv) — spreadsheet-friendly article list.
 
@@ -399,19 +563,19 @@ This repository exposes a public, crawlable archive for **The -1 Guarantee** Sub
 
 ## Automation
 
-GitHub Actions checks the publication RSS feed every 6 hours. New canonical article URLs are appended to the archive; historical URLs are never deleted automatically.
+GitHub Actions checks Substack public metadata every 6 hours. Discovery order: RSS, archive API, posts API. Existing historical URLs are never deleted automatically.
 """
     (ROOT / "README.md").write_text(readme, encoding="utf-8")
 
     today = datetime.now(timezone.utc).date().isoformat()
-    checks = f"""The -1 Guarantee — archive verification report
+    checks = f"""The -1 Guarantee — GitHub files verification report
 Generated: {today}
 
 SOURCE
-- Primary source: {FEED}
-- New public articles added in this run: {new_count}
+- Discovery source used: {source_name}
+- New public articles identified in this run: {new_count}
 
-STRUCTURAL CHECKS
+FULL ARCHIVE STRUCTURAL CHECKS
 - Articles: {len(public_rows)}
 - Unique URLs: {len(set(r['url'] for r in public_rows))}/{len(public_rows)}
 - Duplicate URLs: 0
@@ -422,52 +586,9 @@ STRUCTURAL CHECKS
 
 SAFETY
 - Existing historical URLs are preserved automatically.
-- New URLs are accepted only from the publication RSS feed.
+- New URLs are accepted only from public Substack discovery sources.
 """
     (ROOT / "CHECKS.txt").write_text(checks, encoding="utf-8")
-
-
-def get_best_feed(existing: list[dict[str, str]]) -> list[dict[str, str]]:
-    candidates: list[list[dict[str, str]]] = []
-
-    for url in (
-        FEED,
-        FEED + "?archive_check=" + str(int(time.time())),
-    ):
-        try:
-            rows = parse_feed(fetch_text(url, no_cache=True))
-            candidates.append(rows)
-        except Exception as exc:
-            print(f"WARN feed fetch failed for {url}: {exc}")
-
-    if not candidates:
-        raise RuntimeError("All RSS feed fetch attempts failed")
-
-    def newest(rows: list[dict[str, str]]) -> str:
-        return max(r["datetime_utc"] for r in rows)
-
-    best = max(candidates, key=newest)
-    newest_existing = max(
-        r.get("datetime_utc", r["date"]) for r in existing
-    )
-    newest_feed = newest(best)
-
-    print(
-        f"Existing archive: {len(existing)} articles; "
-        f"newest={newest_existing}"
-    )
-    print(
-        f"RSS feed: {len(best)} usable items; "
-        f"newest={newest_feed}"
-    )
-
-    if newest_feed < newest_existing:
-        raise RuntimeError(
-            "RSS feed appears older than the current repository archive. "
-            "Stopping without modifying historical data."
-        )
-
-    return best
 
 
 def main() -> None:
@@ -476,24 +597,38 @@ def main() -> None:
         canonical_url(r.get("url", "")) for r in existing
     }
 
-    feed_rows = get_best_feed(existing)
-    feed_rows.sort(
-        key=lambda r: (r["datetime_utc"], r["url"])
+    source_name, recent_rows = discover_recent(existing)
+    recent_rows.sort(key=lambda r: (r["datetime_utc"], r["url"]))
+
+    newest_existing = max(
+        r.get("datetime_utc", r["date"]) for r in existing
     )
+    newest_source = source_newest(recent_rows)
+
+    print(
+        f"Existing archive: {len(existing)} articles; "
+        f"newest={newest_existing}"
+    )
+    print(
+        f"Selected source: {source_name}; "
+        f"newest={newest_source}"
+    )
+
+    if newest_source < newest_existing:
+        raise RuntimeError(
+            "All successful Substack sources appear older than the "
+            "current repository archive. Stopping safely."
+        )
 
     by_url: dict[str, dict[str, str]] = {
         canonical_url(r["url"]): dict(r) for r in existing
     }
     new_rows: list[dict[str, str]] = []
 
-    for row in feed_rows:
+    for row in recent_rows:
         url = row["url"]
         if url in historical_urls:
             continue
-
-        row["subtitle"] = (
-            page_subtitle(url) or row.get("subtitle", "")
-        )
         by_url[url] = row
         new_rows.append(row)
 
@@ -513,15 +648,13 @@ def main() -> None:
     )
 
     validate(merged, historical_urls)
-    write_outputs(merged, len(new_rows))
+    write_outputs(merged, len(new_rows), source_name)
 
     print(
         f"Added {len(new_rows)} new article(s). "
         f"New total={len(merged)}"
     )
-    for row in sorted(
-        new_rows, key=lambda r: r["datetime_utc"]
-    ):
+    for row in sorted(new_rows, key=lambda r: r["datetime_utc"]):
         print(
             f"+ {row['date']} | {row['title']} | {row['url']}"
         )
