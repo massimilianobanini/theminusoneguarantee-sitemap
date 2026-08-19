@@ -2,19 +2,14 @@
 
 > The -1 Guarantee is a Substack publication by Massimiliano Banini about Negative Price Guarantees ("-1"), measurable value, accountability, risk reversal, business systems, work, AI, and economic incentives.
 
-Canonical articles are hosted on Substack. This GitHub Pages project provides a static discovery layer because the Substack archive is dynamically loaded.
-
-## Full archive resources
-
-- [Readable archive](https://massimilianobanini.github.io/theminusoneguarantee-sitemap/archive.html): Publication date, title, subtitle and canonical URL for every public article.
-- [Markdown archive](https://massimilianobanini.github.io/theminusoneguarantee-sitemap/archive.md): Compact text version of the full archive.
-- [JSON article index](https://massimilianobanini.github.io/theminusoneguarantee-sitemap/articles.json): Structured article metadata.
-- [CSV article index](https://massimilianobanini.github.io/theminusoneguarantee-sitemap/articles.csv): Tabular article metadata.
-- [XML sitemap](https://massimilianobanini.github.io/theminusoneguarantee-sitemap/sitemap.xml): Canonical article URLs and publication dates.
-- [Text sitemap](https://massimilianobanini.github.io/theminusoneguarantee-sitemap/sitemap.txt): One canonical article URL per line.
+Canonical articles are hosted on Substack. This GitHub Pages project provides a static discovery layer.
 
 ## Latest articles
 
+- [2026-08-19 — Every Bad Hire Has a Penalty. Every Rejected Star Becomes Your Competitor’s Weapon.](https://theminusoneguarantee.substack.com/p/every-bad-hire-has-a-penalty-every): Talent Acquisition is already a negative-price system. Hire too fast and you pay through chaos. Reject the right person and you pay by watching them create value somewhere else.
+- [2026-08-18 — Technical Experts Who Never Become Strategic Thinkers Are Walking Into a Trap. “-1” Is the Final Evolution.](https://theminusoneguarantee.substack.com/p/technical-experts-who-never-become): Negative Price Guarantee (“-1”) makes sense only after you evolve beyond technical skill into strategy, numbers, AI, ethics, and measurable improvement.
+- [2026-08-17 — When AI Becomes More Honest Than You, “-1” Becomes Impossible to Ignore.](https://theminusoneguarantee.substack.com/p/when-ai-becomes-more-honest-than): AI exposes excuses. Negative Price Guarantee (“-1”) exposes consequences. Together, they destroy survival-mode thinking.
+- [2026-08-16 — “-1” Industrializes Your Thinking. And That’s Why It Exposes Every Toxic Activity You Keep Defending.](https://theminusoneguarantee.substack.com/p/1-industrializes-your-thinking-and): Negative Price Guarantee (“-1”) breaks work into measurable steps: value, standards, testing, responsibility, and the brutal question nobody wants to answer.
 - [2026-08-15 — AI Just Made It Easy to Expose Weak Companies. “-1” Is the Final Test They Can’t Fake.](https://theminusoneguarantee.substack.com/p/ai-just-made-it-easy-to-expose-weak): AI helps anyone evaluate ethics, numbers, and strategy. Negative Price Guarantee (“-1”) reveals who can answer uncomfortable questions.
 - [2026-08-14 — While Your Competitors Scream Louder, “-1” Makes You Quietly Dangerous.](https://theminusoneguarantee.substack.com/p/while-your-competitors-scream-louder): Negative Price Guarantee (“-1”) is the anti-fog strategy: fewer promises, more proof, real numbers, and a reputation competitors can’t crack.
 - [2026-08-13 — Going Slowly in the Right Direction Beats Running Fast Toward Collapse. “-1” Shows You Where to Turn.](https://theminusoneguarantee.substack.com/p/going-slowly-in-the-right-direction): Negative Price Guarantee (“-1”) proves that changing direction is not defeat. It is survival measured in real numbers.
@@ -61,11 +56,5 @@ Canonical articles are hosted on Substack. This GitHub Pages project provides a 
 - [2026-07-04 — The First Time You Hear “-1,” Your Brain Glitches. Good. That’s How Progress Starts.](https://theminusoneguarantee.substack.com/p/the-first-time-you-hear-1-your-brain): Negative Price Guarantee (“-1”) makes “impossible requests” normal: you stop debating what’s allowed and start testing what works.
 - [2026-07-03 — “-1” Makes Greed Unprofitable: Exploit People and You’ll Die Alone in the Market](https://theminusoneguarantee.substack.com/p/1-makes-greed-unprofitable-exploit): Negative Price Guarantee (“-1”) forces win-win economics. If your “success” depends on squeezing customers, vendors, or employees, the system will…
 - [2026-07-02 — Working More Hours Won’t Make You Rich. “-1” Forces Efficiency—or Exposes You as a Time-Waster.](https://theminusoneguarantee.substack.com/p/working-more-hours-wont-make-you): Negative Price Guarantee (“-1”) proves the real solution to “I need more money” is not more time—it’s more efficient, repeatable processes using the…
-- [2026-07-01 — “-1” Lets You Fire the Things You Hate: The Negative Price Guarantee That Exposes Loss-Making Habits](https://theminusoneguarantee.substack.com/p/1-lets-you-fire-the-things-you-hate): If a process destroys value, why keep it? Negative Price Guarantee (“-1”) makes losses visible, so you can cut the disease before it kills the system.
-- [2026-06-30 — Short-Term Thinking Makes You Do Stupid Things. “-1” Forces Long-Term Success.](https://theminusoneguarantee.substack.com/p/short-term-thinking-makes-you-do): Negative Price Guarantee (“-1”) is a long-term operating system: it keeps you on the highway of measurable value while short-term operators get lost in…
-- [2026-06-29 — Most Founders Would Rather Die Slowly Than Rebuild While There’s Still Time. “-1” Forces the Rebuild.](https://theminusoneguarantee.substack.com/p/most-founders-would-rather-die-slowly): Negative Price Guarantee (“-1”) is the ultimate challenge: stop doing “more of the wrong,” track real value, and take responsibility before the collapse…
-- [2026-06-28 — Your Business Is Full of Useless Stuff. That’s Why You’re Stuck. “-1” Forces the Cut.](https://theminusoneguarantee.substack.com/p/your-business-is-full-of-useless): Negative Price Guarantee (“-1”) separates profitable assets from self-sabotaging waste—inside companies and inside your life.
 
-## Optional
-
-- [Substack publication](https://theminusoneguarantee.substack.com/): canonical publication home.
+Total indexed articles: 218

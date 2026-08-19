@@ -4,20 +4,21 @@ This repository exposes a public, crawlable archive for **The -1 Guarantee** Sub
 
 ## Main files
 
-- [`sitemap.xml`](https://massimilianobanini.github.io/theminusoneguarantee-sitemap/sitemap.xml) — XML sitemap with `loc` and `lastmod`.
-- [`sitemap.txt`](https://massimilianobanini.github.io/theminusoneguarantee-sitemap/sitemap.txt) — plain text sitemap, one URL per line.
-- [`archive.html`](https://massimilianobanini.github.io/theminusoneguarantee-sitemap/archive.html) — human- and bot-readable archive with publication date, title, subtitle, and URL.
-- [`llms.txt`](https://massimilianobanini.github.io/theminusoneguarantee-sitemap/llms.txt) — LLM-oriented overview and recent links.
-- [`articles.json`](https://massimilianobanini.github.io/theminusoneguarantee-sitemap/articles.json) — structured article list.
-- [`articles.csv`](https://massimilianobanini.github.io/theminusoneguarantee-sitemap/articles.csv) — spreadsheet-friendly article list.
+- `sitemap.xml` — XML sitemap with `loc` and `lastmod`.
+- `sitemap.txt` — plain text sitemap, one canonical URL per line.
+- `archive.html` — human- and bot-readable archive.
+- `llms.txt` — LLM-oriented recent index.
+- `articles.json` — structured article list.
+- `articles.csv` — spreadsheet-friendly article list.
+- `article_notes.json` — short editorial notes/excerpts useful for downstream video selection.
 
 ## Counts
 
-- Articles: **214**
+- Articles: **218**
 - First article: **2026-01-14**
-- Latest article: **2026-08-15**
+- Latest article: **2026-08-19**
 - Source publication: <https://theminusoneguarantee.substack.com/>
 
-## Note
+## Automation
 
-The canonical articles are hosted on Substack. This GitHub Pages repository exists only as a public discovery/indexing aid.
+New posts are discovered from the Gmail copy of the publication newsletter and synchronized by Google Apps Script. The GitHub repository is append-only: existing historical canonical URLs are never deleted automatically.

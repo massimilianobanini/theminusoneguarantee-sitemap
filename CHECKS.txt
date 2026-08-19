@@ -1,38 +1,19 @@
 The -1 Guarantee — GitHub files verification report
-Generated: 2026-08-16
+Generated: 2026-08-19
 
 SOURCE
-- Previous verified baseline: 175 articles through 2026-07-08
-- New source: Substack /api/v1/archive JSON saved as archive.txt
-- API records supplied: 50
-- New public articles identified: 39
+- Primary discovery: Gmail newsletter delivery from The -1 Guarantee / Substack
+- New canonical URLs in this sync: 4
 
-NEW ARTICLE CROSS-CHECKS
-- New canonical_url values unique: 39/39
-- canonical_url path matches Substack slug: 39/39
-- canonical_url equals inboxItem.web_url: 39/39
-- New date range: 2026-07-09 to 2026-08-15
-- Dates covered: 38 calendar days
-- Extra publication date: 2026-07-11 has 2 articles
-
-FULL ARCHIVE STRUCTURAL CHECKS
-- Articles: 214
-- Unique URLs: 214/214
+STRUCTURAL CHECKS
+- Articles: 218
+- Unique URLs: 218/218
 - Duplicate URLs: 0
-- URLs with expected Substack /p/ prefix: 214/214
-- Titles present: 214/214
-- Subtitles present: 214/214
-- Datetime values present: 214/214
-- Date range: 2026-01-14 to 2026-08-15
-- Missing dates in continuous date range: 2026-02-03
+- URLs with expected Substack /p/ prefix: 218/218
+- Titles present: 218/218
+- Subtitles present: 218/218
+- Date range: 2026-01-14 to 2026-08-19
 
-GENERATED FILE CHECKS
-- sitemap.txt URLs: 214
-- sitemap.xml generated from the same 214 URL/date records
-- articles.csv rows: 214
-- articles.json records: 214
-- archive.html/index.html/archive.md generated from the same canonical dataset
-
-LIMITATION
-- The new URLs are not guessed: they come directly from Substack's canonical_url field.
-- The runtime cannot independently issue a live HTTP request to every Substack URL. For the 39 new records, internal Substack consistency was checked three ways: canonical_url, slug, and inboxItem.web_url.
+SAFETY
+- Existing historical URLs are preserved automatically.
+- New email-derived URLs are accepted only from the exact The -1 Guarantee canonical /p/ domain.
