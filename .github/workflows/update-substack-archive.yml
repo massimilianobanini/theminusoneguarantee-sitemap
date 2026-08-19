@@ -1,0 +1,78 @@
+name: Update Substack archive
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Every 6 hours, offset from the top of the hour.
+    - cron: "17 */6 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: substack-archive-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Read RSS and update archive
+        run: python scripts/update_from_substack_feed.py
+
+      - name: Validate generated files
+        run: |
+          python -m json.tool articles.json > /dev/null
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          rows = json.loads(Path("articles.json").read_text(encoding="utf-8"))
+          urls = [r["url"] for r in rows]
+          assert len(urls) == len(set(urls)), "Duplicate URLs"
+          assert all(
+              u.startswith("https://theminusoneguarantee.substack.com/p/")
+              for u in urls
+          )
+          assert len(
+              Path("sitemap.txt").read_text(encoding="utf-8").splitlines()
+          ) == len(rows)
+          print(f"Validation OK: {len(rows)} articles")
+          PY
+
+      - name: Commit new articles
+        shell: bash
+        run: |
+          if git diff --quiet; then
+            echo "No repository changes."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add \
+            articles.json \
+            articles.csv \
+            sitemap.txt \
+            sitemap.xml \
+            archive.md \
+            archive.html \
+            index.html \
+            llms.txt \
+            README.md \
+            CHECKS.txt
+
+          git commit -m "Update archive from Substack RSS"
+          git push
