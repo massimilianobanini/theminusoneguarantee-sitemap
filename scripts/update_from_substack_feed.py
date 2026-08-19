@@ -6,6 +6,7 @@ Discovery order:
 1) RSS /feed
 2) Substack archive JSON API /api/v1/archive
 3) Substack posts JSON API /api/v1/posts
+4) Jina Reader server-side browser fallback
 
 Safety:
 - Existing historical URLs are never deleted automatically.
@@ -33,6 +34,208 @@ BASE = "https://theminusoneguarantee.substack.com"
 FEED = BASE + "/feed"
 ARCHIVE_API = BASE + "/api/v1/archive"
 POSTS_API = BASE + "/api/v1/posts"
+
+
+
+JINA = "https://r.jina.ai/"
+
+
+def jina_json(target_url: str):
+    reader_url = JINA + target_url
+    headers = {
+        "User-Agent": UA,
+        "Accept": "application/json",
+        "X-No-Cache": "true",
+        "X-Cache-Tolerance": "0",
+        "X-Timeout": "40",
+    }
+    req = urllib.request.Request(reader_url, headers=headers)
+    with urllib.request.urlopen(req, timeout=60) as response:
+        raw = response.read().decode("utf-8-sig", errors="replace")
+    payload = json.loads(raw)
+    if isinstance(payload, dict) and isinstance(payload.get("data"), dict):
+        return payload["data"]
+    return payload
+
+
+def first_dict_value(obj, keys: tuple[str, ...]):
+    if not isinstance(obj, dict):
+        return ""
+    lower = {str(k).lower(): v for k, v in obj.items()}
+    for key in keys:
+        value = lower.get(key.lower())
+        if value not in (None, "", [], {}):
+            return value
+    for value in obj.values():
+        if isinstance(value, dict):
+            found = first_dict_value(value, keys)
+            if found not in (None, "", [], {}):
+                return found
+    return ""
+
+
+def jina_content(payload) -> str:
+    value = first_dict_value(payload, ("content", "markdown", "text"))
+    return str(value or "")
+
+
+def normalize_title(value: str) -> str:
+    t = clean(value)
+    for suffix in (
+        " | The -1 Guarantee",
+        " — The -1 Guarantee",
+        " - The -1 Guarantee",
+    ):
+        if t.endswith(suffix):
+            t = t[: -len(suffix)].strip()
+    return t
+
+
+def date_from_text(text: str) -> str:
+    candidates = []
+    month = (
+        r"(?:Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|"
+        r"Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:tember)?|Oct(?:ober)?|"
+        r"Nov(?:ember)?|Dec(?:ember)?)"
+    )
+    candidates.extend(re.findall(month + r"\s+\d{1,2},\s+\d{4}", text, flags=re.I))
+    candidates.extend(re.findall(r"\b\d{4}-\d{2}-\d{2}\b", text))
+    for value in candidates:
+        for fmt in (
+            "%b %d, %Y", "%B %d, %Y", "%Y-%m-%d",
+        ):
+            try:
+                dt = datetime.strptime(value, fmt).replace(tzinfo=timezone.utc)
+                return dt.isoformat().replace("+00:00", "Z")
+            except ValueError:
+                pass
+    return ""
+
+
+def subtitle_from_content(content: str, title: str) -> str:
+    lines = []
+    for raw in content.splitlines():
+        line = clean(re.sub(r"^[#>*\-]+\s*", "", raw))
+        line = re.sub(r"!\[[^]]*\]\([^)]*\)", "", line).strip()
+        if line:
+            lines.append(line)
+
+    title_norm = clean(title).lower()
+    start = 0
+    for i, line in enumerate(lines[:40]):
+        if title_norm and title_norm in line.lower():
+            start = i + 1
+            break
+
+    skip_re = re.compile(
+        r"^(massimiliano banini|subscribe|share|comments?|like|restack|"
+        r"paid|free|the -1 guarantee|\d+ min read)$", re.I
+    )
+    date_re = re.compile(
+        r"^(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]* "
+        r"\d{1,2}, \d{4}$", re.I
+    )
+    for line in lines[start:start + 15]:
+        if skip_re.match(line) or date_re.match(line):
+            continue
+        if line.startswith("http") or line.startswith("["):
+            continue
+        if len(line) >= 20 and clean(line).lower() != title_norm:
+            return line[:500]
+    return ""
+
+
+def jina_article_record(url: str, title_hint: str = "") -> dict[str, str] | None:
+    payload = jina_json(url)
+    content = jina_content(payload)
+
+    title = normalize_title(
+        str(first_dict_value(payload, ("title", "pageTitle", "name")) or title_hint)
+    )
+    if not title and content:
+        m = re.search(r"^#\s+(.+)$", content, flags=re.M)
+        if m:
+            title = normalize_title(m.group(1))
+
+    subtitle = clean(
+        first_dict_value(payload, ("description", "subtitle", "excerpt"))
+    )
+    if not subtitle or subtitle.lower() == title.lower():
+        subtitle = subtitle_from_content(content, title)
+
+    dt = ""
+    for key in (
+        "publishedTime", "published_time", "datePublished",
+        "date_published", "publishedAt", "published_at", "post_date",
+    ):
+        value = first_dict_value(payload, (key,))
+        dt = parse_iso_datetime(value)
+        if dt:
+            break
+    if not dt:
+        dt = date_from_text(content[:5000])
+
+    if not title or not dt:
+        raise RuntimeError(
+            f"Jina could not extract required title/date for {url}"
+        )
+
+    return {
+        "date": dt[:10],
+        "datetime_utc": dt,
+        "title": title,
+        "subtitle": subtitle,
+        "url": canonical_url(url),
+    }
+
+
+def jina_recent() -> list[dict[str, str]]:
+    discovered: dict[str, str] = {}
+    errors = []
+
+    for target in (BASE + "/archive", BASE + "/"):
+        try:
+            payload = jina_json(target)
+            content = jina_content(payload)
+            if not content:
+                raise RuntimeError("empty Reader content")
+
+            # Markdown links first so we retain a useful title hint.
+            link_re = re.compile(
+                r"\[([^]\n]{5,300})\]\((https://theminusoneguarantee\.substack\.com/p/[^)\s?#]+)"
+            )
+            for title, url in link_re.findall(content):
+                discovered.setdefault(canonical_url(url), clean(title))
+
+            # Also accept raw canonical URLs.
+            raw_re = re.compile(
+                r"https://theminusoneguarantee\.substack\.com/p/[A-Za-z0-9_-]+"
+            )
+            for url in raw_re.findall(content):
+                discovered.setdefault(canonical_url(url), "")
+
+            print(f"OK Jina discovery {target}: {len(discovered)} canonical URLs seen")
+        except Exception as exc:
+            errors.append(f"{target}: {exc}")
+            print(f"WARN Jina discovery failed for {target}: {exc}")
+
+    if not discovered:
+        raise RuntimeError("Jina discovery returned no Substack post URLs: " + " | ".join(errors))
+
+    rows = []
+    # Only enrich the recent visible set; archive cards are newest first.
+    for url, title_hint in list(discovered.items())[:30]:
+        try:
+            row = jina_article_record(url, title_hint)
+            if row:
+                rows.append(row)
+        except Exception as exc:
+            print(f"WARN Jina article extraction failed for {url}: {exc}")
+
+    if not rows:
+        raise RuntimeError("Jina found URLs but could not extract any usable article records")
+
+    return list({r["url"]: r for r in rows}.values())
 
 # Use a normal browser UA. Some edge/CDN rules reject obvious bot UAs.
 UA = (
@@ -329,6 +532,10 @@ def discover_recent(existing: list[dict[str, str]]) -> tuple[str, list[dict[str,
             "posts API",
             lambda: fetch_api_source(POSTS_API, "posts API"),
         ),
+        (
+            "Jina Reader",
+            jina_recent,
+        ),
     ]
 
     errors: list[str] = []
@@ -563,7 +770,7 @@ This repository exposes a public, crawlable archive for **The -1 Guarantee** Sub
 
 ## Automation
 
-GitHub Actions checks Substack public metadata every 6 hours. Discovery order: RSS, archive API, posts API. Existing historical URLs are never deleted automatically.
+GitHub Actions checks Substack public metadata every 6 hours. Discovery order: RSS, archive API, posts API, Jina Reader fallback. Existing historical URLs are never deleted automatically.
 """
     (ROOT / "README.md").write_text(readme, encoding="utf-8")
 
