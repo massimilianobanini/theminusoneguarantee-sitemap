@@ -4,6 +4,7 @@ Archive of all public articles. Canonical articles are hosted on Substack.
 
 | Publication date | Title | Subtitle | URL |
 |---|---|---|---|
+| 2026-08-20 | If Your Competitors Aren’t Angry by 11 A.M., Your Negative Price Guarantee Is Too Weak. | View this post on the web at https://theminusoneguarantee.substack.com/p/if-your-competitors-arent-angry-by | https://theminusoneguarantee.substack.com/p/if-your-competitors-arent-angry-by |
 | 2026-08-19 | Every Bad Hire Has a Penalty. Every Rejected Star Becomes Your Competitor’s Weapon. | Talent Acquisition is already a negative-price system. Hire too fast and you pay through chaos. Reject the right person and you pay by watching them create value somewhere else. | https://theminusoneguarantee.substack.com/p/every-bad-hire-has-a-penalty-every |
 | 2026-08-18 | Technical Experts Who Never Become Strategic Thinkers Are Walking Into a Trap. “-1” Is the Final Evolution. | Negative Price Guarantee (“-1”) makes sense only after you evolve beyond technical skill into strategy, numbers, AI, ethics, and measurable improvement. | https://theminusoneguarantee.substack.com/p/technical-experts-who-never-become |
 | 2026-08-17 | When AI Becomes More Honest Than You, “-1” Becomes Impossible to Ignore. | AI exposes excuses. Negative Price Guarantee (“-1”) exposes consequences. Together, they destroy survival-mode thinking. | https://theminusoneguarantee.substack.com/p/when-ai-becomes-more-honest-than |

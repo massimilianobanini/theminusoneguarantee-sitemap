@@ -6,6 +6,7 @@ Canonical articles are hosted on Substack. This GitHub Pages project provides a 
 
 ## Latest articles
 
+- [2026-08-20 — If Your Competitors Aren’t Angry by 11 A.M., Your Negative Price Guarantee Is Too Weak.](https://theminusoneguarantee.substack.com/p/if-your-competitors-arent-angry-by): View this post on the web at https://theminusoneguarantee.substack.com/p/if-your-competitors-arent-angry-by
 - [2026-08-19 — Every Bad Hire Has a Penalty. Every Rejected Star Becomes Your Competitor’s Weapon.](https://theminusoneguarantee.substack.com/p/every-bad-hire-has-a-penalty-every): Talent Acquisition is already a negative-price system. Hire too fast and you pay through chaos. Reject the right person and you pay by watching them create value somewhere else.
 - [2026-08-18 — Technical Experts Who Never Become Strategic Thinkers Are Walking Into a Trap. “-1” Is the Final Evolution.](https://theminusoneguarantee.substack.com/p/technical-experts-who-never-become): Negative Price Guarantee (“-1”) makes sense only after you evolve beyond technical skill into strategy, numbers, AI, ethics, and measurable improvement.
 - [2026-08-17 — When AI Becomes More Honest Than You, “-1” Becomes Impossible to Ignore.](https://theminusoneguarantee.substack.com/p/when-ai-becomes-more-honest-than): AI exposes excuses. Negative Price Guarantee (“-1”) exposes consequences. Together, they destroy survival-mode thinking.
@@ -55,6 +56,5 @@ Canonical articles are hosted on Substack. This GitHub Pages project provides a 
 - [2026-07-05 — If You’re Threatened by Someone Tracking the Numbers, You’re Probably Overpaid. “-1” Exposes It.](https://theminusoneguarantee.substack.com/p/if-youre-threatened-by-someone-tracking): Negative Price Guarantee (“-1”) forces direct accountability in every workflow: value creators rise, value impostors and value thieves lose their cover.
 - [2026-07-04 — The First Time You Hear “-1,” Your Brain Glitches. Good. That’s How Progress Starts.](https://theminusoneguarantee.substack.com/p/the-first-time-you-hear-1-your-brain): Negative Price Guarantee (“-1”) makes “impossible requests” normal: you stop debating what’s allowed and start testing what works.
 - [2026-07-03 — “-1” Makes Greed Unprofitable: Exploit People and You’ll Die Alone in the Market](https://theminusoneguarantee.substack.com/p/1-makes-greed-unprofitable-exploit): Negative Price Guarantee (“-1”) forces win-win economics. If your “success” depends on squeezing customers, vendors, or employees, the system will…
-- [2026-07-02 — Working More Hours Won’t Make You Rich. “-1” Forces Efficiency—or Exposes You as a Time-Waster.](https://theminusoneguarantee.substack.com/p/working-more-hours-wont-make-you): Negative Price Guarantee (“-1”) proves the real solution to “I need more money” is not more time—it’s more efficient, repeatable processes using the…
 
-Total indexed articles: 218
+Total indexed articles: 219
