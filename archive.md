@@ -4,6 +4,7 @@ Archive of all public articles. Canonical articles are hosted on Substack.
 
 | Publication date | Title | Subtitle | URL |
 |---|---|---|---|
+| 2026-08-22 | Buyer’s Remorse Is the Hidden Tax Weak Companies Make Customers Pay. “-1” Forces Them to Carry It Instead. | View this post on the web at https://theminusoneguarantee.substack.com/p/buyers-remorse-is-the-hidden-tax | https://theminusoneguarantee.substack.com/p/buyers-remorse-is-the-hidden-tax |
 | 2026-08-21 | Your Company Is Not “Out of Money.” It’s Buried Under Dead Assets, Idle People, and Expensive Corporate Clutter. | View this post on the web at https://theminusoneguarantee.substack.com/p/your-company-is-not-out-of-money | https://theminusoneguarantee.substack.com/p/start-here |
 | 2026-08-20 | If Your Competitors Aren’t Angry by 11 A.M., Your Negative Price Guarantee Is Too Weak. | View this post on the web at https://theminusoneguarantee.substack.com/p/if-your-competitors-arent-angry-by | https://theminusoneguarantee.substack.com/p/if-your-competitors-arent-angry-by |
 | 2026-08-19 | Every Bad Hire Has a Penalty. Every Rejected Star Becomes Your Competitor’s Weapon. | Talent Acquisition is already a negative-price system. Hire too fast and you pay through chaos. Reject the right person and you pay by watching them create value somewhere else. | https://theminusoneguarantee.substack.com/p/every-bad-hire-has-a-penalty-every |
