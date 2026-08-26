@@ -4,6 +4,7 @@ Archive of all public articles. Canonical articles are hosted on Substack.
 
 | Publication date | Title | Subtitle | URL |
 |---|---|---|---|
+| 2026-08-26 | “-1” Is Entering the Overton Window. The Last Defenders of Mediocrity Won’t Notice Until It’s Normal. | View this post on the web at https://theminusoneguarantee.substack.com/p/1-is-entering-the-overton-window | https://theminusoneguarantee.substack.com/p/1-is-entering-the-overton-window |
 | 2026-08-25 | Stop Calling It “Confidence.” It’s Anti-Expertise. “-1” Makes Ignorance Expensive Again. | View this post on the web at https://theminusoneguarantee.substack.com/p/stop-calling-it-confidence-its-anti | https://theminusoneguarantee.substack.com/p/stop-calling-it-confidence-its-anti |
 | 2026-08-24 | Stop Hiring Salespeople to Feed a Leaking Business. Revenue Is Not Profit—and “-1” Exposes the Hole. | View this post on the web at https://theminusoneguarantee.substack.com/p/stop-hiring-salespeople-to-feed-a | https://theminusoneguarantee.substack.com/p/stop-hiring-salespeople-to-feed-a |
 | 2026-08-23 | Copycats Can Copy Your Offer. They Can’t Survive Your Negative Price Guarantee | View this post on the web at https://theminusoneguarantee.substack.com/p/copycats-can-copy-your-offer-they | https://theminusoneguarantee.substack.com/p/copycats-can-copy-your-offer-they |

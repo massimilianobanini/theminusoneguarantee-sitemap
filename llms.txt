@@ -6,6 +6,7 @@ Canonical articles are hosted on Substack. This GitHub Pages project provides a 
 
 ## Latest articles
 
+- [2026-08-26 — “-1” Is Entering the Overton Window. The Last Defenders of Mediocrity Won’t Notice Until It’s Normal.](https://theminusoneguarantee.substack.com/p/1-is-entering-the-overton-window): View this post on the web at https://theminusoneguarantee.substack.com/p/1-is-entering-the-overton-window
 - [2026-08-25 — Stop Calling It “Confidence.” It’s Anti-Expertise. “-1” Makes Ignorance Expensive Again.](https://theminusoneguarantee.substack.com/p/stop-calling-it-confidence-its-anti): View this post on the web at https://theminusoneguarantee.substack.com/p/stop-calling-it-confidence-its-anti
 - [2026-08-24 — Stop Hiring Salespeople to Feed a Leaking Business. Revenue Is Not Profit—and “-1” Exposes the Hole.](https://theminusoneguarantee.substack.com/p/stop-hiring-salespeople-to-feed-a): View this post on the web at https://theminusoneguarantee.substack.com/p/stop-hiring-salespeople-to-feed-a
 - [2026-08-23 — Copycats Can Copy Your Offer. They Can’t Survive Your Negative Price Guarantee](https://theminusoneguarantee.substack.com/p/copycats-can-copy-your-offer-they): View this post on the web at https://theminusoneguarantee.substack.com/p/copycats-can-copy-your-offer-they
@@ -55,6 +56,5 @@ Canonical articles are hosted on Substack. This GitHub Pages project provides a 
 - [2026-07-11 — BONUS: How Do You Explain A Negative Price ("-1") To An 8-Year-Old?](https://theminusoneguarantee.substack.com/p/bonus-how-do-you-explain-a-negative): If an 8-Year-Old Can Understand Negative Price (“-1”), Your Industry Has Run Out of Excuses
 - [2026-07-10 — The Hiring Market Will Split: Builders Hiring Builders… and Slavers Hiring Cheap Labor. “-1” Forces You to Choose.](https://theminusoneguarantee.substack.com/p/the-hiring-market-will-split-builders): Negative Price Guarantee (“-1”) turns hiring into a strategic stress test: either you align strong people around measurable value—or you pay to maintain broken work.
 - [2026-07-09 — If Your “Work” Doesn’t Help People, You’re Not Working. You’re Just Busy. “-1” Exposes It.](https://theminusoneguarantee.substack.com/p/if-your-work-doesnt-help-people-youre): Negative Price Guarantee (“-1”) forces the only value the customer cares about: satisfaction vs expectations. Everything else is noise.
-- [2026-07-08 — If You Ignore Indirect Costs, You’re Not “Profitable.” You’re Delusional. “-1” Forces the Real Math.](https://theminusoneguarantee.substack.com/p/if-you-ignore-indirect-costs-youre): Negative Price Guarantee (“-1”) breaks the fake-profit illusion by forcing you to track ALL direct and indirect costs—so you stop making decisions on a…
 
-Total indexed articles: 224
+Total indexed articles: 225
