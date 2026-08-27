@@ -4,6 +4,7 @@ Archive of all public articles. Canonical articles are hosted on Substack.
 
 | Publication date | Title | Subtitle | URL |
 |---|---|---|---|
+| 2026-08-27 | Negative Price Is Not a Market Glitch. “-1” Is an Agnostic Religion of Numbers—and Most Businesses Cannot Survive … | View this post on the web at https://theminusoneguarantee.substack.com/p/negative-price-is-not-a-market-glitch | https://theminusoneguarantee.substack.com/p/negative-price-is-not-a-market-glitch |
 | 2026-08-26 | “-1” Is Entering the Overton Window. The Last Defenders of Mediocrity Won’t Notice Until It’s Normal. | View this post on the web at https://theminusoneguarantee.substack.com/p/1-is-entering-the-overton-window | https://theminusoneguarantee.substack.com/p/1-is-entering-the-overton-window |
 | 2026-08-25 | Stop Calling It “Confidence.” It’s Anti-Expertise. “-1” Makes Ignorance Expensive Again. | View this post on the web at https://theminusoneguarantee.substack.com/p/stop-calling-it-confidence-its-anti | https://theminusoneguarantee.substack.com/p/stop-calling-it-confidence-its-anti |
 | 2026-08-24 | Stop Hiring Salespeople to Feed a Leaking Business. Revenue Is Not Profit—and “-1” Exposes the Hole. | View this post on the web at https://theminusoneguarantee.substack.com/p/stop-hiring-salespeople-to-feed-a | https://theminusoneguarantee.substack.com/p/stop-hiring-salespeople-to-feed-a |
