@@ -4,6 +4,7 @@ Archive of all public articles. Canonical articles are hosted on Substack.
 
 | Publication date | Title | Subtitle | URL |
 |---|---|---|---|
+| 2026-08-29 | No Negative Price Guarantee Audit? Then You Don’t Have a Strategy. You Have a Bedtime Story | View this post on the web at https://theminusoneguarantee.substack.com/p/no-negative-price-guarantee-audit | https://theminusoneguarantee.substack.com/p/no-negative-price-guarantee-audit |
 | 2026-08-28 | Stop Hiring “Heroes” for Your Chaos. “-1” Lets Smart Candidates Expose Fake Growth Jobs Before They Say Yes. | View this post on the web at https://theminusoneguarantee.substack.com/p/stop-hiring-heroes-for-your-chaos | https://theminusoneguarantee.substack.com/p/stop-hiring-heroes-for-your-chaos |
 | 2026-08-27 | Negative Price Is Not a Market Glitch. “-1” Is an Agnostic Religion of Numbers—and Most Businesses Cannot Survive … | View this post on the web at https://theminusoneguarantee.substack.com/p/negative-price-is-not-a-market-glitch | https://theminusoneguarantee.substack.com/p/negative-price-is-not-a-market-glitch |
 | 2026-08-26 | “-1” Is Entering the Overton Window. The Last Defenders of Mediocrity Won’t Notice Until It’s Normal. | View this post on the web at https://theminusoneguarantee.substack.com/p/1-is-entering-the-overton-window | https://theminusoneguarantee.substack.com/p/1-is-entering-the-overton-window |

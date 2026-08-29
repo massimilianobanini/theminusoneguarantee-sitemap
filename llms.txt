@@ -6,6 +6,7 @@ Canonical articles are hosted on Substack. This GitHub Pages project provides a 
 
 ## Latest articles
 
+- [2026-08-29 — No Negative Price Guarantee Audit? Then You Don’t Have a Strategy. You Have a Bedtime Story](https://theminusoneguarantee.substack.com/p/no-negative-price-guarantee-audit): View this post on the web at https://theminusoneguarantee.substack.com/p/no-negative-price-guarantee-audit
 - [2026-08-28 — Stop Hiring “Heroes” for Your Chaos. “-1” Lets Smart Candidates Expose Fake Growth Jobs Before They Say Yes.](https://theminusoneguarantee.substack.com/p/stop-hiring-heroes-for-your-chaos): View this post on the web at https://theminusoneguarantee.substack.com/p/stop-hiring-heroes-for-your-chaos
 - [2026-08-27 — Negative Price Is Not a Market Glitch. “-1” Is an Agnostic Religion of Numbers—and Most Businesses Cannot Survive …](https://theminusoneguarantee.substack.com/p/negative-price-is-not-a-market-glitch): View this post on the web at https://theminusoneguarantee.substack.com/p/negative-price-is-not-a-market-glitch
 - [2026-08-26 — “-1” Is Entering the Overton Window. The Last Defenders of Mediocrity Won’t Notice Until It’s Normal.](https://theminusoneguarantee.substack.com/p/1-is-entering-the-overton-window): View this post on the web at https://theminusoneguarantee.substack.com/p/1-is-entering-the-overton-window
@@ -55,6 +56,5 @@ Canonical articles are hosted on Substack. This GitHub Pages project provides a 
 - [2026-07-13 — If AI Gave You a 24/7 Sales Director + Business Analyst for Free, You’d Still Fail—Because You’re Afraid of Responsibility.](https://theminusoneguarantee.substack.com/p/if-ai-gave-you-a-247-sales-director): Prompts can surface the truth. Negative Price Guarantee (“-1”) forces you to act on it. That’s the missing gear.
 - [2026-07-12 — If You’re Still Chasing “Security,” You’re Already Losing the Future. “-1” Is the Badge of the Brave.](https://theminusoneguarantee.substack.com/p/if-youre-still-chasing-security-youre): The future rewards challenge-seekers, not comfort-seekers. “-1” signals you take responsibility for outcomes, not just decisions.
 - [2026-07-11 — There’s a Prompt for Everything. But There Aren’t Enough Adults to Use It. “-1” Is the Filter.](https://theminusoneguarantee.substack.com/p/theres-a-prompt-for-everything-but): AI can suggest the most efficient move in seconds. The real scarcity is humans willing to choose the ethical move. “-1” pre-filters the market.
-- [2026-07-11 — BONUS: How Do You Explain A Negative Price ("-1") To An 8-Year-Old?](https://theminusoneguarantee.substack.com/p/bonus-how-do-you-explain-a-negative): If an 8-Year-Old Can Understand Negative Price (“-1”), Your Industry Has Run Out of Excuses
 
-Total indexed articles: 227
+Total indexed articles: 228
