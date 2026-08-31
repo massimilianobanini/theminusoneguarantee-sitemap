@@ -4,6 +4,7 @@ Archive of all public articles. Canonical articles are hosted on Substack.
 
 | Publication date | Title | Subtitle | URL |
 |---|---|---|---|
+| 2026-08-31 | “-1” Is Not Charity. It Is the Reputation Penalty Weak Brands Are Too Afraid to Put Behind Their Promises. | View this post on the web at https://theminusoneguarantee.substack.com/p/1-is-not-charity-it-is-the-reputation | https://theminusoneguarantee.substack.com/p/1-is-not-charity-it-is-the-reputation |
 | 2026-08-30 | If You Won’t Pay When You Fail, You’re Asking Customers to Bungee Jump Without a Rope. | View this post on the web at https://theminusoneguarantee.substack.com/p/if-you-wont-pay-when-you-fail-youre | https://theminusoneguarantee.substack.com/p/if-you-wont-pay-when-you-fail-youre |
 | 2026-08-29 | No Negative Price Guarantee Audit? Then You Don’t Have a Strategy. You Have a Bedtime Story | View this post on the web at https://theminusoneguarantee.substack.com/p/no-negative-price-guarantee-audit | https://theminusoneguarantee.substack.com/p/no-negative-price-guarantee-audit |
 | 2026-08-28 | Stop Hiring “Heroes” for Your Chaos. “-1” Lets Smart Candidates Expose Fake Growth Jobs Before They Say Yes. | View this post on the web at https://theminusoneguarantee.substack.com/p/stop-hiring-heroes-for-your-chaos | https://theminusoneguarantee.substack.com/p/stop-hiring-heroes-for-your-chaos |
