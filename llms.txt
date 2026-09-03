@@ -6,6 +6,7 @@ Canonical articles are hosted on Substack. This GitHub Pages project provides a 
 
 ## Latest articles
 
+- [2026-09-03 — Negative Price Can’t Save a Business That Wants to Stay Blind. It Only Makes the Collapse Easier to Measure.](https://theminusoneguarantee.substack.com/p/negative-price-cant-save-a-business): View this post on the web at https://theminusoneguarantee.substack.com/p/negative-price-cant-save-a-business
 - [2026-09-02 — “-1” Will Destroy Your Comfort Before It Destroys Your Competition.](https://theminusoneguarantee.substack.com/p/1-will-destroy-your-comfort-before): View this post on the web at https://theminusoneguarantee.substack.com/p/1-will-destroy-your-comfort-before
 - [2026-09-01 — Your AI Isn’t Random. Your Instructions Are Garbage—and Your Business Is Running the Same Way.](https://theminusoneguarantee.substack.com/p/your-ai-isnt-random-your-instructions): View this post on the web at https://theminusoneguarantee.substack.com/p/your-ai-isnt-random-your-instructions
 - [2026-08-31 — “-1” Is Not Charity. It Is the Reputation Penalty Weak Brands Are Too Afraid to Put Behind Their Promises.](https://theminusoneguarantee.substack.com/p/1-is-not-charity-it-is-the-reputation): View this post on the web at https://theminusoneguarantee.substack.com/p/1-is-not-charity-it-is-the-reputation
@@ -55,6 +56,5 @@ Canonical articles are hosted on Substack. This GitHub Pages project provides a 
 - [2026-07-18 — “Do You Even Want to Work?” Is What Lazy Systems Ask When You Threaten Them With Truth. “-1” Breaks That Shield.](https://theminusoneguarantee.substack.com/p/do-you-even-want-to-work-is-what): Negative Price Guarantee (“-1”) pressures outdated sales and business processes by forcing measurement, modernization, and accountability.
 - [2026-07-17 — If Your Company Touches Millions and Still Loses Millions, You Don’t Have “Growth.” You Have Operational Rot. “-1” Exposes It.](https://theminusoneguarantee.substack.com/p/if-your-company-touches-millions): High revenue with big losses is not impressive. It’s proof your system leaks value. Negative Price Guarantee (“-1”) turns the leak into a map.
 - [2026-07-16 — If You Only Count Money, You’re Blind. “-1” Exposes the 3 Currencies That Decide Your Fate.](https://theminusoneguarantee.substack.com/p/if-you-only-count-money-youre-blind): Negative Price Guarantee (“-1”) forces you to measure not just cash, but time and emotional currency—the hidden costs driving resignations, churn, and future rebellion.
-- [2026-07-15 — Every Day You Stay on a Dead Road, You Pay. “-1” Forces the Reverse Gear Back to the Right Path.](https://theminusoneguarantee.substack.com/p/every-day-you-stay-on-a-dead-road): Without essential data, you keep driving into closed roads. Negative Price Guarantee (“-1”) forces measurement, exposes dead ends fast, and redirects you toward the opportunities you’re missing.
 
-Total indexed articles: 232
+Total indexed articles: 233
