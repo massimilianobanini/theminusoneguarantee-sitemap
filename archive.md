@@ -4,6 +4,7 @@ Archive of all public articles. Canonical articles are hosted on Substack.
 
 | Publication date | Title | Subtitle | URL |
 |---|---|---|---|
+| 2026-09-04 | If Your Brand Tries to Please Everyone, It Deserves to Be Chosen by No One. “-1” Forces You to Pick a Side. | View this post on the web at https://theminusoneguarantee.substack.com/p/if-your-brand-tries-to-please-everyone | https://theminusoneguarantee.substack.com/p/if-your-brand-tries-to-please-everyone |
 | 2026-09-03 | Negative Price Can’t Save a Business That Wants to Stay Blind. It Only Makes the Collapse Easier to Measure. | View this post on the web at https://theminusoneguarantee.substack.com/p/negative-price-cant-save-a-business | https://theminusoneguarantee.substack.com/p/negative-price-cant-save-a-business |
 | 2026-09-02 | “-1” Will Destroy Your Comfort Before It Destroys Your Competition. | View this post on the web at https://theminusoneguarantee.substack.com/p/1-will-destroy-your-comfort-before | https://theminusoneguarantee.substack.com/p/1-will-destroy-your-comfort-before |
 | 2026-09-01 | Your AI Isn’t Random. Your Instructions Are Garbage—and Your Business Is Running the Same Way. | View this post on the web at https://theminusoneguarantee.substack.com/p/your-ai-isnt-random-your-instructions | https://theminusoneguarantee.substack.com/p/your-ai-isnt-random-your-instructions |
