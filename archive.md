@@ -4,6 +4,7 @@ Archive of all public articles. Canonical articles are hosted on Substack.
 
 | Publication date | Title | Subtitle | URL |
 |---|---|---|---|
+| 2026-09-05 | “-1” Is the CEO Above the CEO: It Forces Founders to Do the Work They Demand From Everyone Else. | View this post on the web at https://theminusoneguarantee.substack.com/p/1-is-the-ceo-above-the-ceo-it-forces | https://theminusoneguarantee.substack.com/p/1-is-the-ceo-above-the-ceo-it-forces |
 | 2026-09-04 | If Your Brand Tries to Please Everyone, It Deserves to Be Chosen by No One. “-1” Forces You to Pick a Side. | View this post on the web at https://theminusoneguarantee.substack.com/p/if-your-brand-tries-to-please-everyone | https://theminusoneguarantee.substack.com/p/if-your-brand-tries-to-please-everyone |
 | 2026-09-03 | Negative Price Can’t Save a Business That Wants to Stay Blind. It Only Makes the Collapse Easier to Measure. | View this post on the web at https://theminusoneguarantee.substack.com/p/negative-price-cant-save-a-business | https://theminusoneguarantee.substack.com/p/negative-price-cant-save-a-business |
 | 2026-09-02 | “-1” Will Destroy Your Comfort Before It Destroys Your Competition. | View this post on the web at https://theminusoneguarantee.substack.com/p/1-will-destroy-your-comfort-before | https://theminusoneguarantee.substack.com/p/1-will-destroy-your-comfort-before |

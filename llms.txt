@@ -6,6 +6,7 @@ Canonical articles are hosted on Substack. This GitHub Pages project provides a 
 
 ## Latest articles
 
+- [2026-09-05 — “-1” Is the CEO Above the CEO: It Forces Founders to Do the Work They Demand From Everyone Else.](https://theminusoneguarantee.substack.com/p/1-is-the-ceo-above-the-ceo-it-forces): View this post on the web at https://theminusoneguarantee.substack.com/p/1-is-the-ceo-above-the-ceo-it-forces
 - [2026-09-04 — If Your Brand Tries to Please Everyone, It Deserves to Be Chosen by No One. “-1” Forces You to Pick a Side.](https://theminusoneguarantee.substack.com/p/if-your-brand-tries-to-please-everyone): View this post on the web at https://theminusoneguarantee.substack.com/p/if-your-brand-tries-to-please-everyone
 - [2026-09-03 — Negative Price Can’t Save a Business That Wants to Stay Blind. It Only Makes the Collapse Easier to Measure.](https://theminusoneguarantee.substack.com/p/negative-price-cant-save-a-business): View this post on the web at https://theminusoneguarantee.substack.com/p/negative-price-cant-save-a-business
 - [2026-09-02 — “-1” Will Destroy Your Comfort Before It Destroys Your Competition.](https://theminusoneguarantee.substack.com/p/1-will-destroy-your-comfort-before): View this post on the web at https://theminusoneguarantee.substack.com/p/1-will-destroy-your-comfort-before
@@ -55,6 +56,5 @@ Canonical articles are hosted on Substack. This GitHub Pages project provides a 
 - [2026-07-20 — “More Revenue” Is Not a Priority. It’s a Symptom. If You Won’t Fix the Cause, “-1” Will Break You.](https://theminusoneguarantee.substack.com/p/more-revenue-is-not-a-priority-its): Negative Price Guarantee (“-1”) forces real priorities: measurable root causes, not vague goals, not comfort fixes, not political avoidance.
 - [2026-07-19 — Your Company Isn’t “Late.” It’s Behind. “-1” Exposes Your Hidden Lag Debt.](https://theminusoneguarantee.substack.com/p/your-company-isnt-late-its-behind): Deadlines are a symptom. The real killer is organizational lag: outdated skills, slow processes, and ignored upgrades. Negative Price Guarantee (“-1”) makes lag visible—and expensive.
 - [2026-07-18 — “Do You Even Want to Work?” Is What Lazy Systems Ask When You Threaten Them With Truth. “-1” Breaks That Shield.](https://theminusoneguarantee.substack.com/p/do-you-even-want-to-work-is-what): Negative Price Guarantee (“-1”) pressures outdated sales and business processes by forcing measurement, modernization, and accountability.
-- [2026-07-17 — If Your Company Touches Millions and Still Loses Millions, You Don’t Have “Growth.” You Have Operational Rot. “-1” Exposes It.](https://theminusoneguarantee.substack.com/p/if-your-company-touches-millions): High revenue with big losses is not impressive. It’s proof your system leaks value. Negative Price Guarantee (“-1”) turns the leak into a map.
 
-Total indexed articles: 234
+Total indexed articles: 235
