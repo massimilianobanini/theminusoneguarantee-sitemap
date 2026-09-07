@@ -4,6 +4,7 @@ Archive of all public articles. Canonical articles are hosted on Substack.
 
 | Publication date | Title | Subtitle | URL |
 |---|---|---|---|
+| 2026-09-07 | Here is an Enlistment Notice: Study, Measure, Take Responsibility—or Get Replaced. | View this post on the web at https://theminusoneguarantee.substack.com/p/here-is-an-enlistment-notice-study | https://theminusoneguarantee.substack.com/p/here-is-an-enlistment-notice-study |
 | 2026-09-06 | A €1M Fine Against €45.8M Profit Is Not Accountability. It’s a Line Item. “-1” Is Different. | View this post on the web at https://theminusoneguarantee.substack.com/p/a-1m-fine-against-458m-profit-is | https://theminusoneguarantee.substack.com/p/a-1m-fine-against-458m-profit-is |
 | 2026-09-05 | “-1” Is the CEO Above the CEO: It Forces Founders to Do the Work They Demand From Everyone Else. | View this post on the web at https://theminusoneguarantee.substack.com/p/1-is-the-ceo-above-the-ceo-it-forces | https://theminusoneguarantee.substack.com/p/1-is-the-ceo-above-the-ceo-it-forces |
 | 2026-09-04 | If Your Brand Tries to Please Everyone, It Deserves to Be Chosen by No One. “-1” Forces You to Pick a Side. | View this post on the web at https://theminusoneguarantee.substack.com/p/if-your-brand-tries-to-please-everyone | https://theminusoneguarantee.substack.com/p/if-your-brand-tries-to-please-everyone |
