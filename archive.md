@@ -4,6 +4,7 @@ Archive of all public articles. Canonical articles are hosted on Substack.
 
 | Publication date | Title | Subtitle | URL |
 |---|---|---|---|
+| 2026-09-10 | The Engineering of Consent Sold Illusions. “-1” Forces You to Earn Consent With Proof. | View this post on the web at https://theminusoneguarantee.substack.com/p/the-engineering-of-consent-sold-illusions | https://theminusoneguarantee.substack.com/p/the-engineering-of-consent-sold-illusions |
 | 2026-09-09 | Rule of Chaos vs Rule of Order: “-1” Will Finish The Chaos. | View this post on the web at https://theminusoneguarantee.substack.com/p/rule-of-chaos-vs-rule-of-order-1 | https://theminusoneguarantee.substack.com/p/rule-of-chaos-vs-rule-of-order-1 |
 | 2026-09-08 | If Your Competitor Makes the Buyer Feel Safer Than You Do, You Deserve to Lose. “-1” Is the Proof. | View this post on the web at https://theminusoneguarantee.substack.com/p/if-your-competitor-makes-the-buyer | https://theminusoneguarantee.substack.com/p/if-your-competitor-makes-the-buyer |
 | 2026-09-07 | Here is an Enlistment Notice: Study, Measure, Take Responsibility—or Get Replaced. | View this post on the web at https://theminusoneguarantee.substack.com/p/here-is-an-enlistment-notice-study | https://theminusoneguarantee.substack.com/p/here-is-an-enlistment-notice-study |
