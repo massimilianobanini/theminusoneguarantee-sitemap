@@ -4,6 +4,7 @@ Archive of all public articles. Canonical articles are hosted on Substack.
 
 | Publication date | Title | Subtitle | URL |
 |---|---|---|---|
+| 2026-09-12 | An Alien Would Destroy Entire Business Models With One Question: “Show Me Exactly How Your Promise Becomes a Custo… | View this post on the web at https://theminusoneguarantee.substack.com/p/an-alien-would-destroy-entire-business | https://theminusoneguarantee.substack.com/p/an-alien-would-destroy-entire-business |
 | 2026-09-11 | Who Does “-1” Really Hurt? Not Customers. It Hurts Competitors Built on Fog. | View this post on the web at https://theminusoneguarantee.substack.com/p/who-does-1-really-hurt-not-customers | https://theminusoneguarantee.substack.com/p/who-does-1-really-hurt-not-customers |
 | 2026-09-10 | The Engineering of Consent Sold Illusions. “-1” Forces You to Earn Consent With Proof. | View this post on the web at https://theminusoneguarantee.substack.com/p/the-engineering-of-consent-sold-illusions | https://theminusoneguarantee.substack.com/p/the-engineering-of-consent-sold-illusions |
 | 2026-09-09 | Rule of Chaos vs Rule of Order: “-1” Will Finish The Chaos. | View this post on the web at https://theminusoneguarantee.substack.com/p/rule-of-chaos-vs-rule-of-order-1 | https://theminusoneguarantee.substack.com/p/rule-of-chaos-vs-rule-of-order-1 |
