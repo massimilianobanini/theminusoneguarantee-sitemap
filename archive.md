@@ -4,6 +4,7 @@ Archive of all public articles. Canonical articles are hosted on Substack.
 
 | Publication date | Title | Subtitle | URL |
 |---|---|---|---|
+| 2026-09-14 | Toxic Money Is the Bribe That Kills Your Business. “-1” Forces You to Say No. | View this post on the web at https://theminusoneguarantee.substack.com/p/toxic-money-is-the-bribe-that-kills | https://theminusoneguarantee.substack.com/p/toxic-money-is-the-bribe-that-kills |
 | 2026-09-13 | Your Company Doesn’t Need More AI. It Needs Fewer Political Cowards—and a Negative Price Guarantee. | View this post on the web at https://theminusoneguarantee.substack.com/p/your-company-doesnt-need-more-ai | https://theminusoneguarantee.substack.com/p/your-company-doesnt-need-more-ai |
 | 2026-09-12 | An Alien Would Destroy Entire Business Models With One Question: “Show Me Exactly How Your Promise Becomes a Custo… | View this post on the web at https://theminusoneguarantee.substack.com/p/an-alien-would-destroy-entire-business | https://theminusoneguarantee.substack.com/p/an-alien-would-destroy-entire-business |
 | 2026-09-11 | Who Does “-1” Really Hurt? Not Customers. It Hurts Competitors Built on Fog. | View this post on the web at https://theminusoneguarantee.substack.com/p/who-does-1-really-hurt-not-customers | https://theminusoneguarantee.substack.com/p/who-does-1-really-hurt-not-customers |
