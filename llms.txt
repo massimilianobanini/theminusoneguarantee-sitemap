@@ -6,6 +6,7 @@ Canonical articles are hosted on Substack. This GitHub Pages project provides a 
 
 ## Latest articles
 
+- [2026-09-16 — If Your Employees Cannot See What Creates Value, You Are Paying Them to Sabotage the Company. “-1” Exposes It.](https://theminusoneguarantee.substack.com/p/if-your-employees-cannot-see-what): View this post on the web at https://theminusoneguarantee.substack.com/p/if-your-employees-cannot-see-what
 - [2026-09-15 — Your Business Is Not Short on Resources. They’re Buried Under Hidden Costs You Refuse to Remove.](https://theminusoneguarantee.substack.com/p/your-business-is-not-short-on-resources): View this post on the web at https://theminusoneguarantee.substack.com/p/your-business-is-not-short-on-resources
 - [2026-09-14 — Toxic Money Is the Bribe That Kills Your Business. “-1” Forces You to Say No.](https://theminusoneguarantee.substack.com/p/toxic-money-is-the-bribe-that-kills): View this post on the web at https://theminusoneguarantee.substack.com/p/toxic-money-is-the-bribe-that-kills
 - [2026-09-13 — Your Company Doesn’t Need More AI. It Needs Fewer Political Cowards—and a Negative Price Guarantee.](https://theminusoneguarantee.substack.com/p/your-company-doesnt-need-more-ai): View this post on the web at https://theminusoneguarantee.substack.com/p/your-company-doesnt-need-more-ai
@@ -55,6 +56,5 @@ Canonical articles are hosted on Substack. This GitHub Pages project provides a 
 - [2026-07-31 — If You Fight “-1,” You’re Admitting You Can’t Handle It. And You’ve Probably Been Rejecting Progress for Years.](https://theminusoneguarantee.substack.com/p/if-you-fight-1-youre-admitting-you): Negative Price Guarantee (“-1”) exposes who chases conversion, efficiency, and proof—and who quietly bleeds margin and opportunity without noticing.
 - [2026-07-30 — “-1” Isn’t the Problem. Your Dirty Data Is. No Clean Numbers = No AI, No Strategy, No Ethics.](https://theminusoneguarantee.substack.com/p/1-isnt-the-problem-your-dirty-data): Negative Price Guarantee (“-1”) only works on truth. If your data is missing, messy, or political, every “improvement tool” becomes theater.
 - [2026-07-29 — AI Is a Cyber Weapon. “-1” Is an Ethical Economic Weapon. Learn Both—or Get Outpaced.](https://theminusoneguarantee.substack.com/p/ai-is-a-cyber-weapon-1-is-an-ethical): AI boosts efficiency and selection standards. Negative Price Guarantee (“-1”) boosts responsibility and ethics. The future demands you master both.
-- [2026-07-28 — If Your Business Model Depends on Price Opacity, “-1” Is Your Executioner.](https://theminusoneguarantee.substack.com/p/if-your-business-model-depends-on): AI makes information cheap. Negative Price Guarantee (“-1”) makes opacity expensive. Together, they destroy the “hidden price” advantage step by step.
 
-Total indexed articles: 245
+Total indexed articles: 246

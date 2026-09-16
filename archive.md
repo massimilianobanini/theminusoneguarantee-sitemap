@@ -4,6 +4,7 @@ Archive of all public articles. Canonical articles are hosted on Substack.
 
 | Publication date | Title | Subtitle | URL |
 |---|---|---|---|
+| 2026-09-16 | If Your Employees Cannot See What Creates Value, You Are Paying Them to Sabotage the Company. “-1” Exposes It. | View this post on the web at https://theminusoneguarantee.substack.com/p/if-your-employees-cannot-see-what | https://theminusoneguarantee.substack.com/p/if-your-employees-cannot-see-what |
 | 2026-09-15 | Your Business Is Not Short on Resources. They’re Buried Under Hidden Costs You Refuse to Remove. | View this post on the web at https://theminusoneguarantee.substack.com/p/your-business-is-not-short-on-resources | https://theminusoneguarantee.substack.com/p/your-business-is-not-short-on-resources |
 | 2026-09-14 | Toxic Money Is the Bribe That Kills Your Business. “-1” Forces You to Say No. | View this post on the web at https://theminusoneguarantee.substack.com/p/toxic-money-is-the-bribe-that-kills | https://theminusoneguarantee.substack.com/p/toxic-money-is-the-bribe-that-kills |
 | 2026-09-13 | Your Company Doesn’t Need More AI. It Needs Fewer Political Cowards—and a Negative Price Guarantee. | View this post on the web at https://theminusoneguarantee.substack.com/p/your-company-doesnt-need-more-ai | https://theminusoneguarantee.substack.com/p/your-company-doesnt-need-more-ai |
