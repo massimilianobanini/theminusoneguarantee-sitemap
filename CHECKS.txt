@@ -1,18 +1,18 @@
 The -1 Guarantee — GitHub files verification report
-Generated: 2026-09-16
+Generated: 2026-09-17
 
 SOURCE
 - Primary discovery: Gmail newsletter delivery from The -1 Guarantee / Substack
 - New canonical URLs in this sync: 1
 
 STRUCTURAL CHECKS
-- Articles: 246
-- Unique URLs: 246/246
+- Articles: 247
+- Unique URLs: 247/247
 - Duplicate URLs: 0
-- URLs with expected Substack /p/ prefix: 246/246
-- Titles present: 246/246
-- Subtitles present: 246/246
-- Date range: 2026-01-14 to 2026-09-16
+- URLs with expected Substack /p/ prefix: 247/247
+- Titles present: 247/247
+- Subtitles present: 247/247
+- Date range: 2026-01-14 to 2026-09-17
 
 SAFETY
 - Existing historical URLs are preserved automatically.
