@@ -6,6 +6,7 @@ Canonical articles are hosted on Substack. This GitHub Pages project provides a 
 
 ## Latest articles
 
+- [2026-09-19 — Stop Begging Investors: The Negative Price Guarantee Lets Customers Fund the Startup That Deserves to Exist](https://theminusoneguarantee.substack.com/p/stop-begging-investors-the-negative): View this post on the web at https://theminusoneguarantee.substack.com/p/stop-begging-investors-the-negative
 - [2026-09-18 — Dread It. Run From It. The Negative Price Guarantee Will Still Arrive—and Expose Your Business.](https://theminusoneguarantee.substack.com/p/dread-it-run-from-it-the-negative): View this post on the web at https://theminusoneguarantee.substack.com/p/dread-it-run-from-it-the-negative
 - [2026-09-17 — Your MBA Is Useless If You Cannot Keep a Promise. The Negative Price Guarantee Is the New Business School.](https://theminusoneguarantee.substack.com/p/your-mba-is-useless-if-you-cannot): View this post on the web at https://theminusoneguarantee.substack.com/p/your-mba-is-useless-if-you-cannot
 - [2026-09-16 — If Your Employees Cannot See What Creates Value, You Are Paying Them to Sabotage the Company. “-1” Exposes It.](https://theminusoneguarantee.substack.com/p/if-your-employees-cannot-see-what): View this post on the web at https://theminusoneguarantee.substack.com/p/if-your-employees-cannot-see-what
@@ -55,6 +56,5 @@ Canonical articles are hosted on Substack. This GitHub Pages project provides a 
 - [2026-08-03 — If You Don’t Treat “-1” Like ROI Math, You’ll Call It “Crazy” and Stay Average.](https://theminusoneguarantee.substack.com/p/if-you-dont-treat-1-like-roi-math): Negative Price Guarantee (“-1”) is a new ROI model: penalties are like CAC spend. Refunds are conversion data. Fans repay the misses—if you track the real numbers.
 - [2026-08-02 — “-1” Reveals Truth in Proportion to Brutality: The More You Apply It, the More Reality You Can’t Hide.](https://theminusoneguarantee.substack.com/p/1-reveals-truth-in-proportion-to): Negative Price Guarantee (“-1”) is an information extractor. Apply it to one step and you get one leak. Apply it to every step and you get the whole map.
 - [2026-08-01 — Loss Aversion Is Why You’re Afraid of “-1.” And It’s Why You’ll Stay Stuck Until You Beat It.](https://theminusoneguarantee.substack.com/p/loss-aversion-is-why-youre-afraid): Negative Price Guarantee (“-1”) weaponizes a cognitive bias: you fear a visible loss more than you desire a larger hidden gain. Learn the bias—or it will run your business.
-- [2026-07-31 — If You Fight “-1,” You’re Admitting You Can’t Handle It. And You’ve Probably Been Rejecting Progress for Years.](https://theminusoneguarantee.substack.com/p/if-you-fight-1-youre-admitting-you): Negative Price Guarantee (“-1”) exposes who chases conversion, efficiency, and proof—and who quietly bleeds margin and opportunity without noticing.
 
-Total indexed articles: 248
+Total indexed articles: 249

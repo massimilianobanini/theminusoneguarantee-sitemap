@@ -4,6 +4,7 @@ Archive of all public articles. Canonical articles are hosted on Substack.
 
 | Publication date | Title | Subtitle | URL |
 |---|---|---|---|
+| 2026-09-19 | Stop Begging Investors: The Negative Price Guarantee Lets Customers Fund the Startup That Deserves to Exist | View this post on the web at https://theminusoneguarantee.substack.com/p/stop-begging-investors-the-negative | https://theminusoneguarantee.substack.com/p/stop-begging-investors-the-negative |
 | 2026-09-18 | Dread It. Run From It. The Negative Price Guarantee Will Still Arrive—and Expose Your Business. | View this post on the web at https://theminusoneguarantee.substack.com/p/dread-it-run-from-it-the-negative | https://theminusoneguarantee.substack.com/p/dread-it-run-from-it-the-negative |
 | 2026-09-17 | Your MBA Is Useless If You Cannot Keep a Promise. The Negative Price Guarantee Is the New Business School. | View this post on the web at https://theminusoneguarantee.substack.com/p/your-mba-is-useless-if-you-cannot | https://theminusoneguarantee.substack.com/p/your-mba-is-useless-if-you-cannot |
 | 2026-09-16 | If Your Employees Cannot See What Creates Value, You Are Paying Them to Sabotage the Company. “-1” Exposes It. | View this post on the web at https://theminusoneguarantee.substack.com/p/if-your-employees-cannot-see-what | https://theminusoneguarantee.substack.com/p/if-your-employees-cannot-see-what |
