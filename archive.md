@@ -4,6 +4,7 @@ Archive of all public articles. Canonical articles are hosted on Substack.
 
 | Publication date | Title | Subtitle | URL |
 |---|---|---|---|
+| 2026-09-22 | Calling NegBook “Just Another Book” Is Like Calling a Ferrari “Just Another Car” | View this post on the web at https://theminusoneguarantee.substack.com/p/calling-negbook-just-another-book | https://theminusoneguarantee.substack.com/p/calling-negbook-just-another-book |
 | 2026-09-21 | Would You Erase Four Years of Your Career for $1 Million? If Yes, Your Job May Have Already Failed You. | View this post on the web at https://theminusoneguarantee.substack.com/p/would-you-erase-four-years-of-your | https://theminusoneguarantee.substack.com/p/would-you-erase-four-years-of-your |
 | 2026-09-20 | Minimum Pay for Maximum Accountability Is Corporate Hypocrisy. “-1” Exposes It. | View this post on the web at https://theminusoneguarantee.substack.com/p/minimum-pay-for-maximum-accountability | https://theminusoneguarantee.substack.com/p/minimum-pay-for-maximum-accountability |
 | 2026-09-19 | Stop Begging Investors: The Negative Price Guarantee Lets Customers Fund the Startup That Deserves to Exist | View this post on the web at https://theminusoneguarantee.substack.com/p/stop-begging-investors-the-negative | https://theminusoneguarantee.substack.com/p/stop-begging-investors-the-negative |
