@@ -4,6 +4,7 @@ Archive of all public articles. Canonical articles are hosted on Substack.
 
 | Publication date | Title | Subtitle | URL |
 |---|---|---|---|
+| 2026-09-25 | If You Haven’t Raised Your Business Standards in 30 Days, You’re Already Training Customers to Leave | View this post on the web at https://theminusoneguarantee.substack.com/p/if-you-havent-raised-your-business | https://theminusoneguarantee.substack.com/p/if-you-havent-raised-your-business |
 | 2026-09-24 | Your Company Doesn’t Need More Positive People. It Needs a “Puppy-Shooter” Armed With “-1.” | View this post on the web at https://theminusoneguarantee.substack.com/p/your-company-doesnt-need-more-positive | https://theminusoneguarantee.substack.com/p/your-company-doesnt-need-more-positive |
 | 2026-09-23 | Your Broken Processes Are Already Charging Penalties. You’re Just Making Customers, Employees, and Suppliers Pay T… | View this post on the web at https://theminusoneguarantee.substack.com/p/your-broken-processes-are-already | https://theminusoneguarantee.substack.com/p/your-broken-processes-are-already |
 | 2026-09-22 | Calling NegBook “Just Another Book” Is Like Calling a Ferrari “Just Another Car” | View this post on the web at https://theminusoneguarantee.substack.com/p/calling-negbook-just-another-book | https://theminusoneguarantee.substack.com/p/calling-negbook-just-another-book |
