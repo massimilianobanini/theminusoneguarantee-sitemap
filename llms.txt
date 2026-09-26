@@ -6,6 +6,7 @@ Canonical articles are hosted on Substack. This GitHub Pages project provides a 
 
 ## Latest articles
 
+- [2026-09-26 — Your Salary Is Not Your Market Value. It’s Yesterday’s Price Tag.](https://theminusoneguarantee.substack.com/p/your-salary-is-not-your-market-value): View this post on the web at https://theminusoneguarantee.substack.com/p/your-salary-is-not-your-market-value
 - [2026-09-25 — If You Haven’t Raised Your Business Standards in 30 Days, You’re Already Training Customers to Leave](https://theminusoneguarantee.substack.com/p/if-you-havent-raised-your-business): View this post on the web at https://theminusoneguarantee.substack.com/p/if-you-havent-raised-your-business
 - [2026-09-24 — Your Company Doesn’t Need More Positive People. It Needs a “Puppy-Shooter” Armed With “-1.”](https://theminusoneguarantee.substack.com/p/your-company-doesnt-need-more-positive): View this post on the web at https://theminusoneguarantee.substack.com/p/your-company-doesnt-need-more-positive
 - [2026-09-23 — Your Broken Processes Are Already Charging Penalties. You’re Just Making Customers, Employees, and Suppliers Pay T…](https://theminusoneguarantee.substack.com/p/your-broken-processes-are-already): View this post on the web at https://theminusoneguarantee.substack.com/p/your-broken-processes-are-already
@@ -55,6 +56,5 @@ Canonical articles are hosted on Substack. This GitHub Pages project provides a 
 - [2026-08-10 — Calling “-1” Arrogant Is the Old World’s Favorite Defense Mechanism.](https://theminusoneguarantee.substack.com/p/calling-1-arrogant-is-the-old-worlds): Negative Price Guarantee (“-1”) separates constructive ambition from toxic arrogance: proof, standards, incentives, penalties, and measurable improvement versus fog.
 - [2026-08-09 — The Best Candidate You’ll Ever Meet Is Knocking. It’s Called “-1.” Most Companies Are Too Cowardly to Open the Door.](https://theminusoneguarantee.substack.com/p/the-best-candidate-youll-ever-meet): Negative Price Guarantee (“-1”) is not just an offer. It is the candidate that brings truth, accountability, ethics, and future-proof strategy into your business.
 - [2026-08-08 — Cold Sales Jobs Should Be Illegal. “-1” Exposes the Companies Dumping CAC Onto Workers](https://theminusoneguarantee.substack.com/p/cold-sales-jobs-should-be-illegal): Cold selling dumps CAC onto workers. “-1” forces pre-qualified funnels, CRM proof, and sales accountability.
-- [2026-08-07 — “-1” Eliminates Scapegoats: When It Fails, You Only Get to Blame One Person—You.](https://theminusoneguarantee.substack.com/p/1-eliminates-scapegoats-when-it-fails): Negative Price Guarantee (“-1”) forces adult ownership: planning, testing, documentation, training, standards, hiring. No excuses survive measurement.
 
-Total indexed articles: 255
+Total indexed articles: 256
