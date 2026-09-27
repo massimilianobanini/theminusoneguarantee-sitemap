@@ -4,6 +4,7 @@ Archive of all public articles. Canonical articles are hosted on Substack.
 
 | Publication date | Title | Subtitle | URL |
 |---|---|---|---|
+| 2026-09-27 | If You Need Financial Handcuffs to Retain Employees, Your Company Deserves to Lose Them | View this post on the web at https://theminusoneguarantee.substack.com/p/if-you-need-financial-handcuffs-to | https://theminusoneguarantee.substack.com/p/if-you-need-financial-handcuffs-to |
 | 2026-09-26 | Your Salary Is Not Your Market Value. It’s Yesterday’s Price Tag. | View this post on the web at https://theminusoneguarantee.substack.com/p/your-salary-is-not-your-market-value | https://theminusoneguarantee.substack.com/p/your-salary-is-not-your-market-value |
 | 2026-09-25 | If You Haven’t Raised Your Business Standards in 30 Days, You’re Already Training Customers to Leave | View this post on the web at https://theminusoneguarantee.substack.com/p/if-you-havent-raised-your-business | https://theminusoneguarantee.substack.com/p/if-you-havent-raised-your-business |
 | 2026-09-24 | Your Company Doesn’t Need More Positive People. It Needs a “Puppy-Shooter” Armed With “-1.” | View this post on the web at https://theminusoneguarantee.substack.com/p/your-company-doesnt-need-more-positive | https://theminusoneguarantee.substack.com/p/your-company-doesnt-need-more-positive |
