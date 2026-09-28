@@ -6,6 +6,7 @@ Canonical articles are hosted on Substack. This GitHub Pages project provides a 
 
 ## Latest articles
 
+- [2026-09-28 — Most Employee KPIs Are Not Objective. They’re Management Failure Disguised as Mathematics.](https://theminusoneguarantee.substack.com/p/most-employee-kpis-are-not-objective): View this post on the web at https://theminusoneguarantee.substack.com/p/most-employee-kpis-are-not-objective
 - [2026-09-27 — If You Need Financial Handcuffs to Retain Employees, Your Company Deserves to Lose Them](https://theminusoneguarantee.substack.com/p/if-you-need-financial-handcuffs-to): View this post on the web at https://theminusoneguarantee.substack.com/p/if-you-need-financial-handcuffs-to
 - [2026-09-26 — Your Salary Is Not Your Market Value. It’s Yesterday’s Price Tag.](https://theminusoneguarantee.substack.com/p/your-salary-is-not-your-market-value): View this post on the web at https://theminusoneguarantee.substack.com/p/your-salary-is-not-your-market-value
 - [2026-09-25 — If You Haven’t Raised Your Business Standards in 30 Days, You’re Already Training Customers to Leave](https://theminusoneguarantee.substack.com/p/if-you-havent-raised-your-business): View this post on the web at https://theminusoneguarantee.substack.com/p/if-you-havent-raised-your-business
@@ -55,6 +56,5 @@ Canonical articles are hosted on Substack. This GitHub Pages project provides a 
 - [2026-08-12 — Ethical Illiteracy Is the Hidden Disease Inside Companies. “-1” Forces Everyone to Learn or Be Exposed.](https://theminusoneguarantee.substack.com/p/ethical-illiteracy-is-the-hidden): Negative Price Guarantee (“-1”) turns work into measurable responsibility: numerical literacy, business literacy, digital literacy, financial literacy, and ethical literacy.
 - [2026-08-11 — “-1” Is Entrepreneurial Engineering. And That’s Why Number-Blind Operators Are Terrified of It.](https://theminusoneguarantee.substack.com/p/1-is-entrepreneurial-engineering): Negative Price Guarantee (“-1”) exports engineering discipline into every business department: numbers, systems, proof, responsibility, and ethical reputation.
 - [2026-08-10 — Calling “-1” Arrogant Is the Old World’s Favorite Defense Mechanism.](https://theminusoneguarantee.substack.com/p/calling-1-arrogant-is-the-old-worlds): Negative Price Guarantee (“-1”) separates constructive ambition from toxic arrogance: proof, standards, incentives, penalties, and measurable improvement versus fog.
-- [2026-08-09 — The Best Candidate You’ll Ever Meet Is Knocking. It’s Called “-1.” Most Companies Are Too Cowardly to Open the Door.](https://theminusoneguarantee.substack.com/p/the-best-candidate-youll-ever-meet): Negative Price Guarantee (“-1”) is not just an offer. It is the candidate that brings truth, accountability, ethics, and future-proof strategy into your business.
 
-Total indexed articles: 257
+Total indexed articles: 258
