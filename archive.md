@@ -4,6 +4,7 @@ Archive of all public articles. Canonical articles are hosted on Substack.
 
 | Publication date | Title | Subtitle | URL |
 |---|---|---|---|
+| 2026-09-29 | Most Employment Contracts Measure the Worker—and Give the Company Permission to Fail | View this post on the web at https://theminusoneguarantee.substack.com/p/most-employment-contracts-measure | https://theminusoneguarantee.substack.com/p/most-employment-contracts-measure |
 | 2026-09-28 | Most Employee KPIs Are Not Objective. They’re Management Failure Disguised as Mathematics. | View this post on the web at https://theminusoneguarantee.substack.com/p/most-employee-kpis-are-not-objective | https://theminusoneguarantee.substack.com/p/most-employee-kpis-are-not-objective |
 | 2026-09-27 | If You Need Financial Handcuffs to Retain Employees, Your Company Deserves to Lose Them | View this post on the web at https://theminusoneguarantee.substack.com/p/if-you-need-financial-handcuffs-to | https://theminusoneguarantee.substack.com/p/if-you-need-financial-handcuffs-to |
 | 2026-09-26 | Your Salary Is Not Your Market Value. It’s Yesterday’s Price Tag. | View this post on the web at https://theminusoneguarantee.substack.com/p/your-salary-is-not-your-market-value | https://theminusoneguarantee.substack.com/p/your-salary-is-not-your-market-value |
