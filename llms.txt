@@ -6,6 +6,7 @@ Canonical articles are hosted on Substack. This GitHub Pages project provides a 
 
 ## Latest articles
 
+- [2026-10-02 — Your Worst Customers Are Not Hard to Find. Your Weak Guarantee Is Hiding Them.](https://theminusoneguarantee.substack.com/p/your-worst-customers-are-not-hard): View this post on the web at https://theminusoneguarantee.substack.com/p/your-worst-customers-are-not-hard
 - [2026-10-01 — If Your Employee Retention Strategy Needs a Cage, Your Company Has Nothing Worth Staying For](https://theminusoneguarantee.substack.com/p/if-your-employee-retention-strategy): View this post on the web at https://theminusoneguarantee.substack.com/p/if-your-employee-retention-strategy
 - [2026-09-30 — If Your “-1” Makes Employees Pay for Management Failure, You Have Built Exploitation—Not Accountability](https://theminusoneguarantee.substack.com/p/if-your-1-makes-employees-pay-for): View this post on the web at https://theminusoneguarantee.substack.com/p/if-your-1-makes-employees-pay-for
 - [2026-09-29 — Most Employment Contracts Measure the Worker—and Give the Company Permission to Fail](https://theminusoneguarantee.substack.com/p/most-employment-contracts-measure): View this post on the web at https://theminusoneguarantee.substack.com/p/most-employment-contracts-measure
@@ -55,6 +56,5 @@ Canonical articles are hosted on Substack. This GitHub Pages project provides a 
 - [2026-08-16 — “-1” Industrializes Your Thinking. And That’s Why It Exposes Every Toxic Activity You Keep Defending.](https://theminusoneguarantee.substack.com/p/1-industrializes-your-thinking-and): Negative Price Guarantee (“-1”) breaks work into measurable steps: value, standards, testing, responsibility, and the brutal question nobody wants to answer.
 - [2026-08-15 — AI Just Made It Easy to Expose Weak Companies. “-1” Is the Final Test They Can’t Fake.](https://theminusoneguarantee.substack.com/p/ai-just-made-it-easy-to-expose-weak): AI helps anyone evaluate ethics, numbers, and strategy. Negative Price Guarantee (“-1”) reveals who can answer uncomfortable questions.
 - [2026-08-14 — While Your Competitors Scream Louder, “-1” Makes You Quietly Dangerous.](https://theminusoneguarantee.substack.com/p/while-your-competitors-scream-louder): Negative Price Guarantee (“-1”) is the anti-fog strategy: fewer promises, more proof, real numbers, and a reputation competitors can’t crack.
-- [2026-08-13 — Going Slowly in the Right Direction Beats Running Fast Toward Collapse. “-1” Shows You Where to Turn.](https://theminusoneguarantee.substack.com/p/going-slowly-in-the-right-direction): Negative Price Guarantee (“-1”) proves that changing direction is not defeat. It is survival measured in real numbers.
 
-Total indexed articles: 261
+Total indexed articles: 262
