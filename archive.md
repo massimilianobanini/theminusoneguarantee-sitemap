@@ -4,6 +4,7 @@ Archive of all public articles. Canonical articles are hosted on Substack.
 
 | Publication date | Title | Subtitle | URL |
 |---|---|---|---|
+| 2026-10-03 | The Negative Price Guarantee Is Not a Compliment. It’s a Corporate Bloodbath. | View this post on the web at https://theminusoneguarantee.substack.com/p/the-negative-price-guarantee-is-not | https://theminusoneguarantee.substack.com/p/the-negative-price-guarantee-is-not |
 | 2026-10-02 | Your Worst Customers Are Not Hard to Find. Your Weak Guarantee Is Hiding Them. | View this post on the web at https://theminusoneguarantee.substack.com/p/your-worst-customers-are-not-hard | https://theminusoneguarantee.substack.com/p/your-worst-customers-are-not-hard |
 | 2026-10-01 | If Your Employee Retention Strategy Needs a Cage, Your Company Has Nothing Worth Staying For | View this post on the web at https://theminusoneguarantee.substack.com/p/if-your-employee-retention-strategy | https://theminusoneguarantee.substack.com/p/if-your-employee-retention-strategy |
 | 2026-09-30 | If Your “-1” Makes Employees Pay for Management Failure, You Have Built Exploitation—Not Accountability | View this post on the web at https://theminusoneguarantee.substack.com/p/if-your-1-makes-employees-pay-for | https://theminusoneguarantee.substack.com/p/if-your-1-makes-employees-pay-for |
