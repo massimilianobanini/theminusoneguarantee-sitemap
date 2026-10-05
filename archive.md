@@ -4,6 +4,7 @@ Archive of all public articles. Canonical articles are hosted on Substack.
 
 | Publication date | Title | Subtitle | URL |
 |---|---|---|---|
+| 2026-10-05 | Your Company Is Infected—and the Negative Price Ultra-Guarantee Is the White Blood Cell Hunting the Disease | View this post on the web at https://theminusoneguarantee.substack.com/p/your-company-is-infectedand-the-negative | https://theminusoneguarantee.substack.com/p/your-company-is-infectedand-the-negative |
 | 2026-10-04 | If Your Prospect Chooses the Cheapest Competitor, Your Marketing Failed to Explain the Real Price | View this post on the web at https://theminusoneguarantee.substack.com/p/if-your-prospect-chooses-the-cheapest | https://theminusoneguarantee.substack.com/p/if-your-prospect-chooses-the-cheapest |
 | 2026-10-03 | The Negative Price Guarantee Is Not a Compliment. It’s a Corporate Bloodbath. | View this post on the web at https://theminusoneguarantee.substack.com/p/the-negative-price-guarantee-is-not | https://theminusoneguarantee.substack.com/p/the-negative-price-guarantee-is-not |
 | 2026-10-02 | Your Worst Customers Are Not Hard to Find. Your Weak Guarantee Is Hiding Them. | View this post on the web at https://theminusoneguarantee.substack.com/p/your-worst-customers-are-not-hard | https://theminusoneguarantee.substack.com/p/your-worst-customers-are-not-hard |

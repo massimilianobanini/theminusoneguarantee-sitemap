@@ -6,6 +6,7 @@ Canonical articles are hosted on Substack. This GitHub Pages project provides a 
 
 ## Latest articles
 
+- [2026-10-05 — Your Company Is Infected—and the Negative Price Ultra-Guarantee Is the White Blood Cell Hunting the Disease](https://theminusoneguarantee.substack.com/p/your-company-is-infectedand-the-negative): View this post on the web at https://theminusoneguarantee.substack.com/p/your-company-is-infectedand-the-negative
 - [2026-10-04 — If Your Prospect Chooses the Cheapest Competitor, Your Marketing Failed to Explain the Real Price](https://theminusoneguarantee.substack.com/p/if-your-prospect-chooses-the-cheapest): View this post on the web at https://theminusoneguarantee.substack.com/p/if-your-prospect-chooses-the-cheapest
 - [2026-10-03 — The Negative Price Guarantee Is Not a Compliment. It’s a Corporate Bloodbath.](https://theminusoneguarantee.substack.com/p/the-negative-price-guarantee-is-not): View this post on the web at https://theminusoneguarantee.substack.com/p/the-negative-price-guarantee-is-not
 - [2026-10-02 — Your Worst Customers Are Not Hard to Find. Your Weak Guarantee Is Hiding Them.](https://theminusoneguarantee.substack.com/p/your-worst-customers-are-not-hard): View this post on the web at https://theminusoneguarantee.substack.com/p/your-worst-customers-are-not-hard
@@ -55,6 +56,5 @@ Canonical articles are hosted on Substack. This GitHub Pages project provides a 
 - [2026-08-19 — Every Bad Hire Has a Penalty. Every Rejected Star Becomes Your Competitor’s Weapon.](https://theminusoneguarantee.substack.com/p/every-bad-hire-has-a-penalty-every): Talent Acquisition is already a negative-price system. Hire too fast and you pay through chaos. Reject the right person and you pay by watching them create value somewhere else.
 - [2026-08-18 — Technical Experts Who Never Become Strategic Thinkers Are Walking Into a Trap. “-1” Is the Final Evolution.](https://theminusoneguarantee.substack.com/p/technical-experts-who-never-become): Negative Price Guarantee (“-1”) makes sense only after you evolve beyond technical skill into strategy, numbers, AI, ethics, and measurable improvement.
 - [2026-08-17 — When AI Becomes More Honest Than You, “-1” Becomes Impossible to Ignore.](https://theminusoneguarantee.substack.com/p/when-ai-becomes-more-honest-than): AI exposes excuses. Negative Price Guarantee (“-1”) exposes consequences. Together, they destroy survival-mode thinking.
-- [2026-08-16 — “-1” Industrializes Your Thinking. And That’s Why It Exposes Every Toxic Activity You Keep Defending.](https://theminusoneguarantee.substack.com/p/1-industrializes-your-thinking-and): Negative Price Guarantee (“-1”) breaks work into measurable steps: value, standards, testing, responsibility, and the brutal question nobody wants to answer.
 
-Total indexed articles: 264
+Total indexed articles: 265
