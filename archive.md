@@ -4,6 +4,7 @@ Archive of all public articles. Canonical articles are hosted on Substack.
 
 | Publication date | Title | Subtitle | URL |
 |---|---|---|---|
+| 2026-10-07 | The Negative Price Guarantee Is a Corporate Lie Detector: It Exposes Who Wants Improvement—and Who Needs the Fog | View this post on the web at https://theminusoneguarantee.substack.com/p/the-negative-price-guarantee-is-a | https://theminusoneguarantee.substack.com/p/the-negative-price-guarantee-is-a |
 | 2026-10-06 | If You’re So Good at Your Job, Put a Penalty on It | View this post on the web at https://theminusoneguarantee.substack.com/p/if-youre-so-good-at-your-job-put | https://theminusoneguarantee.substack.com/p/if-youre-so-good-at-your-job-put |
 | 2026-10-05 | Your Company Is Infected—and the Negative Price Ultra-Guarantee Is the White Blood Cell Hunting the Disease | View this post on the web at https://theminusoneguarantee.substack.com/p/your-company-is-infectedand-the-negative | https://theminusoneguarantee.substack.com/p/your-company-is-infectedand-the-negative |
 | 2026-10-04 | If Your Prospect Chooses the Cheapest Competitor, Your Marketing Failed to Explain the Real Price | View this post on the web at https://theminusoneguarantee.substack.com/p/if-your-prospect-chooses-the-cheapest | https://theminusoneguarantee.substack.com/p/if-your-prospect-chooses-the-cheapest |
