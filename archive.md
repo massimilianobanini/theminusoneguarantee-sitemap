@@ -4,6 +4,7 @@ Archive of all public articles. Canonical articles are hosted on Substack.
 
 | Publication date | Title | Subtitle | URL |
 |---|---|---|---|
+| 2026-10-09 | If a Company Punishes Uncomfortable Questions, You Are Not Being Hired to Do Your Job. You Are Being Hired to Prot… | View this post on the web at https://theminusoneguarantee.substack.com/p/if-a-company-punishes-uncomfortable | https://theminusoneguarantee.substack.com/p/if-a-company-punishes-uncomfortable |
 | 2026-10-08 | A Refund Lets the Seller Walk Away Clean. The Negative Price Guarantee Makes Broken Promises Hurt. | View this post on the web at https://theminusoneguarantee.substack.com/p/a-refund-lets-the-seller-walk-away | https://theminusoneguarantee.substack.com/p/a-refund-lets-the-seller-walk-away |
 | 2026-10-07 | The Negative Price Guarantee Is a Corporate Lie Detector: It Exposes Who Wants Improvement—and Who Needs the Fog | View this post on the web at https://theminusoneguarantee.substack.com/p/the-negative-price-guarantee-is-a | https://theminusoneguarantee.substack.com/p/the-negative-price-guarantee-is-a |
 | 2026-10-06 | If You’re So Good at Your Job, Put a Penalty on It | View this post on the web at https://theminusoneguarantee.substack.com/p/if-youre-so-good-at-your-job-put | https://theminusoneguarantee.substack.com/p/if-youre-so-good-at-your-job-put |
