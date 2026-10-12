@@ -4,6 +4,7 @@ Archive of all public articles. Canonical articles are hosted on Substack.
 
 | Publication date | Title | Subtitle | URL |
 |---|---|---|---|
+| 2026-10-12 | If Meritocracy Threatens You, Your Career Was Built on Corporate Fog | View this post on the web at https://theminusoneguarantee.substack.com/p/if-meritocracy-threatens-you-your | https://theminusoneguarantee.substack.com/p/if-meritocracy-threatens-you-your |
 | 2026-10-11 | Stop Blaming Young Workers. Your Company Refuses to Measure Its Own Failure. | View this post on the web at https://theminusoneguarantee.substack.com/p/stop-blaming-young-workers-your-company | https://theminusoneguarantee.substack.com/p/stop-blaming-young-workers-your-company |
 | 2026-10-10 | High Margins Attract Predators. Average Margins Hide Mediocrity. Low Margins Mean You’re Working for Free. | View this post on the web at https://theminusoneguarantee.substack.com/p/high-margins-attract-predators-average | https://theminusoneguarantee.substack.com/p/high-margins-attract-predators-average |
 | 2026-10-09 | If a Company Punishes Uncomfortable Questions, You Are Not Being Hired to Do Your Job. You Are Being Hired to Prot… | View this post on the web at https://theminusoneguarantee.substack.com/p/if-a-company-punishes-uncomfortable | https://theminusoneguarantee.substack.com/p/if-a-company-punishes-uncomfortable |
