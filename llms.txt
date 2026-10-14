@@ -6,6 +6,7 @@ Canonical articles are hosted on Substack. This GitHub Pages project provides a 
 
 ## Latest articles
 
+- [2026-10-14 — A Refund Is Not a Real Guarantee. The Negative Price Guarantee Makes the Seller Pay for Failure.](https://theminusoneguarantee.substack.com/p/a-refund-is-not-a-real-guarantee): View this post on the web at https://theminusoneguarantee.substack.com/p/a-refund-is-not-a-real-guarantee
 - [2026-10-13 — If Your Company Buys Employee Hours Instead of Measured Value, You Are Paying People to Preserve Waste](https://theminusoneguarantee.substack.com/p/if-your-company-buys-employee-hours): View this post on the web at https://theminusoneguarantee.substack.com/p/if-your-company-buys-employee-hours
 - [2026-10-12 — If Meritocracy Threatens You, Your Career Was Built on Corporate Fog](https://theminusoneguarantee.substack.com/p/if-meritocracy-threatens-you-your): View this post on the web at https://theminusoneguarantee.substack.com/p/if-meritocracy-threatens-you-your
 - [2026-10-11 — Stop Blaming Young Workers. Your Company Refuses to Measure Its Own Failure.](https://theminusoneguarantee.substack.com/p/stop-blaming-young-workers-your-company): View this post on the web at https://theminusoneguarantee.substack.com/p/stop-blaming-young-workers-your-company
@@ -55,6 +56,5 @@ Canonical articles are hosted on Substack. This GitHub Pages project provides a 
 - [2026-08-28 — Stop Hiring “Heroes” for Your Chaos. “-1” Lets Smart Candidates Expose Fake Growth Jobs Before They Say Yes.](https://theminusoneguarantee.substack.com/p/stop-hiring-heroes-for-your-chaos): View this post on the web at https://theminusoneguarantee.substack.com/p/stop-hiring-heroes-for-your-chaos
 - [2026-08-27 — Negative Price Is Not a Market Glitch. “-1” Is an Agnostic Religion of Numbers—and Most Businesses Cannot Survive …](https://theminusoneguarantee.substack.com/p/negative-price-is-not-a-market-glitch): View this post on the web at https://theminusoneguarantee.substack.com/p/negative-price-is-not-a-market-glitch
 - [2026-08-26 — “-1” Is Entering the Overton Window. The Last Defenders of Mediocrity Won’t Notice Until It’s Normal.](https://theminusoneguarantee.substack.com/p/1-is-entering-the-overton-window): View this post on the web at https://theminusoneguarantee.substack.com/p/1-is-entering-the-overton-window
-- [2026-08-25 — Stop Calling It “Confidence.” It’s Anti-Expertise. “-1” Makes Ignorance Expensive Again.](https://theminusoneguarantee.substack.com/p/stop-calling-it-confidence-its-anti): View this post on the web at https://theminusoneguarantee.substack.com/p/stop-calling-it-confidence-its-anti
 
-Total indexed articles: 273
+Total indexed articles: 274

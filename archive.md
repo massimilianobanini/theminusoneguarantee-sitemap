@@ -4,6 +4,7 @@ Archive of all public articles. Canonical articles are hosted on Substack.
 
 | Publication date | Title | Subtitle | URL |
 |---|---|---|---|
+| 2026-10-14 | A Refund Is Not a Real Guarantee. The Negative Price Guarantee Makes the Seller Pay for Failure. | View this post on the web at https://theminusoneguarantee.substack.com/p/a-refund-is-not-a-real-guarantee | https://theminusoneguarantee.substack.com/p/a-refund-is-not-a-real-guarantee |
 | 2026-10-13 | If Your Company Buys Employee Hours Instead of Measured Value, You Are Paying People to Preserve Waste | View this post on the web at https://theminusoneguarantee.substack.com/p/if-your-company-buys-employee-hours | https://theminusoneguarantee.substack.com/p/if-your-company-buys-employee-hours |
 | 2026-10-12 | If Meritocracy Threatens You, Your Career Was Built on Corporate Fog | View this post on the web at https://theminusoneguarantee.substack.com/p/if-meritocracy-threatens-you-your | https://theminusoneguarantee.substack.com/p/if-meritocracy-threatens-you-your |
 | 2026-10-11 | Stop Blaming Young Workers. Your Company Refuses to Measure Its Own Failure. | View this post on the web at https://theminusoneguarantee.substack.com/p/stop-blaming-young-workers-your-company | https://theminusoneguarantee.substack.com/p/stop-blaming-young-workers-your-company |
