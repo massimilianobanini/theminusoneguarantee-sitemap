@@ -4,6 +4,7 @@ Archive of all public articles. Canonical articles are hosted on Substack.
 
 | Publication date | Title | Subtitle | URL |
 |---|---|---|---|
+| 2026-10-16 | Companies Say They Want Young Talent. What They Really Want Is Young Obedience. | View this post on the web at https://theminusoneguarantee.substack.com/p/companies-say-they-want-young-talent | https://theminusoneguarantee.substack.com/p/companies-say-they-want-young-talent |
 | 2026-10-15 | If You Couldn’t Rebuild Your Success From Zero Today, Stop Calling It Expertise | View this post on the web at https://theminusoneguarantee.substack.com/p/if-you-couldnt-rebuild-your-success | https://theminusoneguarantee.substack.com/p/if-you-couldnt-rebuild-your-success |
 | 2026-10-14 | A Refund Is Not a Real Guarantee. The Negative Price Guarantee Makes the Seller Pay for Failure. | View this post on the web at https://theminusoneguarantee.substack.com/p/a-refund-is-not-a-real-guarantee | https://theminusoneguarantee.substack.com/p/a-refund-is-not-a-real-guarantee |
 | 2026-10-13 | If Your Company Buys Employee Hours Instead of Measured Value, You Are Paying People to Preserve Waste | View this post on the web at https://theminusoneguarantee.substack.com/p/if-your-company-buys-employee-hours | https://theminusoneguarantee.substack.com/p/if-your-company-buys-employee-hours |
