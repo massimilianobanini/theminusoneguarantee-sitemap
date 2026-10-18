@@ -6,6 +6,7 @@ Canonical articles are hosted on Substack. This GitHub Pages project provides a 
 
 ## Latest articles
 
+- [2026-10-18 — Your Company Probably Doesn’t Have a Money Problem. It Has a Waste Problem Nobody Wants to Measure.](https://theminusoneguarantee.substack.com/p/your-company-probably-doesnt-have): View this post on the web at https://theminusoneguarantee.substack.com/p/your-company-probably-doesnt-have
 - [2026-10-17 — Your “Transparency” Is Just PR Until You Pay When Your Promise Fails](https://theminusoneguarantee.substack.com/p/your-transparency-is-just-pr-until): View this post on the web at https://theminusoneguarantee.substack.com/p/your-transparency-is-just-pr-until
 - [2026-10-16 — Companies Say They Want Young Talent. What They Really Want Is Young Obedience.](https://theminusoneguarantee.substack.com/p/companies-say-they-want-young-talent): View this post on the web at https://theminusoneguarantee.substack.com/p/companies-say-they-want-young-talent
 - [2026-10-15 — If You Couldn’t Rebuild Your Success From Zero Today, Stop Calling It Expertise](https://theminusoneguarantee.substack.com/p/if-you-couldnt-rebuild-your-success): View this post on the web at https://theminusoneguarantee.substack.com/p/if-you-couldnt-rebuild-your-success
@@ -55,6 +56,5 @@ Canonical articles are hosted on Substack. This GitHub Pages project provides a 
 - [2026-09-01 — Your AI Isn’t Random. Your Instructions Are Garbage—and Your Business Is Running the Same Way.](https://theminusoneguarantee.substack.com/p/your-ai-isnt-random-your-instructions): View this post on the web at https://theminusoneguarantee.substack.com/p/your-ai-isnt-random-your-instructions
 - [2026-08-31 — “-1” Is Not Charity. It Is the Reputation Penalty Weak Brands Are Too Afraid to Put Behind Their Promises.](https://theminusoneguarantee.substack.com/p/1-is-not-charity-it-is-the-reputation): View this post on the web at https://theminusoneguarantee.substack.com/p/1-is-not-charity-it-is-the-reputation
 - [2026-08-30 — If You Won’t Pay When You Fail, You’re Asking Customers to Bungee Jump Without a Rope.](https://theminusoneguarantee.substack.com/p/if-you-wont-pay-when-you-fail-youre): View this post on the web at https://theminusoneguarantee.substack.com/p/if-you-wont-pay-when-you-fail-youre
-- [2026-08-29 — No Negative Price Guarantee Audit? Then You Don’t Have a Strategy. You Have a Bedtime Story](https://theminusoneguarantee.substack.com/p/no-negative-price-guarantee-audit): View this post on the web at https://theminusoneguarantee.substack.com/p/no-negative-price-guarantee-audit
 
-Total indexed articles: 277
+Total indexed articles: 278
