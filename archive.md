@@ -4,6 +4,7 @@ Archive of all public articles. Canonical articles are hosted on Substack.
 
 | Publication date | Title | Subtitle | URL |
 |---|---|---|---|
+| 2026-10-21 | When Talented Young People Stop Chasing Salaries, Weak Companies Will Have Nothing Left to Sell | View this post on the web at https://theminusoneguarantee.substack.com/p/when-talented-young-people-stop-chasing | https://theminusoneguarantee.substack.com/p/when-talented-young-people-stop-chasing |
 | 2026-10-20 | If a Manager Can Name the Bottleneck but Cannot Tell You What Changes Tomorrow, That Manager Is Part of the Bottle… | View this post on the web at https://theminusoneguarantee.substack.com/p/if-a-manager-can-name-the-bottleneck | https://theminusoneguarantee.substack.com/p/if-a-manager-can-name-the-bottleneck |
 | 2026-10-18 | Your Company Probably Doesn’t Have a Money Problem. It Has a Waste Problem Nobody Wants to Measure. | View this post on the web at https://theminusoneguarantee.substack.com/p/your-company-probably-doesnt-have | https://theminusoneguarantee.substack.com/p/your-company-probably-doesnt-have |
 | 2026-10-17 | Your “Transparency” Is Just PR Until You Pay When Your Promise Fails | View this post on the web at https://theminusoneguarantee.substack.com/p/your-transparency-is-just-pr-until | https://theminusoneguarantee.substack.com/p/your-transparency-is-just-pr-until |
