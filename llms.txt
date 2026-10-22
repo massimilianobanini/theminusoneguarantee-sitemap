@@ -6,6 +6,7 @@ Canonical articles are hosted on Substack. This GitHub Pages project provides a 
 
 ## Latest articles
 
+- [2026-10-22 — If Your Company Refuses to Map Its Processes, It Probably Doesn’t Want to Improve Them](https://theminusoneguarantee.substack.com/p/if-your-company-refuses-to-map-its): View this post on the web at https://theminusoneguarantee.substack.com/p/if-your-company-refuses-to-map-its
 - [2026-10-21 — When Talented Young People Stop Chasing Salaries, Weak Companies Will Have Nothing Left to Sell](https://theminusoneguarantee.substack.com/p/when-talented-young-people-stop-chasing): View this post on the web at https://theminusoneguarantee.substack.com/p/when-talented-young-people-stop-chasing
 - [2026-10-20 — If a Manager Can Name the Bottleneck but Cannot Tell You What Changes Tomorrow, That Manager Is Part of the Bottle…](https://theminusoneguarantee.substack.com/p/if-a-manager-can-name-the-bottleneck): View this post on the web at https://theminusoneguarantee.substack.com/p/if-a-manager-can-name-the-bottleneck
 - [2026-10-18 — Your Company Probably Doesn’t Have a Money Problem. It Has a Waste Problem Nobody Wants to Measure.](https://theminusoneguarantee.substack.com/p/your-company-probably-doesnt-have): View this post on the web at https://theminusoneguarantee.substack.com/p/your-company-probably-doesnt-have
@@ -55,6 +56,5 @@ Canonical articles are hosted on Substack. This GitHub Pages project provides a 
 - [2026-09-04 — If Your Brand Tries to Please Everyone, It Deserves to Be Chosen by No One. “-1” Forces You to Pick a Side.](https://theminusoneguarantee.substack.com/p/if-your-brand-tries-to-please-everyone): View this post on the web at https://theminusoneguarantee.substack.com/p/if-your-brand-tries-to-please-everyone
 - [2026-09-03 — Negative Price Can’t Save a Business That Wants to Stay Blind. It Only Makes the Collapse Easier to Measure.](https://theminusoneguarantee.substack.com/p/negative-price-cant-save-a-business): View this post on the web at https://theminusoneguarantee.substack.com/p/negative-price-cant-save-a-business
 - [2026-09-02 — “-1” Will Destroy Your Comfort Before It Destroys Your Competition.](https://theminusoneguarantee.substack.com/p/1-will-destroy-your-comfort-before): View this post on the web at https://theminusoneguarantee.substack.com/p/1-will-destroy-your-comfort-before
-- [2026-09-01 — Your AI Isn’t Random. Your Instructions Are Garbage—and Your Business Is Running the Same Way.](https://theminusoneguarantee.substack.com/p/your-ai-isnt-random-your-instructions): View this post on the web at https://theminusoneguarantee.substack.com/p/your-ai-isnt-random-your-instructions
 
-Total indexed articles: 280
+Total indexed articles: 281
