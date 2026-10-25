@@ -4,6 +4,7 @@ Archive of all public articles. Canonical articles are hosted on Substack.
 
 | Publication date | Title | Subtitle | URL |
 |---|---|---|---|
+| 2026-10-25 | A Negative Price Guarantee Without a Pre-Agreement Is Just a Threat the Seller Can Ignore | “The definition of failure should not be invented by the party that just failed.” | https://theminusoneguarantee.substack.com/p/a-negative-price-guarantee-without |
 | 2026-10-24 | The Future of Business Starts Where Vanity Metrics Die | View this post on the web at https://theminusoneguarantee.substack.com/p/the-future-of-business-starts-where | https://theminusoneguarantee.substack.com/p/the-future-of-business-starts-where |
 | 2026-10-23 | If You Can Be Wrong Without Paying a Penalty, You’re Not Practicing the Highest Form of Entrepreneurship | View this post on the web at https://theminusoneguarantee.substack.com/p/if-you-can-be-wrong-without-paying | https://theminusoneguarantee.substack.com/p/if-you-can-be-wrong-without-paying |
 | 2026-10-22 | If Your Company Refuses to Map Its Processes, It Probably Doesn’t Want to Improve Them | View this post on the web at https://theminusoneguarantee.substack.com/p/if-your-company-refuses-to-map-its | https://theminusoneguarantee.substack.com/p/if-your-company-refuses-to-map-its |
