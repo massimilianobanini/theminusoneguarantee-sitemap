@@ -6,6 +6,7 @@ Canonical articles are hosted on Substack. This GitHub Pages project provides a 
 
 ## Latest articles
 
+- [2026-10-26 — If Your Negative Price Guarantee Stops at the Refund, You Built a Gimmick—Not a Business System](https://theminusoneguarantee.substack.com/p/if-your-negative-price-guarantee): View this post on the web at https://theminusoneguarantee.substack.com/p/if-your-negative-price-guarantee
 - [2026-10-25 — A Negative Price Guarantee Without a Pre-Agreement Is Just a Threat the Seller Can Ignore](https://theminusoneguarantee.substack.com/p/a-negative-price-guarantee-without): “The definition of failure should not be invented by the party that just failed.”
 - [2026-10-24 — The Future of Business Starts Where Vanity Metrics Die](https://theminusoneguarantee.substack.com/p/the-future-of-business-starts-where): View this post on the web at https://theminusoneguarantee.substack.com/p/the-future-of-business-starts-where
 - [2026-10-23 — If You Can Be Wrong Without Paying a Penalty, You’re Not Practicing the Highest Form of Entrepreneurship](https://theminusoneguarantee.substack.com/p/if-you-can-be-wrong-without-paying): View this post on the web at https://theminusoneguarantee.substack.com/p/if-you-can-be-wrong-without-paying
@@ -55,6 +56,5 @@ Canonical articles are hosted on Substack. This GitHub Pages project provides a 
 - [2026-09-08 — If Your Competitor Makes the Buyer Feel Safer Than You Do, You Deserve to Lose. “-1” Is the Proof.](https://theminusoneguarantee.substack.com/p/if-your-competitor-makes-the-buyer): View this post on the web at https://theminusoneguarantee.substack.com/p/if-your-competitor-makes-the-buyer
 - [2026-09-07 — Here is an Enlistment Notice: Study, Measure, Take Responsibility—or Get Replaced.](https://theminusoneguarantee.substack.com/p/here-is-an-enlistment-notice-study): View this post on the web at https://theminusoneguarantee.substack.com/p/here-is-an-enlistment-notice-study
 - [2026-09-06 — A €1M Fine Against €45.8M Profit Is Not Accountability. It’s a Line Item. “-1” Is Different.](https://theminusoneguarantee.substack.com/p/a-1m-fine-against-458m-profit-is): View this post on the web at https://theminusoneguarantee.substack.com/p/a-1m-fine-against-458m-profit-is
-- [2026-09-05 — “-1” Is the CEO Above the CEO: It Forces Founders to Do the Work They Demand From Everyone Else.](https://theminusoneguarantee.substack.com/p/1-is-the-ceo-above-the-ceo-it-forces): View this post on the web at https://theminusoneguarantee.substack.com/p/1-is-the-ceo-above-the-ceo-it-forces
 
-Total indexed articles: 284
+Total indexed articles: 285
