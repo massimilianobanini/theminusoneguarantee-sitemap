@@ -4,6 +4,7 @@ Archive of all public articles. Canonical articles are hosted on Substack.
 
 | Publication date | Title | Subtitle | URL |
 |---|---|---|---|
+| 2026-10-27 | Every Day You Refuse to Document and Automate Your Business, You Are Taking Out a Loan Against Your Future | View this post on the web at https://theminusoneguarantee.substack.com/p/every-day-you-refuse-to-document | https://theminusoneguarantee.substack.com/p/every-day-you-refuse-to-document |
 | 2026-10-26 | If Your Negative Price Guarantee Stops at the Refund, You Built a Gimmick—Not a Business System | View this post on the web at https://theminusoneguarantee.substack.com/p/if-your-negative-price-guarantee | https://theminusoneguarantee.substack.com/p/if-your-negative-price-guarantee |
 | 2026-10-25 | A Negative Price Guarantee Without a Pre-Agreement Is Just a Threat the Seller Can Ignore | “The definition of failure should not be invented by the party that just failed.” | https://theminusoneguarantee.substack.com/p/a-negative-price-guarantee-without |
 | 2026-10-24 | The Future of Business Starts Where Vanity Metrics Die | View this post on the web at https://theminusoneguarantee.substack.com/p/the-future-of-business-starts-where | https://theminusoneguarantee.substack.com/p/the-future-of-business-starts-where |
