@@ -14,9 +14,9 @@ This repository exposes a public, crawlable archive for **The -1 Guarantee** Sub
 
 ## Counts
 
-- Articles: **286**
+- Articles: **287**
 - First article: **2026-01-14**
-- Latest article: **2026-10-27**
+- Latest article: **2026-10-28**
 - Source publication: <https://theminusoneguarantee.substack.com/>
 
 ## Automation
