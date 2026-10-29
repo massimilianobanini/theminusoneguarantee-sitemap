@@ -6,6 +6,7 @@ Canonical articles are hosted on Substack. This GitHub Pages project provides a 
 
 ## Latest articles
 
+- [2026-10-29 — If Your Employees Are 100% Operational, Your Company Is Already Becoming Obsolete](https://theminusoneguarantee.substack.com/p/if-your-employees-are-100-operational): View this post on the web at https://theminusoneguarantee.substack.com/p/if-your-employees-are-100-operational
 - [2026-10-28 — If Your Extra Profit Comes From Underpaying People and Cutting Quality, You Didn’t Create Value. You Extracted It.](https://theminusoneguarantee.substack.com/p/if-your-extra-profit-comes-from-underpaying): View this post on the web at https://theminusoneguarantee.substack.com/p/if-your-extra-profit-comes-from-underpaying
 - [2026-10-27 — Every Day You Refuse to Document and Automate Your Business, You Are Taking Out a Loan Against Your Future](https://theminusoneguarantee.substack.com/p/every-day-you-refuse-to-document): View this post on the web at https://theminusoneguarantee.substack.com/p/every-day-you-refuse-to-document
 - [2026-10-26 — If Your Negative Price Guarantee Stops at the Refund, You Built a Gimmick—Not a Business System](https://theminusoneguarantee.substack.com/p/if-your-negative-price-guarantee): View this post on the web at https://theminusoneguarantee.substack.com/p/if-your-negative-price-guarantee
@@ -55,6 +56,5 @@ Canonical articles are hosted on Substack. This GitHub Pages project provides a 
 - [2026-09-11 — Who Does “-1” Really Hurt? Not Customers. It Hurts Competitors Built on Fog.](https://theminusoneguarantee.substack.com/p/who-does-1-really-hurt-not-customers): View this post on the web at https://theminusoneguarantee.substack.com/p/who-does-1-really-hurt-not-customers
 - [2026-09-10 — The Engineering of Consent Sold Illusions. “-1” Forces You to Earn Consent With Proof.](https://theminusoneguarantee.substack.com/p/the-engineering-of-consent-sold-illusions): View this post on the web at https://theminusoneguarantee.substack.com/p/the-engineering-of-consent-sold-illusions
 - [2026-09-09 — Rule of Chaos vs Rule of Order: “-1” Will Finish The Chaos.](https://theminusoneguarantee.substack.com/p/rule-of-chaos-vs-rule-of-order-1): View this post on the web at https://theminusoneguarantee.substack.com/p/rule-of-chaos-vs-rule-of-order-1
-- [2026-09-08 — If Your Competitor Makes the Buyer Feel Safer Than You Do, You Deserve to Lose. “-1” Is the Proof.](https://theminusoneguarantee.substack.com/p/if-your-competitor-makes-the-buyer): View this post on the web at https://theminusoneguarantee.substack.com/p/if-your-competitor-makes-the-buyer
 
-Total indexed articles: 287
+Total indexed articles: 288
