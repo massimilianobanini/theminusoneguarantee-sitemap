@@ -4,6 +4,7 @@ Archive of all public articles. Canonical articles are hosted on Substack.
 
 | Publication date | Title | Subtitle | URL |
 |---|---|---|---|
+| 2026-10-30 | The Best Place to Hide $1 Million Is in a Marketing Campaign Nobody Is Allowed to Measure | View this post on the web at https://theminusoneguarantee.substack.com/p/the-best-place-to-hide-1-million | https://theminusoneguarantee.substack.com/p/the-best-place-to-hide-1-million |
 | 2026-10-29 | If Your Employees Are 100% Operational, Your Company Is Already Becoming Obsolete | View this post on the web at https://theminusoneguarantee.substack.com/p/if-your-employees-are-100-operational | https://theminusoneguarantee.substack.com/p/if-your-employees-are-100-operational |
 | 2026-10-28 | If Your Extra Profit Comes From Underpaying People and Cutting Quality, You Didn’t Create Value. You Extracted It. | View this post on the web at https://theminusoneguarantee.substack.com/p/if-your-extra-profit-comes-from-underpaying | https://theminusoneguarantee.substack.com/p/if-your-extra-profit-comes-from-underpaying |
 | 2026-10-27 | Every Day You Refuse to Document and Automate Your Business, You Are Taking Out a Loan Against Your Future | View this post on the web at https://theminusoneguarantee.substack.com/p/every-day-you-refuse-to-document | https://theminusoneguarantee.substack.com/p/every-day-you-refuse-to-document |

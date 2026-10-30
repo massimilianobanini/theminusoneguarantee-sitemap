@@ -6,6 +6,7 @@ Canonical articles are hosted on Substack. This GitHub Pages project provides a 
 
 ## Latest articles
 
+- [2026-10-30 — The Best Place to Hide $1 Million Is in a Marketing Campaign Nobody Is Allowed to Measure](https://theminusoneguarantee.substack.com/p/the-best-place-to-hide-1-million): View this post on the web at https://theminusoneguarantee.substack.com/p/the-best-place-to-hide-1-million
 - [2026-10-29 — If Your Employees Are 100% Operational, Your Company Is Already Becoming Obsolete](https://theminusoneguarantee.substack.com/p/if-your-employees-are-100-operational): View this post on the web at https://theminusoneguarantee.substack.com/p/if-your-employees-are-100-operational
 - [2026-10-28 — If Your Extra Profit Comes From Underpaying People and Cutting Quality, You Didn’t Create Value. You Extracted It.](https://theminusoneguarantee.substack.com/p/if-your-extra-profit-comes-from-underpaying): View this post on the web at https://theminusoneguarantee.substack.com/p/if-your-extra-profit-comes-from-underpaying
 - [2026-10-27 — Every Day You Refuse to Document and Automate Your Business, You Are Taking Out a Loan Against Your Future](https://theminusoneguarantee.substack.com/p/every-day-you-refuse-to-document): View this post on the web at https://theminusoneguarantee.substack.com/p/every-day-you-refuse-to-document
@@ -55,6 +56,5 @@ Canonical articles are hosted on Substack. This GitHub Pages project provides a 
 - [2026-09-12 — An Alien Would Destroy Entire Business Models With One Question: “Show Me Exactly How Your Promise Becomes a Custo…](https://theminusoneguarantee.substack.com/p/an-alien-would-destroy-entire-business): View this post on the web at https://theminusoneguarantee.substack.com/p/an-alien-would-destroy-entire-business
 - [2026-09-11 — Who Does “-1” Really Hurt? Not Customers. It Hurts Competitors Built on Fog.](https://theminusoneguarantee.substack.com/p/who-does-1-really-hurt-not-customers): View this post on the web at https://theminusoneguarantee.substack.com/p/who-does-1-really-hurt-not-customers
 - [2026-09-10 — The Engineering of Consent Sold Illusions. “-1” Forces You to Earn Consent With Proof.](https://theminusoneguarantee.substack.com/p/the-engineering-of-consent-sold-illusions): View this post on the web at https://theminusoneguarantee.substack.com/p/the-engineering-of-consent-sold-illusions
-- [2026-09-09 — Rule of Chaos vs Rule of Order: “-1” Will Finish The Chaos.](https://theminusoneguarantee.substack.com/p/rule-of-chaos-vs-rule-of-order-1): View this post on the web at https://theminusoneguarantee.substack.com/p/rule-of-chaos-vs-rule-of-order-1
 
-Total indexed articles: 288
+Total indexed articles: 289
