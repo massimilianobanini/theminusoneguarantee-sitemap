@@ -4,6 +4,7 @@ Archive of all public articles. Canonical articles are hosted on Substack.
 
 | Publication date | Title | Subtitle | URL |
 |---|---|---|---|
+| 2026-11-03 | Negative Price Is Not a Guarantee. It Is a Discipline for Exposing Where Your Business Lies to Itself | View this post on the web at https://theminusoneguarantee.substack.com/p/negative-price-is-not-a-guarantee | https://theminusoneguarantee.substack.com/p/negative-price-is-not-a-guarantee |
 | 2026-11-02 | Market Transparency Is a Joke If Sellers Can Say Anything Without Paying When They’re Wrong | View this post on the web at https://theminusoneguarantee.substack.com/p/market-transparency-is-a-joke-if | https://theminusoneguarantee.substack.com/p/market-transparency-is-a-joke-if |
 | 2026-11-01 | The Generation That Asks “Why Should I Work for You?” Will Destroy Companies Still Living in 1995 | View this post on the web at https://theminusoneguarantee.substack.com/p/the-generation-that-asks-why-should | https://theminusoneguarantee.substack.com/p/the-generation-that-asks-why-should |
 | 2026-10-31 | If the Market Feels “Too Hard” Now, Maybe the Easy Years Were Subsidizing People Who Never Deserved the Margin | View this post on the web at https://theminusoneguarantee.substack.com/p/if-the-market-feels-too-hard-now | https://theminusoneguarantee.substack.com/p/if-the-market-feels-too-hard-now |
