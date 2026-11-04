@@ -6,6 +6,7 @@ Canonical articles are hosted on Substack. This GitHub Pages project provides a 
 
 ## Latest articles
 
+- [2026-11-04 — Companies Say They Want Entrepreneurial Employees—Until One Asks Management to Put Its Own Promises in Writing](https://theminusoneguarantee.substack.com/p/companies-say-they-want-entrepreneurial): View this post on the web at https://theminusoneguarantee.substack.com/p/companies-say-they-want-entrepreneurial
 - [2026-11-03 — Negative Price Is Not a Guarantee. It Is a Discipline for Exposing Where Your Business Lies to Itself](https://theminusoneguarantee.substack.com/p/negative-price-is-not-a-guarantee): View this post on the web at https://theminusoneguarantee.substack.com/p/negative-price-is-not-a-guarantee
 - [2026-11-02 — Market Transparency Is a Joke If Sellers Can Say Anything Without Paying When They’re Wrong](https://theminusoneguarantee.substack.com/p/market-transparency-is-a-joke-if): View this post on the web at https://theminusoneguarantee.substack.com/p/market-transparency-is-a-joke-if
 - [2026-11-01 — The Generation That Asks “Why Should I Work for You?” Will Destroy Companies Still Living in 1995](https://theminusoneguarantee.substack.com/p/the-generation-that-asks-why-should): View this post on the web at https://theminusoneguarantee.substack.com/p/the-generation-that-asks-why-should
@@ -55,6 +56,5 @@ Canonical articles are hosted on Substack. This GitHub Pages project provides a 
 - [2026-09-17 — Your MBA Is Useless If You Cannot Keep a Promise. The Negative Price Guarantee Is the New Business School.](https://theminusoneguarantee.substack.com/p/your-mba-is-useless-if-you-cannot): View this post on the web at https://theminusoneguarantee.substack.com/p/your-mba-is-useless-if-you-cannot
 - [2026-09-16 — If Your Employees Cannot See What Creates Value, You Are Paying Them to Sabotage the Company. “-1” Exposes It.](https://theminusoneguarantee.substack.com/p/if-your-employees-cannot-see-what): View this post on the web at https://theminusoneguarantee.substack.com/p/if-your-employees-cannot-see-what
 - [2026-09-15 — Your Business Is Not Short on Resources. They’re Buried Under Hidden Costs You Refuse to Remove.](https://theminusoneguarantee.substack.com/p/your-business-is-not-short-on-resources): View this post on the web at https://theminusoneguarantee.substack.com/p/your-business-is-not-short-on-resources
-- [2026-09-14 — Toxic Money Is the Bribe That Kills Your Business. “-1” Forces You to Say No.](https://theminusoneguarantee.substack.com/p/toxic-money-is-the-bribe-that-kills): View this post on the web at https://theminusoneguarantee.substack.com/p/toxic-money-is-the-bribe-that-kills
 
-Total indexed articles: 293
+Total indexed articles: 294
