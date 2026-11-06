@@ -4,6 +4,7 @@ Archive of all public articles. Canonical articles are hosted on Substack.
 
 | Publication date | Title | Subtitle | URL |
 |---|---|---|---|
+| 2026-11-06 | If Your Skill Cannot Survive Measurement, Stop Calling It Expertise | “The ‘-1’ standard does not kill creativity. It kills creative immunity.” | https://theminusoneguarantee.substack.com/p/if-your-skill-cannot-survive-measurement |
 | 2026-11-05 | If You Refuse to Keep Learning, the Market Is Right to Leave You Behind | View this post on the web at https://theminusoneguarantee.substack.com/p/if-you-refuse-to-keep-learning-the | https://theminusoneguarantee.substack.com/p/if-you-refuse-to-keep-learning-the |
 | 2026-11-04 | Companies Say They Want Entrepreneurial Employees—Until One Asks Management to Put Its Own Promises in Writing | View this post on the web at https://theminusoneguarantee.substack.com/p/companies-say-they-want-entrepreneurial | https://theminusoneguarantee.substack.com/p/companies-say-they-want-entrepreneurial |
 | 2026-11-03 | Negative Price Is Not a Guarantee. It Is a Discipline for Exposing Where Your Business Lies to Itself | View this post on the web at https://theminusoneguarantee.substack.com/p/negative-price-is-not-a-guarantee | https://theminusoneguarantee.substack.com/p/negative-price-is-not-a-guarantee |
