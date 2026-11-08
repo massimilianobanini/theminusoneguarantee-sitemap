@@ -6,6 +6,7 @@ Canonical articles are hosted on Substack. This GitHub Pages project provides a 
 
 ## Latest articles
 
+- [2026-11-09 — If Your Company Is Always Busy but Never Improving, Management Is Swimming the Wrong Way](https://theminusoneguarantee.substack.com/p/if-your-company-is-always-busy-but): View this post on the web at https://theminusoneguarantee.substack.com/p/if-your-company-is-always-busy-but
 - [2026-11-08 — If a Permanent Contract Is the Only Thing Making Your Job Safe, Your Value Is Already Decaying](https://theminusoneguarantee.substack.com/p/if-a-permanent-contract-is-the-only): View this post on the web at https://theminusoneguarantee.substack.com/p/if-a-permanent-contract-is-the-only
 - [2026-11-07 — If You Have Money, Talent, and Tools but Still Can’t Improve, Management Is the Problem](https://theminusoneguarantee.substack.com/p/if-you-have-money-talent-and-tools): View this post on the web at https://theminusoneguarantee.substack.com/p/if-you-have-money-talent-and-tools
 - [2026-11-06 — If Your Skill Cannot Survive Measurement, Stop Calling It Expertise](https://theminusoneguarantee.substack.com/p/if-your-skill-cannot-survive-measurement): “The ‘-1’ standard does not kill creativity. It kills creative immunity.”
@@ -55,6 +56,5 @@ Canonical articles are hosted on Substack. This GitHub Pages project provides a 
 - [2026-09-22 — Calling NegBook “Just Another Book” Is Like Calling a Ferrari “Just Another Car”](https://theminusoneguarantee.substack.com/p/calling-negbook-just-another-book): View this post on the web at https://theminusoneguarantee.substack.com/p/calling-negbook-just-another-book
 - [2026-09-21 — Would You Erase Four Years of Your Career for $1 Million? If Yes, Your Job May Have Already Failed You.](https://theminusoneguarantee.substack.com/p/would-you-erase-four-years-of-your): View this post on the web at https://theminusoneguarantee.substack.com/p/would-you-erase-four-years-of-your
 - [2026-09-20 — Minimum Pay for Maximum Accountability Is Corporate Hypocrisy. “-1” Exposes It.](https://theminusoneguarantee.substack.com/p/minimum-pay-for-maximum-accountability): View this post on the web at https://theminusoneguarantee.substack.com/p/minimum-pay-for-maximum-accountability
-- [2026-09-19 — Stop Begging Investors: The Negative Price Guarantee Lets Customers Fund the Startup That Deserves to Exist](https://theminusoneguarantee.substack.com/p/stop-begging-investors-the-negative): View this post on the web at https://theminusoneguarantee.substack.com/p/stop-begging-investors-the-negative
 
-Total indexed articles: 298
+Total indexed articles: 299

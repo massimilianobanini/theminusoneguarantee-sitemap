@@ -6,13 +6,13 @@ SOURCE
 - New canonical URLs in this sync: 1
 
 STRUCTURAL CHECKS
-- Articles: 298
-- Unique URLs: 298/298
+- Articles: 299
+- Unique URLs: 299/299
 - Duplicate URLs: 0
-- URLs with expected Substack /p/ prefix: 298/298
-- Titles present: 298/298
-- Subtitles present: 298/298
-- Date range: 2026-01-14 to 2026-11-08
+- URLs with expected Substack /p/ prefix: 299/299
+- Titles present: 299/299
+- Subtitles present: 299/299
+- Date range: 2026-01-14 to 2026-11-09
 
 SAFETY
 - Existing historical URLs are preserved automatically.
