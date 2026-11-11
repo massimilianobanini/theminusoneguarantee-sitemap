@@ -14,11 +14,11 @@ This repository exposes a public, crawlable archive for **The -1 Guarantee** Sub
 
 ## Counts
 
-- Articles: **301**
+- Articles: **302**
 - First article: **2026-01-14**
-- Latest article: **2026-11-10**
+- Latest article: **2026-11-11**
 - Source publication: <https://theminusoneguarantee.substack.com/>
 
 ## Automation
 
-New posts are discovered from Gmail newsletter copies and synchronized by Google Apps Script. The archival record was reconciled against the author's editorial map on 2026-11-11: SUB-220 canonical URL corrected; missing SUB-279 added with its verified email timestamp. The GitHub repository is append-only: existing historical canonical URLs are never deleted automatically.
+New posts are discovered from the Gmail copy of the publication newsletter and synchronized by Google Apps Script. The GitHub repository is append-only: existing historical canonical URLs are never deleted automatically.

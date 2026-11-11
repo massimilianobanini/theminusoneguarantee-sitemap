@@ -4,6 +4,7 @@ Archive of all public articles. Canonical articles are hosted on Substack.
 
 | Publication date | Title | Subtitle | URL |
 |---|---|---|---|
+| 2026-11-11 | If You Demand More From Employees but Refuse Higher Standards Yourself, You Don’t Want Talent | View this post on the web at https://theminusoneguarantee.substack.com/p/if-you-demand-more-from-employees | https://theminusoneguarantee.substack.com/p/if-you-demand-more-from-employees |
 | 2026-11-10 | Young People Were Told to Study More. Now Companies Punish Them for Knowing Too Much. | View this post on the web at https://theminusoneguarantee.substack.com/p/young-people-were-told-to-study-more | https://theminusoneguarantee.substack.com/p/young-people-were-told-to-study-more |
 | 2026-11-09 | If Your Company Is Always Busy but Never Improving, Management Is Swimming the Wrong Way | View this post on the web at https://theminusoneguarantee.substack.com/p/if-your-company-is-always-busy-but | https://theminusoneguarantee.substack.com/p/if-your-company-is-always-busy-but |
 | 2026-11-08 | If a Permanent Contract Is the Only Thing Making Your Job Safe, Your Value Is Already Decaying | View this post on the web at https://theminusoneguarantee.substack.com/p/if-a-permanent-contract-is-the-only | https://theminusoneguarantee.substack.com/p/if-a-permanent-contract-is-the-only |

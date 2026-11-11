@@ -3,20 +3,17 @@ Generated: 2026-11-11
 
 SOURCE
 - Primary discovery: Gmail newsletter delivery from The -1 Guarantee / Substack
-- Reconciliation: The -1 Guarantee Editorial Map and verified Gmail message for SUB-279
-- Correction: SUB-220 canonical URL repaired; SUB-279 restored; SUB-269 and SUB-280 full titles restored
+- New canonical URLs in this sync: 1
 
 STRUCTURAL CHECKS
-- Articles: 301
-- Unique URLs: 301/301
+- Articles: 302
+- Unique URLs: 302/302
 - Duplicate URLs: 0
-- URLs with expected Substack /p/ prefix: 301/301
-- Titles present: 301/301
-- Subtitles present: 301/301 (fallback canonical URL line used when unavailable)
-- Dates: 2026-01-14 to 2026-11-10
-- Article notes: 87 unique records
+- URLs with expected Substack /p/ prefix: 302/302
+- Titles present: 302/302
+- Subtitles present: 302/302
+- Date range: 2026-01-14 to 2026-11-11
 
 SAFETY
-- Historical URLs retained except corrected malformed SUB-220 canonical URL.
-- No private Google Sheet URL or private editorial analytics published.
-- Future Google Apps Script runs should use reconciled articles.json as existing baseline.
+- Existing historical URLs are preserved automatically.
+- New email-derived URLs are accepted only from the exact The -1 Guarantee canonical /p/ domain.
