@@ -6,6 +6,7 @@ Canonical articles are hosted on Substack. This GitHub Pages project provides a 
 
 ## Latest articles
 
+- [2026-11-12 — The Negative Price Guarantee Needs One Thing Most Established People Have Lost: Courage](https://theminusoneguarantee.substack.com/p/the-negative-price-guarantee-needs): View this post on the web at https://theminusoneguarantee.substack.com/p/the-negative-price-guarantee-needs
 - [2026-11-11 — If You Demand More From Employees but Refuse Higher Standards Yourself, You Don’t Want Talent](https://theminusoneguarantee.substack.com/p/if-you-demand-more-from-employees): View this post on the web at https://theminusoneguarantee.substack.com/p/if-you-demand-more-from-employees
 - [2026-11-10 — Young People Were Told to Study More. Now Companies Punish Them for Knowing Too Much.](https://theminusoneguarantee.substack.com/p/young-people-were-told-to-study-more): View this post on the web at https://theminusoneguarantee.substack.com/p/young-people-were-told-to-study-more
 - [2026-11-09 — If Your Company Is Always Busy but Never Improving, Management Is Swimming the Wrong Way](https://theminusoneguarantee.substack.com/p/if-your-company-is-always-busy-but): View this post on the web at https://theminusoneguarantee.substack.com/p/if-your-company-is-always-busy-but
@@ -55,6 +56,5 @@ Canonical articles are hosted on Substack. This GitHub Pages project provides a 
 - [2026-09-26 — Your Salary Is Not Your Market Value. It’s Yesterday’s Price Tag.](https://theminusoneguarantee.substack.com/p/your-salary-is-not-your-market-value): View this post on the web at https://theminusoneguarantee.substack.com/p/your-salary-is-not-your-market-value
 - [2026-09-25 — If You Haven’t Raised Your Business Standards in 30 Days, You’re Already Training Customers to Leave](https://theminusoneguarantee.substack.com/p/if-you-havent-raised-your-business): View this post on the web at https://theminusoneguarantee.substack.com/p/if-you-havent-raised-your-business
 - [2026-09-24 — Your Company Doesn’t Need More Positive People. It Needs a “Puppy-Shooter” Armed With “-1.”](https://theminusoneguarantee.substack.com/p/your-company-doesnt-need-more-positive): View this post on the web at https://theminusoneguarantee.substack.com/p/your-company-doesnt-need-more-positive
-- [2026-09-23 — Your Broken Processes Are Already Charging Penalties. You’re Just Making Customers, Employees, and Suppliers Pay T…](https://theminusoneguarantee.substack.com/p/your-broken-processes-are-already): View this post on the web at https://theminusoneguarantee.substack.com/p/your-broken-processes-are-already
 
-Total indexed articles: 302
+Total indexed articles: 303
