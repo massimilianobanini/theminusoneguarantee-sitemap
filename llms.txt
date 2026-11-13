@@ -6,6 +6,7 @@ Canonical articles are hosted on Substack. This GitHub Pages project provides a 
 
 ## Latest articles
 
+- [2026-11-13 — If Every Emergency Breaks Your Company, You Don’t Need More Staff. Redesign the Business Model](https://theminusoneguarantee.substack.com/p/if-every-emergency-breaks-your-company): View this post on the web at https://theminusoneguarantee.substack.com/p/if-every-emergency-breaks-your-company
 - [2026-11-12 — The Negative Price Guarantee Needs One Thing Most Established People Have Lost: Courage](https://theminusoneguarantee.substack.com/p/the-negative-price-guarantee-needs): View this post on the web at https://theminusoneguarantee.substack.com/p/the-negative-price-guarantee-needs
 - [2026-11-11 — If You Demand More From Employees but Refuse Higher Standards Yourself, You Don’t Want Talent](https://theminusoneguarantee.substack.com/p/if-you-demand-more-from-employees): View this post on the web at https://theminusoneguarantee.substack.com/p/if-you-demand-more-from-employees
 - [2026-11-10 — Young People Were Told to Study More. Now Companies Punish Them for Knowing Too Much.](https://theminusoneguarantee.substack.com/p/young-people-were-told-to-study-more): View this post on the web at https://theminusoneguarantee.substack.com/p/young-people-were-told-to-study-more
@@ -55,6 +56,5 @@ Canonical articles are hosted on Substack. This GitHub Pages project provides a 
 - [2026-09-27 — If You Need Financial Handcuffs to Retain Employees, Your Company Deserves to Lose Them](https://theminusoneguarantee.substack.com/p/if-you-need-financial-handcuffs-to): View this post on the web at https://theminusoneguarantee.substack.com/p/if-you-need-financial-handcuffs-to
 - [2026-09-26 — Your Salary Is Not Your Market Value. It’s Yesterday’s Price Tag.](https://theminusoneguarantee.substack.com/p/your-salary-is-not-your-market-value): View this post on the web at https://theminusoneguarantee.substack.com/p/your-salary-is-not-your-market-value
 - [2026-09-25 — If You Haven’t Raised Your Business Standards in 30 Days, You’re Already Training Customers to Leave](https://theminusoneguarantee.substack.com/p/if-you-havent-raised-your-business): View this post on the web at https://theminusoneguarantee.substack.com/p/if-you-havent-raised-your-business
-- [2026-09-24 — Your Company Doesn’t Need More Positive People. It Needs a “Puppy-Shooter” Armed With “-1.”](https://theminusoneguarantee.substack.com/p/your-company-doesnt-need-more-positive): View this post on the web at https://theminusoneguarantee.substack.com/p/your-company-doesnt-need-more-positive
 
-Total indexed articles: 303
+Total indexed articles: 304

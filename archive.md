@@ -4,6 +4,7 @@ Archive of all public articles. Canonical articles are hosted on Substack.
 
 | Publication date | Title | Subtitle | URL |
 |---|---|---|---|
+| 2026-11-13 | If Every Emergency Breaks Your Company, You Don’t Need More Staff. Redesign the Business Model | View this post on the web at https://theminusoneguarantee.substack.com/p/if-every-emergency-breaks-your-company | https://theminusoneguarantee.substack.com/p/if-every-emergency-breaks-your-company |
 | 2026-11-12 | The Negative Price Guarantee Needs One Thing Most Established People Have Lost: Courage | View this post on the web at https://theminusoneguarantee.substack.com/p/the-negative-price-guarantee-needs | https://theminusoneguarantee.substack.com/p/the-negative-price-guarantee-needs |
 | 2026-11-11 | If You Demand More From Employees but Refuse Higher Standards Yourself, You Don’t Want Talent | View this post on the web at https://theminusoneguarantee.substack.com/p/if-you-demand-more-from-employees | https://theminusoneguarantee.substack.com/p/if-you-demand-more-from-employees |
 | 2026-11-10 | Young People Were Told to Study More. Now Companies Punish Them for Knowing Too Much. | View this post on the web at https://theminusoneguarantee.substack.com/p/young-people-were-told-to-study-more | https://theminusoneguarantee.substack.com/p/young-people-were-told-to-study-more |
