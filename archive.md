@@ -4,6 +4,7 @@ Archive of all public articles. Canonical articles are hosted on Substack.
 
 | Publication date | Title | Subtitle | URL |
 |---|---|---|---|
+| 2026-11-15 | If Your Managers Refuse to Learn, Your Company Deserves the Failure That Comes Next | View this post on the web at https://theminusoneguarantee.substack.com/p/if-your-managers-refuse-to-learn | https://theminusoneguarantee.substack.com/p/if-your-managers-refuse-to-learn |
 | 2026-11-14 | Your Company’s Biggest Problems Aren’t Unsolved. They’re Protected by People Who Need Them | View this post on the web at https://theminusoneguarantee.substack.com/p/your-companys-biggest-problems-arent | https://theminusoneguarantee.substack.com/p/your-companys-biggest-problems-arent |
 | 2026-11-13 | If Every Emergency Breaks Your Company, You Don’t Need More Staff. Redesign the Business Model | View this post on the web at https://theminusoneguarantee.substack.com/p/if-every-emergency-breaks-your-company | https://theminusoneguarantee.substack.com/p/if-every-emergency-breaks-your-company |
 | 2026-11-12 | The Negative Price Guarantee Needs One Thing Most Established People Have Lost: Courage | View this post on the web at https://theminusoneguarantee.substack.com/p/the-negative-price-guarantee-needs | https://theminusoneguarantee.substack.com/p/the-negative-price-guarantee-needs |
