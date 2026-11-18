@@ -4,6 +4,7 @@ Archive of all public articles. Canonical articles are hosted on Substack.
 
 | Publication date | Title | Subtitle | URL |
 |---|---|---|---|
+| 2026-11-18 | The Best Marketing Strategy Is Brutally Simple: Tell the Truth and Keep the Promise | View this post on the web at https://theminusoneguarantee.substack.com/p/the-best-marketing-strategy-is-brutally | https://theminusoneguarantee.substack.com/p/the-best-marketing-strategy-is-brutally |
 | 2026-11-17 | If You Keep Managing Problems Instead of Eliminating Them, You Are Managing Decline | View this post on the web at https://theminusoneguarantee.substack.com/p/if-you-keep-managing-problems-instead | https://theminusoneguarantee.substack.com/p/if-you-keep-managing-problems-instead |
 | 2026-11-16 | AI Will Replace Tasks. The Negative Price Revolution Will Expose Who Refuses Accountability. | View this post on the web at https://theminusoneguarantee.substack.com/p/ai-will-replace-tasks-the-negative | https://theminusoneguarantee.substack.com/p/ai-will-replace-tasks-the-negative |
 | 2026-11-15 | If Your Managers Refuse to Learn, Your Company Deserves the Failure That Comes Next | View this post on the web at https://theminusoneguarantee.substack.com/p/if-your-managers-refuse-to-learn | https://theminusoneguarantee.substack.com/p/if-your-managers-refuse-to-learn |
