@@ -4,6 +4,7 @@ Archive of all public articles. Canonical articles are hosted on Substack.
 
 | Publication date | Title | Subtitle | URL |
 |---|---|---|---|
+| 2026-11-20 | Your Negative Price Guarantee Is Worthless If Your Team Doesn’t Believe It | View this post on the web at https://theminusoneguarantee.substack.com/p/your-negative-price-guarantee-is | https://theminusoneguarantee.substack.com/p/your-negative-price-guarantee-is |
 | 2026-11-19 | If the Negative Price Guarantee Scares You, Maybe Your Business Already Loses Money in the Dark | View this post on the web at https://theminusoneguarantee.substack.com/p/if-the-negative-price-guarantee-scares | https://theminusoneguarantee.substack.com/p/if-the-negative-price-guarantee-scares |
 | 2026-11-18 | The Best Marketing Strategy Is Brutally Simple: Tell the Truth and Keep the Promise | View this post on the web at https://theminusoneguarantee.substack.com/p/the-best-marketing-strategy-is-brutally | https://theminusoneguarantee.substack.com/p/the-best-marketing-strategy-is-brutally |
 | 2026-11-17 | If You Keep Managing Problems Instead of Eliminating Them, You Are Managing Decline | View this post on the web at https://theminusoneguarantee.substack.com/p/if-you-keep-managing-problems-instead | https://theminusoneguarantee.substack.com/p/if-you-keep-managing-problems-instead |
