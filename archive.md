@@ -4,6 +4,7 @@ Archive of all public articles. Canonical articles are hosted on Substack.
 
 | Publication date | Title | Subtitle | URL |
 |---|---|---|---|
+| 2026-11-22 | Negative Price Ultra-Guarantee: If You Won’t Fund Skills, Stop Complaining About Talent | View this post on the web at https://theminusoneguarantee.substack.com/p/negative-price-ultra-guarantee-if | https://theminusoneguarantee.substack.com/p/negative-price-ultra-guarantee-if |
 | 2026-11-21 | Brilliant Teams Can Lose Billions. A Negative Price Ultra-Guarantee Puts Strategy on Trial. | View this post on the web at https://theminusoneguarantee.substack.com/p/brilliant-teams-can-lose-billions | https://theminusoneguarantee.substack.com/p/brilliant-teams-can-lose-billions |
 | 2026-11-20 | Your Negative Price Guarantee Is Worthless If Your Team Doesn’t Believe It | View this post on the web at https://theminusoneguarantee.substack.com/p/your-negative-price-guarantee-is | https://theminusoneguarantee.substack.com/p/your-negative-price-guarantee-is |
 | 2026-11-19 | If the Negative Price Guarantee Scares You, Maybe Your Business Already Loses Money in the Dark | View this post on the web at https://theminusoneguarantee.substack.com/p/if-the-negative-price-guarantee-scares | https://theminusoneguarantee.substack.com/p/if-the-negative-price-guarantee-scares |
