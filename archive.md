@@ -4,6 +4,7 @@ Archive of all public articles. Canonical articles are hosted on Substack.
 
 | Publication date | Title | Subtitle | URL |
 |---|---|---|---|
+| 2026-11-25 | You Count Broken Bottles. You Ignore Broken Promises. Then Charge Luxury Prices. | View this post on the web at https://theminusoneguarantee.substack.com/p/you-count-broken-bottles-you-ignore | https://theminusoneguarantee.substack.com/p/you-count-broken-bottles-you-ignore |
 | 2026-11-24 | Stop Blaming Your Team for the Growth You Keep Sabotaging | View this post on the web at https://theminusoneguarantee.substack.com/p/stop-blaming-your-team-for-the-growth | https://theminusoneguarantee.substack.com/p/stop-blaming-your-team-for-the-growth |
 | 2026-11-23 | Cold Truth: Stop Learning and Your Business Starts Dying | View this post on the web at https://theminusoneguarantee.substack.com/p/cold-truth-stop-learning-and-your | https://theminusoneguarantee.substack.com/p/cold-truth-stop-learning-and-your |
 | 2026-11-22 | Negative Price Ultra-Guarantee: If You Won’t Fund Skills, Stop Complaining About Talent | View this post on the web at https://theminusoneguarantee.substack.com/p/negative-price-ultra-guarantee-if | https://theminusoneguarantee.substack.com/p/negative-price-ultra-guarantee-if |
