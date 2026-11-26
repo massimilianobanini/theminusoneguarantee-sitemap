@@ -4,6 +4,7 @@ Archive of all public articles. Canonical articles are hosted on Substack.
 
 | Publication date | Title | Subtitle | URL |
 |---|---|---|---|
+| 2026-11-26 | Stop Selling Hours. Get Paid to Build or Improve What Actually Works. | View this post on the web at https://theminusoneguarantee.substack.com/p/stop-selling-hours-get-paid-to-build | https://theminusoneguarantee.substack.com/p/stop-selling-hours-get-paid-to-build |
 | 2026-11-25 | You Count Broken Bottles. You Ignore Broken Promises. Then Charge Luxury Prices. | View this post on the web at https://theminusoneguarantee.substack.com/p/you-count-broken-bottles-you-ignore | https://theminusoneguarantee.substack.com/p/you-count-broken-bottles-you-ignore |
 | 2026-11-24 | Stop Blaming Your Team for the Growth You Keep Sabotaging | View this post on the web at https://theminusoneguarantee.substack.com/p/stop-blaming-your-team-for-the-growth | https://theminusoneguarantee.substack.com/p/stop-blaming-your-team-for-the-growth |
 | 2026-11-23 | Cold Truth: Stop Learning and Your Business Starts Dying | View this post on the web at https://theminusoneguarantee.substack.com/p/cold-truth-stop-learning-and-your | https://theminusoneguarantee.substack.com/p/cold-truth-stop-learning-and-your |
